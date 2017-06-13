@@ -747,28 +747,7 @@ foreach $indiv_id (keys %indivs) {
         print OUT_FILE "<a href=\"$indiv_sour{$indiv_id}.$extension\">$str_source</a><br/><br/>\n";
     }
 
-
-
-
-    # SLGS date and place
-    if ($indiv_slgs{$indiv_id}) {
-        print OUT_FILE "$str_sealing_spouse ";
-        if ($indiv_slgs_date{$indiv_id}) {
-            print OUT_FILE "$indiv_slgs_date{$indiv_id}";
-            if ($indiv_slgs_plac{$indiv_id} || $indiv_slgs_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_slgs_plac{$indiv_id}) {
-            print OUT_FILE "$indiv_slgs_plac{$indiv_id}";
-            if ($indiv_slgs_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_slgs_temp{$indiv_id}) {
-            print OUT_FILE "$indiv_slgs_temp{$indiv_id}";
-        }
-        print OUT_FILE "<br/>\n";
-    }
-    print OUT_FILE "<p/>\n";
+#    print OUT_FILE "<p/>\n";
 
     # occupation
     if ($indiv_occu{$indiv_id}) {
@@ -1336,7 +1315,7 @@ sub burialDatePlace {
 }
 
 sub baptismDatePlace {
-  my $baptismDatePlace = "";
+  my $baptismDatePlace = "aaa";
   $printComma = 0;
 
   if ($indiv_bapl{$indiv_id}) {
@@ -1408,6 +1387,29 @@ sub sealingChildrenDatePlace {
   return $sealingChildrenDatePlace;
 }
 
+sub sealingSpouseDatePlace {
+  my $sealingSpouseDatePlace = "";
+  $printComma = 0;
+
+  if ($indiv_slgs{$indiv_id}) {
+      $sealingSpouseDatePlace .= "$str_sealing_spouse ";
+      if ($indiv_slgs_date{$indiv_id}) {
+        $sealingSpouseDatePlace .= "$indiv_slgs_date{$indiv_id}";
+        $printComma = 1;
+      }
+      if ($indiv_slgs_plac{$indiv_id}) {
+        if ($printComma) { $sealingSpouseDatePlace .= ", "; }
+        $sealingSpouseDatePlace .= "$indiv_slgs_plac{$indiv_id}";
+        $printComma = 1;
+      }
+      if ($indiv_slgs_temp{$indiv_id}) {
+        if ($printComma) { $sealingSpouseDatePlace .= ", "; }
+        $sealingSpouseDatePlace .= "$indiv_slgs_temp{$indiv_id}";
+      }
+      $sealingSpouseDatePlace .= "<br/>";
+  }
+}
+
 #############################################
 # Return the ancestor table
 sub tableAncestors {
@@ -1453,6 +1455,7 @@ sub tableAncestors {
     $tableAncestors .= &baptismDatePlace;
     $tableAncestors .= &endowmentDatePlace;
     $tableAncestors .= &sealingChildrenDatePlace;
+    $tableAncestors .= &sealingSpouseDatePlace;
     $tableAncestors .= "</td>\n";
     $tableAncestors .= "</tr>\n";
 
