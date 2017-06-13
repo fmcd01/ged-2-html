@@ -1,0 +1,5801 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P370@ INDI 
+1 NATI South Africa
+2 DATE 09 Apr 1969
+2 PLAC Pretoria, Gauteng, South Africa
+1 RESI 
+1 BIRT 
+2 DATE 09 Apr 1969
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX M
+1 NAME Francois /MCDONALD/
+1 NATI United Kingdom
+2 DATE 08 Mar 2008
+2 PLAC London, UK
+1 FAMC @F84@
+0 @P1@ INDI 
+1 RESI 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 ADDR 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 SEX M
+1 NAME Basie /SMIT/
+1 NOTE Worked for SARS & H
+1 FAMS @F1@
+0 @P2@ INDI 
+1 SEX F
+1 NAME Ann /SMIT/
+1 FAMC @F1@
+0 @P3@ INDI 
+1 SEX F
+1 NAME Yvonne /SMIT/
+1 FAMC @F1@
+0 @P4@ INDI 
+1 ALIA Daisy
+1 SEX F
+1 NAME Elizabeth /MCDONALD/
+1 NOTE Died aged 40
+1 FAMC @F87@
+1 FAMS @F1@
+0 @P5@ INDI 
+1 SEX F
+1 NAME Aletta Johanna /ERASMUS/
+1 FAMC @F11@
+0 @P6@ INDI 
+1 DEAT 
+2 DATE 28 Dec 1919
+2 PLAC Weltevreden, Middelburg Tvl
+1 BIRT 
+2 DATE Abt. 26 Jul 1848
+1 SEX F
+1 ALIA Mrs Hester Catharina Erasmus
+1 NAME Hester Catharina /GROBLER/
+1 NAME /Hester/
+1 FAMC @F76@
+1 FAMS @F11@
+0 @P7@ INDI 
+1 DEAT 
+2 DATE 1911
+2 PLAC Transvaal
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=81473&indiv=try
+3 DATA
+4 TEXT Record for Karel Stefanus Erasmus
+3 _APID 1,61359::81473
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 11 Oct 1899-31 May 1902
+2 PLAC South Africa
+1 EVEN Middelburg RC, Unique ID 86284
+2 TYPE Concentration Camp
+2 DATE Bet. 26 Jul 1901-10 Sep 1902
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 NAME Karel Stefanus /ERASMUS/
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=81473&indiv=try
+3 DATA
+4 TEXT Record for Karel Stefanus Erasmus
+3 _APID 1,61359::81473
+1 SEX M
+1 BIRT 
+2 DATE 16 Jan 1827
+1 DEAT 
+2 DATE 03 May 1911
+2 PLAC Weltevreden, Middelburg Tvl
+1 BIRT 
+2 DATE 18 Jan 1827
+2 PLAC Somerset East Suid Afrika
+1 NOTE Karel Stephanus Erasmus en Hester het 12 kinders gehad, o.a. ’n tweeling (Karel en Piet) - Bets Henrico
+2 CONT The Erasmus&apos;s owned a lot of land, it is said the built the Pretoria Spookhuis in Erasmusrand. Their land stretched from the Hartebeespoort dam in the West to Bronkhorstspruit in the East.
+2 CONT RIN: MH:N43
+2 CONT The Erasmus&apos;s owned a lot of land, it is said the built the Pretoria Spookhuis in Erasmusrand. Their land stretched from the Hartebeespoort dam in the West to Bronkhorstspruit in the East.
+2 CONT RIN: MH:N43
+1 FAMC @F118@
+1 FAMS @F11@
+1 FAMS @F122@
+0 @P8@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 20 Sep 1767
+2 PLAC Swellendam, Eastern Cape, South Africa
+1 NAME Cornelis /VAN TONDER/
+1 FAMC @F107@
+1 FAMS @F2@
+0 @P9@ INDI 
+1 DEAT 
+2 DATE 14 May 1882
+2 PLAC Kroonstad, Free State, South Africa
+1 SEX M
+1 BIRT 
+2 DATE 24 Feb 1807
+2 PLAC Swellendam, Cape, South Africa
+1 NAME Gerrit Jacobus Petrus /VAN TONDER/
+1 FAMC @F2@
+0 @P10@ INDI 
+1 BIRT 
+2 DATE 1765
+2 PLAC Paarl, Cape, South Africa
+1 SEX F
+1 NAME Petronella /OOSTHUIZEN/
+1 FAMS @F2@
+0 @P11@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 29 Jul 1798
+2 PLAC Swellendam, Cape, South Africa
+1 NAME Carel Johannes /VAN TONDER/
+1 FAMC @F2@
+0 @P12@ INDI 
+1 DEAT 
+2 DATE 22 Jul 1870
+1 BIRT 
+2 DATE 1793
+2 PLAC Swellendam, Cape, South Africa
+1 SEX M
+1 NAME Willem Marthinus /VAN TONDER/
+1 FAMC @F2@
+0 @P13@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 17 May 1787
+2 PLAC Swellendam, Cape, South Africa
+1 NAME Maria Elizabeth /VAN TONDER/
+1 FAMC @F2@
+0 @P14@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 10 Dec 1802
+2 PLAC Swellendam, Cape, South Africa
+1 NAME Anna Cornelia Petronella /VAN TONDER/
+1 FAMC @F2@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 09 Jan 1789
+2 PLAC Swellendam, Cape, South Africa
+1 NAME Johannes Jacobus Petrus /VAN TONDER/
+1 SEX M
+1 FAMC @F2@
+0 @P16@ INDI 
+1 BAPM 
+2 DATE 21 Mar 1784
+2 PLAC Swellendam
+1 BIRT 
+2 DATE 21 Mar 1784
+2 PLAC Swellendam, Western Cape, South Africa
+1 DEAT 
+2 DATE 1839
+2 PLAC Swellendam, Western Cape, South Africa
+1 NAME Cornelis Johannes /VAN TONDER/
+1 SEX M
+1 NOTE burger Swellendam
+2 CONT RIN: MH:N500306
+1 FAMC @F2@
+1 FAMS @F54@
+0 @P17@ INDI 
+1 DEAT 
+2 DATE Mar 1841
+1 BIRT 
+2 DATE 1751
+2 PLAC Tulbagh, Cape, South Africa
+1 NAME Anna Cornelia /BOTHA/
+1 SEX F
+1 FAMS @F107@
+0 @P18@ INDI 
+1 BIRT 
+2 DATE 24 Jun 1715
+2 PLAC Stellenbosch, Western Cape, South Africa
+1 DEAT 
+2 DATE 10 Apr 1794
+2 PLAC Tulbagh, South Africa
+1 SEX M
+1 NAME Cornelis Andries /VAN TONDEREN/
+1 FAMC @F16@
+1 FAMS @F107@
+0 @P19@ INDI 
+1 SEX M
+1 NAME Pieter /LOMBARD/
+1 FAMC @F9@
+1 FAMS @F3@
+0 @P20@ INDI 
+1 NAME Martha /FOURIE/
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F3@
+0 @P21@ INDI 
+1 BIRT 
+2 DATE 1659
+2 PLAC Soudiere, Dauphine, France
+1 SEX F
+1 NAME Marie /COUTEAU/
+1 FAMS @F9@
+0 @P22@ INDI 
+1 OCCU Farmer
+1 ALIA Pierre LOMBAARD
+1 BIRT 
+2 DATE 27 May 1658
+2 PLAC Pointaix, Dauphiné, France
+1 DEAT 
+2 DATE 1716
+2 PLAC Stellenbosch, Western Cape, South Africa
+1 SEX M
+1 NAME Pierre /LOMBARD/
+1 FAMC @F15@
+1 FAMS @F9@
+0 @P23@ INDI 
+1 DEAT 
+2 DATE 1786
+2 PLAC Cape of Good Hope
+1 BIRT 
+2 DATE Abt. 1724
+1 NAME Johannes Anthonie /LOMBARD/
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F79@
+0 @P24@ INDI 
+1 ALIA Sometimes misspelled: Judith
+1 BAPM 
+2 PLAC Graaf Reinette (kerklik egter geval onder Cradock)
+1 BIRT 
+2 DATE 12 Jun 1823
+2 PLAC Cape Colony
+1 DEAT 
+2 DATE 17 Apr 1891
+2 PLAC "Holfontein" dist. Middelberg, South Africa
+1 SEX F
+1 NAME Judik Johanna /LE ROUX/
+1 NAME Judith Johan /Le Roux/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 FAMC @F32@
+1 FAMS @F117@
+0 @P25@ INDI 
+1 BAPM 
+2 DATE 26 Dec 1819
+2 PLAC Cradock Kaapkolonie
+1 DEAT 
+2 DATE 29 Jun 1888
+2 PLAC "WitbanK", dist. Middelburg, South Africa
+1 SEX M
+1 BIRT 
+2 DATE 19 Jul 1819
+2 PLAC Cradock Kaapkolonie
+1 NAME Abraham Gerhardus Wilhelm /VAN TONDER/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 NAME Abraham Gerhardus Wilhelm /Van Tonder/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 FAMC @F54@
+1 FAMS @F117@
+0 @P26@ INDI 
+1 BAPM 
+2 DATE 25 Dec 1864
+2 PLAC Reddersburg, Free State, South Africa
+1 BIRT 
+2 DATE 12 Nov 1864
+2 PLAC Reddersburg, Free State, South Africa
+1 NAME Barbara Jacomina /VAN TONDER/
+1 SEX F
+1 FAMC @F117@
+0 @P27@ INDI 
+1 BAPM 
+2 DATE 07 Mar 1868
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 BIRT 
+2 DATE 10 Jun 1867
+2 PLAC Treurkop
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 SEX M
+1 NAME Christiaan Rudolf /VAN TONDER/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 FAMC @F117@
+0 @P28@ INDI 
+1 BURI 
+2 PLAC Rebeccastraat Begraafplaas Pretoria
+1 BIRT 
+2 DATE 14 Jul 1845
+2 PLAC Pretoria, Gauteng, South Africa
+1 DEAT 
+2 DATE 19 May 1934
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX M
+1 NAME Cornelius Johannes Herculaas /VAN TONDER/
+1 FAMC @F117@
+1 FAMS @F119@
+1 FAMS @F120@
+0 @P29@ INDI 
+1 BAPM 
+2 DATE 09 Feb 1862
+2 PLAC Burgersdorp
+1 BIRT 
+2 DATE 19 Jun 1861
+1 NAME Magrieta Johanna Hendrina Sophia /VAN TONDER/
+1 SEX F
+1 FAMC @F117@
+0 @P30@ INDI 
+1 BAPM 
+2 DATE 08 Jan 1860
+2 PLAC Burgersdorp
+1 BIRT 
+2 DATE 19 Feb 1859
+2 PLAC Burgersdorp
+1 DEAT 
+2 DATE 18 Jul 1933
+2 PLAC Putsfontein distrik Benoni
+1 SEX M
+1 NAME Abraham Gerhardes Wilhelmus /VAN TONDER/
+1 FAMC @F117@
+0 @P31@ INDI 
+1 BIRT 
+2 DATE 1851
+1 SEX F
+1 NAME Judith Johanna Elizabeth Aletta /VAN TONDER/
+1 FAMC @F117@
+0 @P32@ INDI 
+1 DEAT 
+2 DATE 24 Jun 1951
+1 SEX F
+1 BIRT 
+2 DATE Sep 1849
+1 NAME Engela Carilina Maria /VAN TONDER/
+1 FAMC @F117@
+0 @P33@ INDI 
+1 BIRT 
+2 DATE 12 Sep 1790
+2 PLAC Middelburg, Cape, South Africa
+1 DEAT 
+2 DATE 30 Nov 1843
+2 PLAC Cape Prov. South Africa
+1 NAME Jan Hendrik /LE ROUX/
+1 SEX M
+1 FAMS @F32@
+0 @P34@ INDI 
+1 BAPM 
+2 DATE 03 May 1795
+1 BIRT 
+2 DATE Abt. 18 Mar 1795
+2 PLAC Graaff Reinet
+1 DEAT 
+2 DATE 30 Apr 1863
+2 PLAC Dordrecht distrik Aliwlal Noord
+1 SEX F
+1 NAME Maria Christina Gertruida /VILJOEN/
+1 FAMS @F32@
+0 @P35@ INDI 
+1 SEX F
+1 NAME Suzanne /CORDIER/
+1 FAMS @F12@
+0 @P36@ INDI 
+1 SEX M
+1 NAME Louis /FOURIE/
+1 FAMS @F12@
+0 @P37@ INDI 
+1 BIRT 
+2 DATE 1889
+1 NAME Anna Susanna /VAN DER WALT/
+1 SEX F
+1 FAMC @F63@
+0 @P38@ INDI 
+1 BIRT 
+2 DATE Abt. 1850
+1 DEAT 
+2 DATE 06 Jan 1936
+2 PLAC Kwarriehoek, Potgietersrust, SA
+1 SEX F
+1 NAME Anna Susanna /KRUGER/
+1 FAMC @F31@
+1 FAMS @F63@
+0 @P39@ INDI 
+1 BIRT 
+2 DATE 22 Oct 1849
+2 PLAC Burgersdorp
+1 DEAT 
+2 DATE 12 Dec 1928
+2 PLAC Burgersdorp
+1 SEX M
+1 NAME Tjaart Nicolaas /VAN DER WALT/
+1 FAMC @F42@
+1 FAMS @F63@
+0 @P40@ INDI 
+1 BIRT 
+2 DATE 27 Feb 1853
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX F
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Margaretha Elizabeth Jacoba Frederika /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P41@ INDI 
+1 BIRT 
+2 DATE 1835
+1 DEAT 
+2 DATE 26 Dec 1909
+2 PLAC Klipfontein, Gauteng, South Africa
+1 SEX F
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Maria Jacoba /van STADEN/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 DEAT 
+2 DATE 26 Dec 1904
+2 PLAC Pretoria, Gauteng, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F78@
+1 FAMS @F77@
+0 @P42@ INDI 
+1 RESI 
+2 PLAC South Africa
+2 SOUR @S810174177@
+3 PAGE Various Military Records from Institutions throughout South Africa; Collection: 1902 St Helena Prisoners of War; Repository: National Archives
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaMilitary&h=28593&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus van Staden
+3 _APID 1,60894::28593
+1 _MILT 
+2 DATE 28 Aug 1902
+2 PLAC St Helena
+2 SOUR @S810174177@
+3 PAGE Various Military Records from Institutions throughout South Africa; Collection: 1902 St Helena Prisoners of War; Repository: National Archives
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaMilitary&h=28593&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus van Staden
+3 _APID 1,60894::28593
+1 BIRT 
+2 DATE 27 Sep 1831
+2 PLAC Uitenhage, Eastern Cape, South Africa
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 DEAT 
+2 DATE 14 Mar 1918
+2 PLAC Klipfontein, Gauteng, South Africa
+1 SEX M
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Johannes Jacobus /van STADEN/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+2 SOUR @S810174177@
+3 PAGE Various Military Records from Institutions throughout South Africa; Collection: 1902 St Helena Prisoners of War; Repository: National Archives
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaMilitary&h=28593&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus van Staden
+3 _APID 1,60894::28593
+1 DEAT Age: 86
+2 DATE 14 Mar 1918
+2 PLAC Pretoria, Gauteng, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F7@
+1 FAMS @F77@
+0 @P43@ INDI 
+1 BIRT 
+2 DATE 30 Aug 1810
+1 NAME Andries Louis /LOMBARD/
+1 SEX M
+1 FAMC @F47@
+0 @P44@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE Abt. 1776
+1 NAME Cornelia /DE WEEGE/
+1 FAMS @F47@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE 12 Mar 1775
+2 PLAC Swellendam, Western Cape, South Africa
+1 SEX M
+1 NAME Andries Louis /LOMBARD/
+1 FAMC @F79@
+1 FAMS @F47@
+0 @P46@ INDI 
+1 BIRT 
+2 DATE 10 Dec 1894
+2 PLAC Weltevreden, Middelburg Tvl
+1 RESI <Address>Benoni, Gauteng, South Africa</Address>
+1 ADDR 
+2 PLAC Benoni, Gauteng, South Africa
+1 ALIA Frikkie
+1 NAME Frederik Stefanus /SCHOEMAN/
+1 SEX M
+1 BIRT 
+2 DATE Abt. 26 Jul 1894
+1 NOTE He was a teacher and wild game hunter. Renowned fro speaking very slowly but with gravitas.
+2 CONT He was a teacher and wild game hunter. Renowned fro speaking very slowly but with gravitas.
+2 CONT RIN: MH:N25
+2 CONT Aunt Bets has a photo of him.
+2 CONT RIN: MH:N39
+1 FAMC @F91@
+1 FAMS @F4@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE 01 Jan 1943
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 SEX F
+1 NAME Joebbie /SCHOEMAN/
+1 FAMC @F4@
+0 @P48@ INDI 
+1 ALIA Tannie Willie
+1 SEX F
+1 NAME Unknown /WILLIE/
+1 NAME /Willie/
+1 NOTE It is thought that she was the second wife
+1 FAMS @F4@
+0 @P49@ INDI 
+1 EVEN 
+2 TYPE Concentration Camp
+2 DATE 26 Jul 1901
+2 PLAC Middelburg, Mpumalanga, South Africa
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 RESI <Address>Farm: Weltevreden</Address>
+2 DATE 26 Jul 1901
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 NATI Transvaal
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 SEX F
+1 NAME Elizabetha Johanna A /ERASMUS/
+1 FAMC @F11@
+1 FAMS @F91@
+0 @P50@ INDI 
+1 EVEN 
+2 TYPE Farm / property name
+2 PLAC Weltevreden, Middelburg Tvl
+1 RESI <Address>Farm: Weltevreden</Address>
+2 DATE 1900
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 _MILT Commando during Second Anglo Boer War
+2 DATE Bet. 1899-1902
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 EVEN Then called Ceylon. The above was a POW camp for Boers captured during the second Anglo Boer War.
+2 TYPE Prisoner of War
+2 DATE Bet. 1899-1902
+2 PLAC Sri Lanka
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 DEAT 
+2 DATE 24 Dec 1931
+2 PLAC Unknown
+1 ADDR Farm: Weltevreden
+2 DATE 1900
+2 PLAC Selons River, Mpumalanga, South Africa
+1 BIRT 
+2 DATE 05 Jun 1868
+2 PLAC Lydenburg Tvl South Africa
+1 NAME Willem Jacobus /SCHOEMAN/
+1 SEX M
+1 BIRT 
+2 DATE 05 Jun 1869
+2 PLAC Lydenburg Tvl South Africa
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 DEAT 
+2 DATE 24 Dec 1931
+2 PLAC Potgietersrus N Tvl South Africa
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 NOTE From the farm Weltevreden, Selons River in Mpumalanga, South Africa. POW in Ceylon during the Anglo Boer war 
+2 CONT From the farm Weltevreden, Selons River in Mpumalanga, South Africa. POW in Ceylon during the Anglo Boer war
+2 CONT RIN: MH:N31
+2 CONT From the farm Weltevreden, Selons River in Mpumalanga, South Africa. POW in Ceylon during the Anglo Boer war
+2 CONT RIN: MH:N31
+2 CONT
+2 CONT From My Heritage
+2 CONT
+2 CONT Nota 1.
+2 CONT
+2 CONT
+2 CONT Willem Jacobus Schoeman getroud met Elizabeth Johanna Adriana Schoeman ( Erasmus) die dogter van sy moeder se halfsuster. Hy dra die name van sy oupa aan moederskant, Willem Jacobus Grobler terwys s
+2 CONC y vrou EJA Schoeman/Erasmus ook die kleindogter aan moederskant van Willem Jacobus Grobler is.
+2 CONT
+2 CONT
+2 CONT Nota 2.
+2 CONT
+2 CONT
+2 CONT Gelys onder Legue of Veterans.  Tak Leeuwklip ID 5658 Veldt. RJ Swanepoel.
+2 CONT
+2 CONT Gevang 20/02/1902. Hy is saam met sy swaer Piet Erasmus na Ceylon en daarna Bermuda gestuur waar hulle tot na die oorlog gebly het.    Oorlede 24/12/1931
+1 FAMC @F6@
+1 FAMC @F71@
+1 FAMS @F91@
+1 FAMS @F92@
+0 @P51@ INDI 
+1 EVEN Middelburg RC
+2 TYPE Concentration Camp
+2 DATE 26 Jul 1901
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 ADDR Farm: Weltevreden
+2 DATE 26 Jul 1901
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 NATI Transvaal
+1 EVEN Second Boer War
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 SEX F
+1 BIRT 
+2 DATE Abt. 26 Jun 1872
+1 NAME Elizabetha Johanna Adriana /ERASMUS/
+1 BIRT 
+2 DATE 1887
+1 NAME Anna Magaretha /Erasmus/
+1 NOTE Sent to a concentration camp near Voortrekkerhoogte (Irene) with her seven children. Only one child survives the ordeal, Frikkie (FS, Frederik Stefanus?). Returned with a foster child, Nellie de Jager
+2 CONC . My aunt Bets is named after this women.
+1 FAMC @F11@
+1 FAMS @F92@
+0 @P52@ INDI 
+1 NAME Jan Christiaan /DAMES/
+1 SEX M
+1 NOTE Hy is &apos;n 37jarige wewenaar, &apos;n kontrakteur van Louis Trichardt toe hy in die huwelik tree met Johanna Blignaut.
+2 CONT
+2 CONT Bronne / Sources· Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 66151
+2 CONT
+2 CONT · Bonnie Sydow
+1 FAMS @F5@
+0 @P53@ INDI 
+1 ALIA Ousus
+1 BIRT 
+2 DATE Abt. 1905
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/11477-i11350
+1 NAME Johanna Catharina Wilhelmina /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/11477-i11350
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F5@
+0 @P54@ INDI 
+1 DEAT Age: 71
+2 DATE 18 Jan 1944
+2 PLAC Hartbeeshoek, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 16 Jan 1873
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX M
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Petrus Johannes /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P55@ INDI 
+1 BIRT 
+2 DATE 01 Aug 1812
+1 SEX F
+1 NAME Maria Catharina Barendina /LOMBARD/
+1 FAMC @F47@
+0 @P56@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 18 Jun 1907
+1 NAME Machiel /SCHOEMAN/
+1 BIRT 
+2 DATE 1908
+1 NAME Mechiel /SCHOEMAN/
+1 NOTE Disappeared completely without trace. No one spoke about him ever, it&apos;s though that he may be connected to a scandal of sorts.
+2 CONT
+2 CONT Also said that he was in some sort of institution, Witrand, because he disagreed with the government. He died there.
+2 CONT Disappeared completely without trace. No one spoke about him ever, it&apos;s though that he may be connected to a scandal of sorts.
+2 CONT
+2 CONT
+2 CONT Also said that he was in some sort of institution, Witrand, because he disagreed with the government. He died there.
+2 CONT RIN: MH:N27
+1 FAMC @F91@
+0 @P57@ INDI 
+1 DEAT 
+2 DATE 07 Oct 1906
+2 PLAC Zwartkoppies, Lydenburg
+1 SEX M
+1 BIRT 
+2 DATE 29 Oct 1829
+2 PLAC Rooiblom. Western Cape
+1 NAME Frederik Stefanus /SCHOEMAN/
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 FAMC @F53@
+1 FAMS @F6@
+1 FAMS @F121@
+0 @P58@ INDI 
+1 BIRT 
+2 DATE 09 Feb 1884
+1 DEAT 
+2 DATE 1914
+1 SEX F
+1 NAME Helena Susara /SCHOEMAN/
+1 FAMC @F121@
+0 @P59@ INDI 
+1 DEAT 
+2 DATE 23 Sep 1941
+2 PLAC Lydenburg Tvl South Africa
+1 NAME Johannes Nicolaas Hermanus /SCHOEMAN/
+1 SEX M
+1 BIRT 
+2 DATE 22 Jan 1863
+2 PLAC Lydenburg Tvl South Africa ?
+1 FAMC @F121@
+0 @P60@ INDI 
+1 BIRT 
+2 DATE 30 Jul 1843
+2 PLAC Potchefstroom, North West South Africa, South Africa
+1 DEAT 
+2 DATE 16 Sep 1876
+2 PLAC Orange Free State
+1 NAME Anna Helena Johanna /Grobler/
+1 SEX F
+1 FAMS @F6@
+0 @P61@ INDI 
+1 DEAT 
+2 DATE 20 Oct 1863
+2 PLAC Lydenburg Tvl South Africa
+1 BIRT 
+2 DATE 08 Nov 1797
+2 PLAC George, Western Cape, South Africa
+1 SEX F
+1 NAME Anna Catharina /Nel/
+1 FAMS @F53@
+0 @P62@ INDI 
+1 DEAT 
+2 DATE 08 Sep 1864
+2 PLAC Lydenburg Tvl South Africa
+1 BIRT 
+2 DATE 29 Jul 1793
+2 PLAC George, Western Cape, South Africa
+1 SEX M
+1 NAME Frederik Stefanus /SCHOEMAN/
+1 FAMC @F55@
+1 FAMS @F53@
+0 @P63@ INDI 
+1 DEAT Age: 91
+2 DATE 24 May 1898
+2 PLAC Onverwacht, Rustenburg District, Limpopo, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 08 Nov 1806
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX M
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Johannes Jurie /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMS @F7@
+0 @P64@ INDI 
+1 DEAT 
+2 DATE 12 Jan 1892
+2 PLAC Onverwacht, Rustenburg District, Limpopo, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX F
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Susanna Josina /Viljoen/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 DEAT 
+2 DATE 1892
+2 PLAC South Africa
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=88229&indiv=try
+3 DATA
+4 TEXT Record for Susanna Josina Van Staden
+3 _APID 1,61359::88229
+1 NAME Susanna Josina /Van Staden/
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=88229&indiv=try
+3 DATA
+4 TEXT Record for Susanna Josina Van Staden
+3 _APID 1,61359::88229
+1 FAMS @F7@
+0 @P65@ INDI 
+1 ALIA Susanna Maria Jeanetta ESTERHUIZEN
+1 SEX F
+1 BIRT 
+2 DATE 01 Aug 1814
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Susanna Maria Jeanetta /LOMBARD/
+1 FAMC @F47@
+0 @P66@ INDI 
+1 ALIA Maria Catherina MEYER
+1 SEX F
+1 NAME Maria Catherina /LOMBARD/
+1 FAMC @F47@
+0 @P67@ INDI 
+1 DEAT 
+2 DATE 21 Feb 1919
+2 PLAC Klipfontein, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 1855
+2 PLAC Brits (Madibeng), Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX M
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Johannes Jurie /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P68@ INDI 
+1 SEX M
+1 NAME Cornelis Johannes Herculaas /VAN TONDER/
+1 FAMC @F119@
+1 FAMS @F8@
+0 @P69@ INDI 
+1 BAPM 
+2 DATE 02 Jul 1899
+2 PLAC Geref Kerk Reddersburg
+1 BIRT 
+2 DATE 12 Jun 1899
+1 NAME Charlotta Johanna Jacoba /VAN TONDER/
+1 SEX F
+1 FAMC @F8@
+0 @P70@ INDI 
+1 DEAT 
+2 DATE 31 Oct 1959
+1 SEX F
+1 BIRT 
+2 DATE 06 Sep 1880
+1 NAME Hester Sophia /VENTER/
+1 FAMS @F8@
+0 @P71@ INDI 
+1 DEAT 
+2 DATE 23 Nov 1898
+2 PLAC Reddersburg, Free State, South Africa
+1 BIRT 
+2 DATE 21 Feb 1848
+1 NAME Susanna Fransina Catharina /BUITENDAG/
+1 SEX F
+1 FAMC @F108@
+1 FAMS @F119@
+0 @P72@ INDI 
+1 ALIA Eve LOMBARD
+1 BIRT 
+2 DATE Abt. 1636
+2 PLAC Pointaix, Rhône-Alpes, France
+1 SEX F
+1 NAME Eve /DIT L'HERITIER/
+1 FAMS @F15@
+0 @P73@ INDI 
+1 BIRT 
+2 DATE Abt. 1632
+2 PLAC Aurel, Vaucluse, Provence-Alpes-Côte d'Azur, France
+1 DEAT 
+2 DATE 29 Nov 1686
+2 PLAC Saint Lattier, France
+1 SEX M
+1 NAME Antoine /LOMBARD/
+1 FAMC @F17@
+1 FAMS @F15@
+0 @P74@ INDI 
+1 BIRT 
+2 DATE 1906
+1 SEX F
+1 ALIA Bettie van der Nest
+1 NAME Elizabeth Johanna /SCHOEMAN/
+1 FAMC @F91@
+1 FAMS @F10@
+0 @P75@ INDI 
+1 NAME Gideon /VAN DER NEST/
+1 SEX M
+1 FAMC @F10@
+0 @P76@ INDI 
+1 ADDR 
+2 PLAC Swartwater, Northern Province, South Africa
+1 BIRT 
+2 DATE 01 Jan 1931
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+1 RESI 
+2 PLAC Swartwater, Northern Province, South Africa
+1 NAME Bettie /VAN DER NEST/
+1 SEX F
+1 ALIA Nig Bettie
+1 NOTE Aunt Bettie and Uncle Neels lived on the farm with her daughter and her husband. It is thought the farm was called ? Leeufontein.
+1 FAMC @F10@
+1 FAMS @F14@
+0 @P77@ INDI 
+1 SEX M
+1 NAME Neels /VAN DER NEST/
+1 NOTE Baie siek, in rolstoel. Altyd bed
+1 FAMS @F10@
+0 @P78@ INDI 
+1 NAME Anna Maria Margaretha /VAN TONDER/
+1 SEX F
+1 FAMC @F119@
+0 @P79@ INDI 
+1 DEAT 
+2 DATE Abt. 1986
+1 BIRT 
+2 DATE 07 Oct 1935
+1 NAME Willem Jacobus Jr /BRITS/
+1 SEX M
+1 FAMC @F115@
+0 @P80@ INDI 
+1 DEAT 
+2 PLAC Pretoria North
+1 ALIA Ousus
+1 BIRT 
+2 DATE 03 Sep 1908
+1 SEX F
+1 NAME Maria Magdalene /VAN DER WALT/
+1 NAME Maria Magdalena /Van der Walt/
+1 FAMC @F19@
+1 FAMS @F115@
+0 @P81@ INDI 
+1 DEAT 
+2 PLAC Pretoria North
+1 SEX M
+1 BIRT 
+2 DATE 18 Nov 1901
+1 NAME Willem Jacobus /BRITS/
+1 FAMS @F115@
+0 @P82@ INDI 
+1 SEX M
+1 NAME Mechiel /ERASMUS/
+1 FAMC @F11@
+0 @P83@ INDI 
+1 SEX M
+1 DEAT 
+2 DATE 28 Feb 1894
+1 NAME Lourens Rasmus /ERASMUS/
+1 FAMC @F122@
+0 @P84@ INDI 
+1 NAME Johannes Jacobus /ERASMUS/
+1 SEX M
+1 FAMC @F11@
+0 @P85@ INDI 
+1 BIRT 
+2 DATE 16 Oct 1860
+2 PLAC Middelburg Tvl South Africa
+1 DEAT 
+2 DATE 08 Jun 1937
+2 PLAC Lydenburg Tvl South Africa
+1 SEX F
+1 NAME Zacharia Petronella Hendrina /ERASMUS/
+1 FAMC @F122@
+0 @P86@ INDI 
+1 BIRT 
+2 DATE Abt. 26 Jul 1883
+1 SEX F
+1 NAME Margaretha Louisa /ERASMUS/
+1 NAME Magaretha Louisa /Erasmus/
+1 FAMC @F11@
+0 @P87@ INDI 
+1 BIRT 
+2 DATE Abt. 26 Jul 1887
+1 SEX F
+1 NAME Anna Margaretha /ERASMUS/
+1 FAMC @F11@
+0 @P88@ INDI 
+1 BIRT 
+2 DATE 25 Sep 1881
+2 PLAC Weltevreden, Middelburg Tvl
+1 DEAT 
+2 DATE 26 Jul 1946
+2 PLAC Nooitgedacht, Bethal, Tvl
+1 SEX F
+1 NAME Hester Catharina /ERASMUS/
+1 BIRT 
+2 DATE Abt. 26 Jul 1881
+1 FAMC @F11@
+1 FAMS @F30@
+0 @P89@ INDI 
+1 BIRT 
+2 DATE Abt. 26 Jul 1891
+2 PLAC Weltevreden, Middelburg Tvl
+1 SEX F
+1 NAME Maria Magdalena /ERASMUS/
+1 FAMC @F11@
+0 @P90@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE Bef. 12 Aug 1798
+1 NAME Maria Magdalena (Marie) /ERASMUS/
+1 FAMS @F118@
+0 @P91@ INDI 
+1 DEAT 
+2 DATE 1850
+2 PLAC Somerset East Suid Afrika
+1 SEX M
+1 BIRT 
+2 DATE 24 Feb 1793
+2 PLAC Graaff-Reinet, Eastern Cape, South Africa
+1 NAME Pieter Johannes /ERASMUS/
+1 FAMS @F118@
+0 @P92@ INDI 
+1 DEAT 
+2 DATE 05 May 1905
+2 PLAC Weltevreden, Middelburg Tvl
+1 SEX M
+1 BIRT 
+2 DATE Jan 1867
+2 PLAC Middelburg Tvl South Africa
+1 NAME Karel /ERASMUS/
+1 NAME Karel Stefanus /Erasmus/
+1 FAMC @F11@
+1 FAMS @F20@
+0 @P93@ INDI 
+1 SEX M
+1 NAME Pieter /ERASMUS/
+1 NAME Pieter Ernst /Erasmus/
+1 FAMC @F11@
+0 @P94@ INDI 
+1 DEAT 
+2 DATE 11 Jun 1890
+2 PLAC Ruigtespruit distr. Caledonrivier
+1 BIRT 
+2 DATE 1868
+2 PLAC De Hoop
+1 NAME Elizabeth Catharina /VAN TONDER/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F48@
+1 FAMS @F81@
+0 @P95@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 11 Apr 1890
+1 BAPM 
+2 DATE 29 Jun 1890
+2 PLAC Schweizer-Reneke Hervormde Kerk
+1 NAME Louis Jacobus /KOTZEE/
+1 FAMC @F81@
+0 @P96@ INDI 
+1 EVEN 
+2 TYPE Living
+2 DATE ten tye van afsterwe
+2 PLAC Ruigtespruit distr. Smithfield
+1 DEAT 
+2 DATE 30 Aug 1888
+2 PLAC Reddersburg, Free State, South Africa
+1 BIRT 
+2 DATE 9 Sep 1867 bereken
+1 SEX M
+1 NAME Jan Jacobus Petrus Albertus /COETZEE/
+1 FAMS @F48@
+0 @P97@ INDI 
+1 BAPM 
+2 DATE 12 Aug 1888
+2 PLAC Gereformeerde Kerk Reddersburg
+1 SEX M
+1 NAME Floris Petrus /COETZEE/
+1 NOTE Cornelis Johannes Herculaas van Tonder (oupa) 1891 as voog aangestel oor Floris Petrus.
+2 CONT RIN: MH:N500305
+1 FAMC @F48@
+0 @P98@ INDI 
+1 SEX M
+1 NAME Johannes Wilhelmus /KOTZE(E)/
+1 FAMS @F81@
+0 @P99@ INDI 
+1 BIRT 
+2 DATE 08 Aug 1957
+2 PLAC Pretoria
+1 DEAT 
+2 DATE 01 Dec 1985
+2 PLAC Pretoria
+1 SEX M
+1 NAME Andries Lewies /VAN DER WALT/
+1 FAMC @F58@
+0 @P100@ INDI 
+1 ADDR 144 Ben Viljoen Straat
+2 PLAC Pretoria-Noord, Gauteng, South Africa
+1 RESI 
+2 PLAC Pretoria-Noord, Gauteng, South Africa
+1 SEX F
+1 NAME Magrieta /UNKNOWN/
+1 NAME /Magrieta/
+1 FAMS @F58@
+0 @P101@ INDI 
+1 DEAT 
+2 DATE 01 Nov 1978
+1 BIRT 
+2 DATE 06 Jun 1911
+1 SEX M
+1 NAME Jan Antonie /VAN DER WALT/
+1 NAME Jan /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F58@
+0 @P102@ INDI 
+1 BIRT 
+2 DATE 23 Jan 1930
+1 DEAT 
+2 DATE 17 Aug 2006
+1 SEX M
+1 NAME Hendrik Tjaart /BRITS/
+1 FAMC @F115@
+0 @P103@ INDI 
+1 SEX F
+1 NAME Betsie /ROSSOUW/
+1 FAMC @F14@
+0 @P104@ INDI 
+1 SEX M
+1 NAME Thys /ROSSOUW/
+1 FAMC @F14@
+0 @P105@ INDI 
+1 SEX M
+1 NAME Corrie /ROSSOUW/
+1 FAMC @F14@
+0 @P106@ INDI 
+1 NAME Thys /ROSSOUW/
+1 SEX M
+1 FAMS @F14@
+0 @P107@ INDI 
+1 DEAT 
+2 DATE 03 Jul 1885
+2 PLAC Middelburg Tvl South Africa
+1 SEX M
+1 BIRT 
+2 DATE 30 Apr 1815
+2 PLAC George, Western Cape, South Africa
+1 NAME Willem Jacobus /GROBLER/
+1 FAMS @F76@
+0 @P108@ INDI 
+1 DEAT 
+2 DATE 19 Sep 1898
+1 BIRT 
+2 DATE 10 May 1818
+2 PLAC Tulbagh, Cape, South Africa
+1 NAME Elizabeth Johanna /MARé/
+1 SEX F
+1 FAMS @F76@
+0 @P109@ INDI 
+1 SEX M
+1 DSCR <DSCR><DESCRIPTION>Died as Baby 3Years</DESCRIPTION></DSCR>
+1 NAME Daniel /BRITS/
+1 FAMC @F115@
+0 @P110@ INDI 
+1 SEX M
+1 BAPM 
+2 DATE 31 May 1898
+2 PLAC Gereformeerde Kerk Reddersburg
+1 NAME Elsie Catharina Andriesa Johanna /VAN TONDER/
+1 FAMC @F35@
+0 @P111@ INDI 
+1 DEAT 
+2 DATE 05 Dec 1939
+1 SEX F
+1 NAME Johanna Christina Maria /GORDON/
+1 FAMS @F35@
+0 @P112@ INDI 
+1 DEAT 
+2 DATE 29 May 1943
+2 PLAC Smithfield
+1 BAPM 
+2 DATE 08 Jun 1873
+1 SEX M
+1 BIRT 
+2 DATE 08 May 1873
+2 PLAC Reddersbueg, SA
+1 NAME Frederik Willem /VAN TONDER/
+1 FAMC @F119@
+1 FAMS @F35@
+0 @P113@ INDI 
+1 DEAT 
+2 DATE 05 Apr 1955
+1 SEX M
+1 BIRT 
+2 DATE 25 Sep 1877
+1 NAME Johannes Schoeman /MALAN/
+1 FAMS @F13@
+0 @P114@ INDI 
+1 NAME Maria Christina Geertruida /VAN TONDER/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F13@
+0 @P115@ INDI 
+1 DEAT 
+2 DATE 13 Jul 1962
+1 SEX M
+1 BIRT 
+2 DATE 30 Sep 1912
+1 NAME Cornelis Johannes Hercules /MALAN/
+1 FAMC @F13@
+0 @P116@ INDI 
+1 BIRT 
+2 DATE 1603
+2 PLAC Pointaix, Dauphiné, France
+1 NAME Jean /LOMBARD/
+1 SEX M
+1 FAMC @F123@
+1 FAMS @F17@
+0 @P117@ INDI 
+1 BIRT 
+2 DATE 1611
+2 PLAC Drôme, Rhône-Alpes, France
+1 SEX F
+1 NAME Isabeau /ROCHAS/
+1 FAMS @F17@
+0 @P118@ INDI 
+1 CHR 
+2 PLAC Colesberg
+1 SEX F
+1 BIRT 
+2 DATE 16 Jun 1844
+1 NAME Anna Alida Cecilia /VAN DER WALT/
+1 FAMC @F42@
+0 @P119@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 1819
+1 NAME Maria /ELIZABETH/
+1 FAMS @F42@
+0 @P120@ INDI 
+1 DEAT 
+2 DATE 21 Feb 1864
+2 PLAC Tweefontein. dist Burgersdorp.  South Africa
+1 BIRT 
+2 DATE 15 Apr 1817
+2 PLAC Brakrivier, dist Graaf-Reinet. South Africa
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 SEX M
+1 FAMC @F50@
+1 FAMS @F42@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE 07 Feb 1945
+1 DEAT 
+2 DATE 07 Feb 2010
+2 PLAC Pretoria
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 SEX M
+1 FAMC @F58@
+0 @P122@ INDI 
+1 CHR 
+2 PLAC Burgersdorp
+1 SEX F
+1 BIRT 
+2 DATE 15 Oct 1847
+1 NAME Francina Johanna Hendrina /VAN DER WALT/
+1 FAMC @F42@
+0 @P123@ INDI 
+1 DEAT 
+2 DATE 1762
+2 PLAC Stellenbosch, Western Cape, South Africa
+1 BIRT 
+2 DATE 1670
+2 PLAC Schleswig-Holstein, Germany
+1 NAME Andries Cornelius /Van Tonderen/
+1 SEX M
+1 FAMS @F16@
+0 @P124@ INDI 
+1 DEAT 
+2 DATE Abt. 1765
+2 PLAC South Africa
+1 BIRT 
+2 DATE 1691
+2 PLAC Amsterdam, Amsterdam, Noord-Holland, Netherlands
+1 SEX F
+1 ALIA Vry
+1 NAME Cornelia Catherina Vrey /(de)/
+1 FAMC @F18@
+1 FAMS @F16@
+0 @P125@ INDI 
+1 BIRT 
+2 DATE 09 Nov 1948
+1 DEAT 
+2 DATE 16 Jun 1984
+1 NAME Rudolph Johannes /VAN DER WALT/
+1 SEX M
+1 FAMC @F56@
+0 @P126@ INDI 
+1 DEAT 
+2 PLAC Vereeniging
+1 SEX M
+1 ALIA Dave
+1 NAME Dawid Hendrik Jacobus /VAN DER WALT/
+1 NAME David /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F56@
+0 @P127@ INDI 
+1 DEAT 
+2 DATE 14 Jun 2011
+2 PLAC Vereeniging
+1 SEX F
+1 BIRT 
+2 DATE 02 Jan 1929
+1 NAME Allettha Catharina (Baby) /NEL/
+1 FAMS @F56@
+0 @P128@ INDI 
+1 DEAT 
+2 DATE 13 Dec 1936
+1 BIRT 
+2 DATE 11 Sep 1862
+2 PLAC Wellington Suid Afrika
+1 NAME Daniel Cornelis /MALAN/
+1 SEX M
+1 FAMS @F30@
+0 @P129@ INDI 
+1 BIRT 
+2 DATE 1578
+1 NAME Moïse /LOMBAARD/
+1 SEX M
+1 FAMS @F123@
+0 @P130@ INDI 
+1 BIRT 
+2 DATE 02 Apr 1996
+2 PLAC Pretoria
+1 SEX M
+1 NAME Jaques Heinrich /ODENDAAL/
+1 FAMC @F94@
+0 @P131@ INDI 
+1 BIRT 
+2 DATE 22 May 1971
+1 SEX F
+1 NAME Adriana Javoba (Adelle) /HERBST/
+1 FAMS @F94@
+0 @P132@ INDI 
+1 BIRT 
+2 DATE 24 Jul 1966
+2 PLAC Pretoria
+1 SEX M
+1 NAME Henning Johannes /ODENDAAL/
+1 NAME Henning /ODENDAAL/
+1 FAMC @F93@
+1 FAMS @F94@
+0 @P133@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE Abt. 1678
+1 NAME /Cattrijna/
+1 FAMS @F18@
+0 @P134@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 1675
+2 PLAC Colchester, Essex, England
+1 NAME Abigel Goedhand /DE VRIJ/
+1 FAMS @F18@
+0 @P135@ INDI 
+1 SEX M
+1 DEAT 
+2 PLAC De Wild, Pretoria
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 FAMC @F56@
+0 @P136@ INDI 
+1 BIRT 
+2 DATE 01 Jul 1951
+1 DEAT 
+2 DATE 13 Oct 1992
+2 PLAC Vereeniging
+1 SEX M
+1 NAME Dawid Hendrik Jacobus /VAN DER WALT/ Jr
+1 FAMC @F56@
+0 @P137@ INDI 
+1 BURI 
+2 PLAC Houtkop in Vereeniging
+1 SEX M
+1 BIRT 
+2 DATE 1883
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 NAME Hendrik J /VAN DER WALT/
+1 NOTE Oupa Hendrik was die sagter een, Sny toon af met die mes
+2 CONT Oupa Hendrik was die sagter een, Sny toon af met die mes
+2 CONT RIN: MH:N24
+1 FAMC @F63@
+1 FAMS @F19@
+0 @P138@ INDI 
+1 DEAT 
+2 DATE 19 Aug 1993
+2 PLAC Vanderbijlpark
+1 SEX M
+1 BIRT 
+2 DATE 06 Aug 1914
+1 NAME Andries Louis /VAN DER WALT/
+1 NAME Andries /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F60@
+0 @P139@ INDI 
+1 DEAT 
+2 DATE 05 May 1988
+2 PLAC Pretoria North
+1 BIRT 
+2 DATE 22 Mar 1913
+1 SEX F
+1 NAME Anna Susanna /VAN DER WALT/
+1 NAME Annie /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F24@
+0 @P140@ INDI 
+1 NAME Berhend /VAN DER WALT/
+1 SEX M
+1 FAMC @F19@
+0 @P141@ INDI 
+1 BIRT 
+2 DATE 09 Apr 1907
+2 PLAC Dist Boshof
+1 SEX M
+1 NAME Hendrik (Ouboet) Tjaart /VAN DER WALT/
+1 NAME Hendrik /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F44@
+0 @P142@ INDI 
+1 DEAT 
+2 DATE 10 Feb 2003
+2 PLAC Vereeniging
+1 SEX F
+1 BIRT 
+2 DATE 25 Aug 1919
+1 NAME Johanna Maria /VAN DER WALT/
+1 NAME Johanna /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F73@
+0 @P143@ INDI 
+1 ALIA Neels
+1 SEX M
+1 NAME Kerneels /VAN DER WALT/
+1 FAMC @F19@
+0 @P144@ INDI 
+1 BIRT 
+2 DATE Abt. 1910
+2 PLAC Dist Boshof
+1 SEX M
+1 ALIA Nick
+1 NAME Tjaart Nicolas /VAN DER WALT/
+1 NAME Nicolaas /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F52@
+0 @P145@ INDI 
+1 NAME Hannes /VAN DER WALT/
+1 SEX M
+1 FAMC @F19@
+0 @P146@ INDI 
+1 BIRT 
+2 DATE 03 Feb 1885
+1 SEX F
+1 ALIA Magdalena Petronella Dorothea Susanna Catharina van der Walt
+1 NAME Magdalena Dorothea Petronella Susanna Catharina /LOMBARD/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=850000033&indiv=try
+3 DATA
+4 TEXT Record for Magdalena Petronella Dorothea Susanna Catharina van der Walt
+3 _APID 1,61313::850000033
+1 NAME Magdalena Dorothea Petronella Susara Catharina /Lombard/
+1 NOTE Bietjie krippel geloop. Donker swart rokke. baie kwaai. Bollatjie in nek gedra. kibders moes buite spuil.
+1 FAMC @F23@
+1 FAMS @F19@
+0 @P147@ INDI 
+1 BIRT 
+2 DATE 11 Mar 1918
+1 ALIA Lena / Loen
+1 DEAT 
+2 DATE Abt. 1986
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX F
+1 NAME Magdalena Dorothea Petronella Susanna Catherina /VAN DER WALT/
+1 FAMC @F19@
+1 FAMS @F89@
+0 @P148@ INDI 
+1 BIRT 
+2 DATE 06 Jul 1915
+1 DEAT 
+2 DATE 26 May 1918
+1 NAME Petronella Magdalena /VAN TONDER/
+1 SEX F
+1 FAMC @F70@
+0 @P149@ INDI 
+1 DEAT 
+2 DATE 20 Aug 1927
+2 PLAC Nasionale Hospitaal Bloemfontein
+1 BIRT 
+2 DATE 20 Mar 1880
+2 PLAC Distrik Smithfield
+1 NAME Adriana (Aderjana) Johanna /BLIGNAUT/
+1 SEX F
+1 FAMS @F70@
+0 @P150@ INDI 
+1 DEAT 
+2 DATE 29 May 1943
+2 PLAC Smithfield in eie woning
+1 BIRT 
+2 DATE 08 May 1873
+2 PLAC Reddersburg, Free State, South Africa
+1 NAME Abraham Gerhardus Wilhelmus /VAN TONDER/
+1 SEX M
+1 FAMC @F119@
+1 FAMS @F69@
+1 FAMS @F70@
+0 @P151@ INDI 
+1 BIRT 
+2 DATE 02 Sep 1856
+2 PLAC O.V.S, South Africa
+1 ALIA Maria Magdalena Lombaard
+1 DEAT 
+2 DATE 1923
+1 SEX F
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 NAME Maria Magdalena /BADENHORST/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 FAMC @F109@
+1 FAMS @F23@
+0 @P152@ INDI 
+1 ALIA Johan Antonie
+1 DEAT Age: 37
+2 DATE 13 Nov 1914
+2 PLAC Boshof, Free State, South Africa (Eilandsdrift)
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 RESI Relation to Head of House: Head
+2 PLAC Eilandsdrift, Boshof
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 BIRT 
+2 DATE 27 Feb 1847
+2 PLAC Venterspos, Gauteng, South Africa
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 SEX M
+1 NAME Jan Anthonie /LOMBAARD/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 BIRT 
+2 DATE 27 Feb 1847
+2 PLAC Boshof, O.V.S, South Africa
+1 DEAT 
+2 DATE 13 Nov 1914
+2 PLAC Boshof, O.V.S, South Africa
+1 NAME Jan Antonie /Lombard/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=b6fbc813-7a8a-457e-abf3-0453064eb96c&tid=111321150&pid=152
+2 FORM pdf
+2 TITL Jan Antonie Lombaard (1847 - 1914) - Genealogy
+1 FAMC @F26@
+1 FAMS @F23@
+0 @P153@ INDI 
+1 SEX M
+1 NAME Unknown /LOMBARD/
+1 FAMS @F124@
+0 @P154@ INDI 
+1 SEX F
+1 NAME Anastasia /LOMBARD/
+1 FAMC @F124@
+1 FAMS @F21@
+0 @P155@ INDI 
+1 DEAT 
+2 DATE 29 Apr 1899
+2 PLAC Middelburg Tvl South Africa
+1 BIRT 
+2 DATE 14 Mar 1829
+2 PLAC Somerset East Suid Afrika
+1 NAME Anna Susanna /ERASMUS/
+1 SEX F
+1 FAMC @F118@
+0 @P156@ INDI 
+1 BAPM 
+2 DATE 15 Oct 1905
+2 PLAC Geref Kerk Reddersburg
+1 BIRT 
+2 DATE 25 Aug 1905
+1 DEAT 
+2 DATE 25 Jan 1906
+1 NAME Esasias Renierer /VAN TONDER/
+1 SEX M
+1 FAMC @F70@
+0 @P157@ INDI 
+1 DEAT 
+2 DATE 18 Nov 1657
+1 SEX M
+1 BIRT 
+2 DATE 16 Oct 1588
+1 NAME Luke /WADDING/
+1 FAMS @F21@
+0 @P158@ INDI 
+1 SEX F
+1 NAME Maggie /BLIGNAUT/
+1 FAMS @F106@
+0 @P159@ INDI 
+1 NAME Jonathan /BLIGNAUT/
+1 SEX F
+1 FAMC @F106@
+0 @P160@ INDI 
+1 SEX F
+1 NAME Penny /BLIGNAUT/
+1 FAMC @F106@
+0 @P161@ INDI 
+1 SEX F
+1 NAME Jennifer /BLIGNAUT/
+1 FAMC @F106@
+0 @P162@ INDI 
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14195-i14041
+1 ALIA Jannie
+1 NAME Johannes Jacobus /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14195-i14041
+1 NAME Jannie /BLIGNAUT/
+1 NOTE Bronne / Sources
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart
+2 CONT · MHG 9836/63
+1 FAMC @F105@
+1 FAMS @F106@
+0 @P163@ INDI 
+1 ALIA Grobler
+1 NAME Isabella Margaretha /Grobbelaar/
+1 SEX F
+1 NOTE Haar van word op haar kinders se sterfkennisse om die beurt as Grobler en Grobbelaar angedui. Op haar man se sterfkennis word dit as Grobler aangedui,
+2 CONT
+2 CONT Bronne / Sources
+2 CONT 1 VAB Sterfkennis
+2 CONT 1 B1498
+2 CONT 2 B1507
+2 CONT 2 VAB Sterfkennis
+2 CONT 1 B3405
+2 CONT 3 Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart
+2 CONT 1 MHG O/19406
+2 CONT 2 MHG 49775
+2 CONT http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/1451-i1376
+1 FAMS @F22@
+0 @P164@ INDI 
+1 DEAT 
+2 DATE Abt. 1879
+1 NAME Esaias Reynier /Blignaut/
+1 SEX M
+1 BIRT 
+2 DATE 17 May 1816
+2 PLAC George, Western Cape, South Africa
+1 BAPM 
+2 DATE 18 Aug 1816
+2 PLAC George, Western Cape, South Africa
+1 NOTE Sy naam is aangeteken as Jesaias Rynier op sy vader se tweede vrou se sterfkennis. Sy naam word ook so aangedui op sy seun Philippus Jacobus se sterfkennis. Op sy seun Paulus Johannes word sy name wee
+2 CONC r aangedui as Josias Rynier. Op 31 Mei 1862 stel hy &apos;n testament op te Potchefstroom terwyl hy reeds met Gerbrecht Piljee getroud is.
+2 CONT
+2 CONT Bronne / Sources
+2 CONT 1 VAB Sterfkennis
+2 CONT 1 R668
+2 CONT 2 B1498
+2 CONT 3 B1507
+2 CONT 2 VAB Sterfkennis
+2 CONT 1 B3405
+2 CONT 2 15556
+2 CONT 3 Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart
+2 CONT 1 MHG O/19406
+2 CONT 2 MHG 49775
+1 FAMC @F25@
+1 FAMS @F22@
+0 @P165@ INDI 
+1 BAPM 
+2 DATE 04 Jul 1842
+2 PLAC Colesberg, Northern Cape, South Africa
+1 DEAT 
+2 DATE 04 Sep 1907
+2 PLAC Reddersburg, Free State, South Africa
+1 BIRT 
+2 DATE 08 Apr 1842
+2 PLAC Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 SEX M
+1 NAME Philippus Jacobus /BLIGNAUT/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 NOTE Hy het op 3 Desember 1902 vir &apos;n hertrousertifikaat aansoek gedoen nadat sy tweede vrou oorlede is.
+2 CONT
+2 CONT Bronne / Sources· VAB Sterfkennis· G35
+2 CONT · B2837
+2 CONT
+2 CONT · VAB Sterfkennis· B1683
+2 CONT · B3539
+2 CONT
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG O/19406
+2 CONT · MHG 81884
+2 CONT · MHG 83489
+2 CONT · MHG 6345/49
+2 CONT · MHG 2888/47
+2 CONT
+2 CONT · Marie Rabie se Navorsing
+1 FAMC @F22@
+1 FAMS @F33@
+1 FAMS @F34@
+0 @P166@ INDI 
+1 SEX F
+1 NAME Cornelia Petronella /GROBLER/
+1 FAMS @F20@
+0 @P167@ INDI 
+1 BIRT 
+2 DATE 03 Jan 1825
+2 PLAC Somerset East Suid Afrika
+1 DEAT 
+2 DATE 10 Jun 1910
+2 PLAC Boekenhoutskloof Suid Afrika
+1 SEX M
+1 NAME Michiel Coenraad /ERASMUS/
+1 FAMC @F118@
+0 @P168@ INDI 
+1 BIRT 
+2 DATE 23 Feb 1954
+2 PLAC Vereeniging South Africa
+1 NAME Anna Margaretha (Nakkie) /DE BEER/
+1 SEX F
+1 FAMC @F73@
+0 @P169@ INDI 
+1 BIRT 
+2 DATE 30 Jan 1917
+1 DEAT 
+2 DATE 21 Dec 1995
+1 NAME Lourens Johannes /DE BEER/
+1 SEX M
+1 FAMS @F73@
+0 @P170@ INDI 
+1 NAME /NONKIE/
+1 SEX F
+1 FAMS @F103@
+0 @P171@ INDI 
+1 NAME Johannes /MCDONALD/
+1 SEX M
+1 FAMC @F103@
+0 @P172@ INDI 
+1 SEX M
+1 NAME Ernst /MCDONALD/
+1 FAMC @F103@
+0 @P173@ INDI 
+1 NAME Leon /MCDONALD/
+1 SEX M
+1 FAMC @F103@
+0 @P174@ INDI 
+1 DEAT 
+2 DATE Deceased
+1 RESI 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 ADDR 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 BIRT 
+2 DATE Aft. 1911
+1 SEX M
+1 ALIA Oom Rooitjie
+1 NAME Ernest /MCDONALD/
+1 FAMC @F87@
+1 FAMS @F103@
+0 @P175@ INDI 
+1 RESI 
+1 BIRT 
+2 DATE 25 May 1943
+2 PLAC Ermelo Tvl
+1 NAME Dewald Lambertus /DE BEER/
+1 SEX M
+1 FAMC @F73@
+0 @P176@ INDI 
+1 BIRT 
+2 DATE 21 Jun 1888
+1 CHR 
+2 DATE 21 Oct 1888
+2 PLAC Boshof OVS South Africa
+1 SEX F
+1 NAME Anna Johanna Maria /LOMBARD/
+1 FAMC @F23@
+0 @P177@ INDI 
+1 BIRT 
+2 DATE 12 Jul 1878
+1 CHR 
+2 DATE 06 Sep 1878
+2 PLAC Boshof OVS South Africa
+1 NAME Johan Antonie /LOMBARD/
+1 SEX M
+1 FAMC @F23@
+0 @P178@ INDI 
+1 CHR 
+2 DATE 26 Nov 1882
+2 PLAC Boshof OVS South Africa
+1 BIRT 
+2 DATE 08 Sep 1882
+1 NAME Johan Antonie /LOMBARD/
+1 SEX M
+1 FAMC @F23@
+0 @P179@ INDI 
+1 BIRT 
+2 DATE 30 Nov 1876
+1 CHR 
+2 DATE 21 Jan 1877
+2 PLAC Boshof OVS South Africa
+1 SEX M
+1 NAME Hendrik Jacobus Johannes /LOMBARD/
+1 BIRT 
+2 DATE 06 Nov 1897
+1 NAME Hendrik Johannes /LOMBAARD/
+1 FAMC @F23@
+0 @P180@ INDI 
+1 CHR 
+2 DATE 12 Apr 1896
+2 PLAC Boshof OVS South Africa
+1 BIRT 
+2 DATE 19 Dec 1895
+1 SEX F
+1 NAME Susanna Johanna Jacoba /LOMBAARD/
+1 BIRT 
+2 DATE 19 Feb 1895
+1 NAME Susanna Johanna Jacoba /Lombard/
+1 FAMC @F23@
+0 @P181@ INDI 
+1 CHR 
+2 DATE 18 Dec 1892
+1 DEAT 
+2 DATE 15 Sep 1974
+1 BIRT 
+2 DATE 02 Sep 1892
+2 PLAC Boshof
+1 SEX M
+1 NAME Zybrand Lourens /LOMBAARD/
+1 NAME Sybrand Louwrens /Lombard/
+1 FAMC @F23@
+0 @P182@ INDI 
+1 CHR 
+2 DATE 08 Dec 1889
+2 PLAC Boshof OVS South Africa
+1 BIRT 
+2 DATE 25 Oct 1889
+1 SEX M
+1 NAME Cornelis Jacobus /LOMBAARD/
+1 BIRT 
+2 DATE 20 Oct 1889
+1 NAME Cornelis Jacobus /Lombard/
+1 FAMC @F23@
+0 @P183@ INDI 
+1 CHR 
+2 DATE 02 Nov 1879
+2 PLAC Boshof OVS South Africa
+1 SEX F
+1 BIRT 
+2 DATE 19 Sep 1879
+1 NAME Anna Johanna Maria /LOMBAARD/
+1 NAME Anna Johanna Maria /Lombard/
+1 FAMC @F23@
+0 @P184@ INDI 
+1 BIRT 
+2 DATE 1836
+1 SEX F
+1 NAME Magdalena Dorothea Petronella Susanna Catharina /VAN DER MERWE/
+1 FAMS @F109@
+0 @P185@ INDI 
+1 DEAT 
+2 DATE 02 Nov 1886
+2 PLAC Biesiefontein, dist Boshof O.V.S.
+1 SEX M
+1 BIRT 
+2 DATE 05 Jun 1830
+1 NAME Hendrik Johannes /BADENHORST/
+1 FAMS @F109@
+0 @P186@ INDI 
+1 CHR 
+2 DATE 30 Oct 1881
+2 PLAC Boshof OVS South Africa
+1 ALIA Maria Magdalena Meyer
+1 BIRT 
+2 DATE 28 Apr 1881
+1 NAME Maria Magdalena /LOMBAARD/
+1 SEX F
+1 NAME Maria Magdalena /Lombard/
+1 FAMC @F23@
+1 FAMS @F65@
+0 @P187@ INDI 
+1 BIRT 
+2 DATE 17 Sep 1886
+1 CHR 
+2 DATE 12 Dec 1886
+2 PLAC Boshof OVS South Africa
+1 SEX M
+1 NAME Dawid Hendrik Jacobus /LOMBARD/
+1 NAME David Hendrik Jacobus /LOMBAARD/
+1 FAMC @F23@
+0 @P188@ INDI 
+1 BIRT 
+2 DATE 16 Nov 1873
+1 SEX M
+1 ALIA Andrie Lowies LOMBAARD
+1 NAME Andries Louis /LOMBAARD/
+1 NAME Andries Louis /Lombard/
+1 FAMC @F23@
+0 @P189@ INDI 
+1 DEAT 
+2 DATE Abt. 1902
+2 PLAC Springfontein, Free State, South Africa
+1 BIRT 
+2 DATE 1850
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 SEX F
+1 NAME Johanna Catharina Wilhelmina /BUITENDAG/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 FAMS @F34@
+0 @P190@ INDI 
+1 RESI <Address>skeerpoort</Address>
+1 ADDR 
+2 PLAC Skeerpoort
+1 DEAT 
+2 DATE Abt. 1949
+1 _MILT Anglo-Boer War
+1 BIRT 
+2 DATE Abt. 1870
+2 PLAC Uitkyk, Free State, South Africa
+1 ALIA Willem
+1 SEX M
+1 NAME Frederik Willem /BLIGNAUT/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 BIRT 
+2 DATE Abt. 1869
+2 PLAC Uitkyk (3), Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 NOTE Willem Blignaut fought in the Anglo Boer war. He was captured and interned on some Island. The women were sent to the concentration camps.
+2 CONT
+2 CONT His original farm was in Hartbeeshoek in the area of Klipfontein. Later he lived north of the Magaliesberg on a farm called Skeerpoort near the Hartbeespoort Dam. He sold Hartbeeshoek after he marrie
+2 CONC d his second wife. After his death his second wife married &apos;Ik Ferdell&quot; - the farm manager - and moved  with him and all Blignauts belongings to a farm called Grootvlei 
+2 CONT Willem Blignaut fought in the Anglo Boer war. He was captured and interned on some Island. The women were sent to the concentration camps.
+2 CONT
+2 CONT His original farm was in Hartbeeshoek in the area of Klipfontein. Later he lived north of the Magaliesberg on a farm called Skeerpoort near the Hartbeespoort Dam. He sold Hartbeeshoek after he marrie
+2 CONC d his second wife. After his death his second wife married &apos;Ik Ferdell&quot; - the farm manager - and moved with him and all Blignauts belongings to a farm called Grootvlei
+2 CONT RIN: MH:N28
+2 CONT Moontlik &apos;n neef van die bekende sanger Chris Blignaut. Hy staan ook bekend as Willem Frederik. Hy is &apos;n 59 jarige wewenaar en Spoorwegamtenaar van Sesdestraat 1240, Villieria, Pretoria, to
+2 CONC e hy in die huwelik tree met Martha Horn.
+2 CONT
+2 CONT Bronne / Sources· Louis Botha Blignaut - Mondelings
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 5190/58
+2 CONT
+2 CONT · KAB Sterfkennis· B3539
+2 CONT
+2 CONT · Bonnie Sydow
+2 CONT Willem Blignaut fought in the Anglo Boer war. He was captured and interned on some Island. The women were sent to the concentration camps.
+2 CONT
+2 CONT His original farm was in Hartbeeshoek in the area of Klipfontein. Later he lived north of the Magaliesberg on a farm called Skeerpoort near the Hartbeespoort Dam. He sold Hartbeeshoek after he marrie
+2 CONC d his second wife. After his death his second wife married &apos;Ik Ferdell&quot; - the farm manager - and moved with him and all Blignauts belongings to a farm called Grootvlei
+2 CONT RIN: MH:N28
+2 CONT Moontlik &apos;n neef van die bekende sanger Chris Blignaut. Hy staan ook bekend as Willem Frederik. Hy is &apos;n 59 jarige wewenaar en Spoorwegamtenaar van Sesdestraat 1240, Villieria, Pretoria, to
+2 CONC e hy in die huwelik tree met Martha Horn.
+2 CONT
+2 CONT Bronne / Sources· Louis Botha Blignaut - Mondelings
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 5190/58
+2 CONT
+2 CONT · KAB Sterfkennis· B3539
+2 CONT
+2 CONT · Bonnie Sydow
+1 FAMC @F34@
+1 FAMS @F28@
+1 FAMS @F29@
+0 @P191@ INDI 
+1 BAPM 
+2 DATE 18 Apr 1987
+1 DEAT 
+2 DATE 15 Jun 1936
+2 PLAC Wit Keirivier
+1 NAME Emerentia /Snyman/
+1 SEX F
+1 FAMS @F25@
+0 @P192@ INDI 
+1 ALIA Jan Langkop
+1 BAPM 
+2 DATE 06 Nov 1785
+1 BIRT 
+2 DATE 1798
+1 DEAT 
+2 DATE 15 Jun 1936
+2 PLAC Wit Keirivier
+1 SEX M
+1 NAME Jan Hendrik /Blignaut/
+1 FAMC @F27@
+1 FAMS @F25@
+0 @P193@ INDI 
+1 ALIA Henneman / Hendrik
+1 BIRT 
+2 DATE 25 Jul 1930
+2 PLAC Hartbeeshoek
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6231-i6125
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6231-i6125
+1 NAME Hendrik Johannes Lodewikus /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6231-i6125
+1 FAMC @F29@
+0 @P194@ INDI 
+1 BIRT 
+2 DATE Abt. 1893
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6237-i6131
+1 SEX F
+1 NAME Martha Catharina Hugomina /HORN/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6237-i6131
+1 FAMS @F29@
+1 FAMS @F116@
+0 @P195@ INDI 
+1 BAPM 
+2 DATE 23 Nov 1870
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 DEAT 
+2 DATE 1928
+2 PLAC Skeerpoort
+1 BIRT 
+2 DATE Abt. 1872
+2 PLAC Reddersburg, Free State, South Africa
+1 SEX F
+1 NAME Judik Johanna /VAN TONDER/
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 BIRT 
+2 DATE 23 Nov 1870
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+1 DEAT 1240 Sesde Laan, Villieria, Pretoria
+2 DATE 08 Jun 1928
+2 PLAC Pretoria, Gauteng, South Africa
+1 NOTE She was sent to a concentration camp during the Anglo Boer war. Her husband Willem was sent to an Island. Concentration camps were a feature of the second Anglo Boer 1899-1902. Concentration camps app
+2 CONC eared around September 1900 when Lord Kitchener too over as Commander in Chief.
+2 CONT She was sent to a concentration camp during the Anglo Boer war. Her husband Willem was sent to an Island. Concentration camps were a feature of the second Anglo Boer 1899-1902. Concentration camps app
+2 CONC eared around September 1900 when Lord Kitchener took over as Commander in Chief.
+2 CONT RIN: MH:N29
+2 CONT Bronne / Sources· Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 66151
+2 CONT
+2 CONT · Louis Botha Blignaut - Mondelings
+2 CONT She was sent to a concentration camp during the Anglo Boer war. Her husband Willem was sent to an Island. Concentration camps were a feature of the second Anglo Boer 1899-1902. Concentration camps app
+2 CONC eared around September 1900 when Lord Kitchener took over as Commander in Chief.
+2 CONT RIN: MH:N29
+2 CONT Bronne / Sources· Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 66151
+2 CONT
+2 CONT · Louis Botha Blignaut - Mondelings
+1 FAMC @F119@
+1 FAMS @F28@
+0 @P196@ INDI 
+1 DEAT 
+2 DATE 24 Sep 1866
+2 PLAC Tweefontein, Albert, Dist Burgersdorp
+1 SEX M
+1 BIRT 
+2 DATE 22 Jun 1853
+2 PLAC Albert, Dist Burgersdorp, SA
+1 NAME Michiel Andries Louis /VAN DER WALT/
+1 FAMC @F42@
+0 @P197@ INDI 
+1 ALIA Maria Magdalena Lombaard
+1 SEX F
+1 NAME Maria /MAGDALENA/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+0 @P198@ INDI 
+1 BIRT 
+2 DATE 08 Jun 1826
+2 PLAC Cape Province, South Africa
+1 CHR 
+2 DATE 12 Feb 1827
+2 PLAC Beauford-Wes, Cape, South Africa
+1 SEX F
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 ALIA Anna Johanna Lombaard
+1 NAME Anna Johanna Maria /BOSHOF/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 NAME Anna Johanna Maria /Lombard/
+1 FAMC @F66@
+1 FAMS @F26@
+0 @P199@ INDI 
+1 BIRT 
+2 DATE 1824
+2 PLAC Bloemfontein
+1 ALIA Andries Louis Lombard
+1 DEAT 
+2 DATE 1904
+1 SEX M
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 NAME Andries Louis /LOMBAARD/
+2 SOUR @S810174169@
+3 PAGE Bloemfontein, South Africa; Death Notice Records
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=SouthAfricaDeathNotices&h=33&indiv=try
+3 DATA
+4 TEXT Record for Jan Anthonie Lombaard
+3 _APID 1,61313::33
+1 DEAT 
+2 DATE 12 Aug 1901
+2 PLAC Boshof, O.V.S, South Africa
+1 FAMC @F40@
+1 FAMS @F26@
+0 @P200@ INDI 
+1 DEAT 
+2 DATE 06 Oct 1975
+2 PLAC Pretoria North
+1 SEX M
+1 BIRT 
+2 DATE 10 Jul 1908
+1 NAME Phillippus Rudolph /BRITS/
+1 FAMS @F24@
+0 @P201@ INDI 
+1 DEAT 
+2 DATE 05 Nov 2011
+2 PLAC Pretoria
+1 SEX F
+1 BIRT 
+2 DATE 10 Sep 1932
+1 NAME Magdalena Dorothea Psc /BRITS/
+1 FAMC @F24@
+0 @P202@ INDI 
+1 ALIA Ta' Marie
+1 NAME /MARIE/
+1 SEX F
+1 FAMS @F104@
+0 @P203@ INDI 
+1 RESI 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 ADDR 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 NAME Lena /MCDONALD/
+1 SEX F
+1 FAMC @F104@
+0 @P204@ INDI 
+1 NAME Johan /MCDONALD/
+1 SEX M
+1 FAMC @F104@
+0 @P205@ INDI 
+1 ALIA Oom Jan
+1 SEX M
+1 NAME Johannes /MCDONALD/
+1 FAMC @F87@
+1 FAMS @F104@
+0 @P206@ INDI 
+1 ALIA Maria of Martha
+1 BAPM 
+2 DATE 07 Sep 1760
+1 BIRT 
+2 DATE 1760
+1 SEX F
+1 NAME Maria Magdalena /MARAIS/
+1 FAMS @F27@
+0 @P207@ INDI 
+1 BIRT 
+2 DATE 1755
+1 DEAT 
+2 DATE 15 Aug 1825
+2 PLAC Paarl, Cape, South Africa
+1 ALIA Ook Jan Hendrik Blignaut
+1 SEX M
+1 BAPM 
+2 DATE 09 Nov 1755
+2 PLAC Drakenstein
+1 NAME Jan /Blignaut/
+1 FAMC @F36@
+1 FAMS @F27@
+0 @P208@ INDI 
+1 SEX F
+1 NAME Engela /LOMBAARD/
+1 FAMC @F26@
+0 @P209@ INDI 
+1 SEX F
+1 NAME Hessie /LOMBAARD/
+1 FAMC @F26@
+0 @P210@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 1865
+2 PLAC Venterspos, Gauteng, South Africa
+1 NAME Cornelia /LOMBAARD/
+1 FAMC @F26@
+0 @P211@ INDI 
+1 BIRT 
+2 DATE Bef. 13 Oct 1805
+2 PLAC Beaufort West, Western Cape, South Africa
+1 DEAT 
+2 DATE 30 Apr 1873
+2 PLAC Bloemfontein, Free State, South Africa
+1 ALIA Engela Anna Johanna Lombard
+1 NAME Engela Anna Johanna /BOTES/
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F40@
+0 @P212@ INDI 
+1 DEAT 
+2 DATE 25 Jun 1864
+2 PLAC Grootfontein, Free State, South Africa
+1 BIRT 
+2 DATE 25 Jan 1801
+2 PLAC Rheeheuwel, Swellendam, Overberg
+1 NAME Johannes Antonie /LOMBARD/
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F40@
+0 @P213@ INDI 
+1 SEX F
+1 NAME Anna Elizabeth /LOMBAARD/
+1 FAMC @F26@
+0 @P214@ INDI 
+1 BIRT 
+2 DATE 1853
+1 NAME Abraham /LOMBAARD/
+1 SEX M
+1 FAMC @F26@
+0 @P215@ INDI 
+1 BIRT 
+2 DATE 1856
+2 PLAC Venterspos, Gauteng, South Africa
+1 NAME Zybrand Lourens /LOMBAARD/
+1 SEX M
+1 FAMC @F26@
+0 @P216@ INDI 
+1 BIRT 
+2 DATE 1848
+2 PLAC Venterspos, Gauteng, South Africa
+1 NAME Hendrik Jocobus (David) /LOMBAARD/
+1 SEX M
+1 FAMC @F26@
+0 @P217@ INDI 
+1 BIRT 
+2 DATE 25 Jun 1876
+1 NAME Andries Louis /LOMBAARD/
+1 SEX M
+1 FAMC @F26@
+0 @P218@ INDI 
+1 BAPM 
+2 DATE 03 Apr 1820
+2 PLAC Klaassmitsrivier
+1 DEAT 
+2 DATE 27 Aug 1856
+2 PLAC Luiperdskop, distrik Albert
+1 SEX F
+1 BIRT 
+2 DATE 13 Jan 1820
+2 PLAC Cradock
+1 NAME Jannetta Wilhelmina Elizabeth /DU PLOOY/
+1 FAMS @F108@
+0 @P219@ INDI 
+1 BIRT 
+2 DATE 05 Dec 1838
+1 BAPM 
+2 DATE 03 Feb 1839
+2 PLAC Klaassmitsrivier
+1 NAME Elizabeth Catharina Jacoba (Wilhelmina) Johanna /BUITENDAG/
+1 SEX F
+1 FAMC @F108@
+0 @P220@ INDI 
+1 BAPM 
+2 DATE 03 Apr 1837
+2 PLAC Colesberg
+1 DEAT 
+2 PLAC Skynbaar vroeg dood
+1 BIRT 
+2 DATE 08 Jan 1837
+1 NAME Anna Maria Margaretha /BUITENDAG/
+1 SEX F
+1 FAMC @F108@
+0 @P221@ INDI 
+1 OCCU Veeboer
+1 DEAT 
+2 DATE 11 Oct 1888
+2 PLAC Koelenhof distrik Ladybrand
+1 BAPM 
+2 DATE 23 Sep 1810
+2 PLAC Graaff-Reinette
+1 BIRT 
+2 DATE 27 Jun 1810
+2 PLAC Kaapkolonie
+1 NAME Frederik Willem /BUITENDAG/
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F108@
+0 @P222@ INDI 
+1 BIRT 
+2 DATE 11 Sep 1881
+1 SEX F
+1 NAME Maria Elizabeth /VAN DER WALT/
+1 FAMC @F63@
+1 FAMS @F83@
+0 @P223@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 18 Nov 1873
+1 NAME Andries Louis /LOMBARD/
+1 FAMS @F83@
+0 @P224@ INDI 
+1 SEX F
+1 NAME /UNKNOWN/
+1 FAMS @F66@
+0 @P225@ INDI 
+1 SEX M
+1 NAME /UNKNOWN/
+1 FAMS @F66@
+0 @P226@ INDI 
+1 CHR 
+2 DATE 08 Oct 1821
+2 PLAC Cradock
+1 BIRT 
+2 DATE 30 Apr 1821
+1 NAME Pieter Johannes /ERASMUS/
+1 SEX M
+1 NOTE 
+2 CONT Erasmus Register asook Paul & Hanneke Maré se Familie
+2 CONT
+2 CONT BIRT: RIN MH:IF17486
+2 CONT
+2 CONT CHR: RIN MH:IF17487
+2 CONT
+2 CONT EVEN: RIN MH:IF17488
+2 CONT RIN: MH:N500001
+1 FAMC @F118@
+0 @P227@ INDI 
+1 BURI 
+2 DATE 06 Aug 1949
+2 PLAC Pretoria-Wes Begraafplaas
+1 BAPM 
+2 DATE 11 Apr 1886
+2 PLAC Boshof OVS
+1 BIRT 
+2 DATE 18 Dec 1885
+2 PLAC Bethlehem, Free State, South Africa
+1 DEAT 
+2 DATE 05 Aug 1949
+2 PLAC Suid Afrikaanse Hospitaal Pretoria
+1 NAME Anna Sophia /BUYS/
+1 SEX F
+1 FAMS @F114@
+0 @P228@ INDI 
+1 OCCU Ambagsman SA Spoorwe
+1 BAPM 
+2 PLAC Pretoria
+1 BIRT 
+2 DATE 04 Nov 1914
+2 PLAC Pretoria
+1 DEAT 
+2 DATE 23 Jul 1988
+2 PLAC Pretoria
+1 SEX M
+1 NAME Cornelius Johannes Herculaas (Cor) /VAN TONDER/
+1 FAMC @F114@
+0 @P229@ INDI 
+1 OCCU Boukontrakteur
+1 BAPM 
+2 PLAC Pretoria
+1 BURI 
+2 PLAC Rebeccastraat Begraafplaas Pretoria
+1 BIRT 
+2 DATE 26 Sep 1916
+2 PLAC Pretoria
+1 DEAT 
+2 DATE 03 Aug 1966
+2 PLAC Kimberley
+1 SEX M
+1 NAME Johannes Hendrik /VAN TONDER/
+1 FAMC @F114@
+0 @P230@ INDI 
+1 DEAT 
+2 DATE 17 Mar 1926
+1 NAME Phillipus Jacobus /VAN TONDER/
+1 SEX M
+1 FAMC @F114@
+0 @P231@ INDI 
+1 DEAT 
+2 DATE 21 Oct 1986
+2 PLAC Pretoria   Rebeccastraat begraafplaas
+1 BIRT 
+2 DATE 22 Aug 1929
+1 NAME Abraham Gerhardus Wilhelm /VAN TONDER/
+1 SEX M
+1 FAMC @F114@
+0 @P232@ INDI 
+1 SEX M
+1 NAME Jacobus Machiel /VAN TONDER/
+1 FAMC @F119@
+1 FAMS @F113@
+1 FAMS @F114@
+0 @P233@ INDI 
+1 SEX F
+1 NAME Susanna /BRITS/
+1 FAMS @F52@
+0 @P234@ INDI 
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 SEX M
+1 FAMC @F52@
+0 @P235@ INDI 
+1 SEX M
+1 NAME Ockert /VAN DER WALT/
+1 FAMC @F52@
+0 @P236@ INDI 
+1 SEX M
+1 NAME Dawid /VAN DER WALT/
+1 FAMC @F52@
+0 @P237@ INDI 
+1 SEX F
+1 NAME Maritjie /VAN DER WALT/
+1 FAMC @F52@
+0 @P238@ INDI 
+1 NAME Magdalena (Lena) D P Sc /VAN DER WALT/
+1 SEX F
+1 FAMC @F52@
+0 @P239@ INDI 
+1 BAPM 
+2 DATE 21 Oct 1725
+1 SEX F
+1 BIRT 
+2 DATE 1725
+1 NAME Rachel /Grové/
+1 FAMS @F36@
+0 @P240@ INDI 
+1 BAPM 
+2 DATE 20 May 1728
+2 PLAC Drakenstein
+1 DEAT 
+2 DATE 30 Jan 1786
+2 PLAC Paarl, Cape, South Africa
+1 BIRT 
+2 DATE 1728
+2 PLAC Drakenstein
+1 NAME Jan /Blignaut/
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F36@
+0 @P241@ INDI 
+1 DEAT Algemeene Hospitaal
+2 DATE 06 Aug 1958
+2 PLAC Pretoria, Gauteng, South Africa
+1 BIRT 
+2 DATE Abt. 1893
+2 PLAC Bloemfontein, Free State, South Africa
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6243-i6137
+1 SEX M
+1 NAME Cornelis Johannes Herklaas /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6243-i6137
+1 FAMC @F28@
+1 FAMS @F37@
+1 FAMS @F38@
+0 @P242@ INDI 
+1 ALIA Flippie / Flip
+1 BIRT 
+2 DATE 04 Oct 1915
+1 SEX M
+1 NAME Phillipus Jacobus /BLIGNAUT/
+1 NAME Phillepes /BLIGNAUT/
+1 FAMC @F28@
+0 @P243@ INDI 
+1 DEAT Algemeene Hospitaal
+2 DATE 16 Feb 1949
+2 PLAC Pretoria, Gauteng, South Africa
+1 ALIA Judikus
+1 BIRT 
+2 DATE Abt. 1908
+2 PLAC Free State, South Africa
+1 SEX M
+1 NAME Judikus Johan /BLIGNAUT/
+1 NAME Judickus /BLIGNAUT/
+1 NOTE Hy is &apos;n Spoorwegbeampte van Villieria, Pretoria, toe hy in die huwelik tree met Johanna Horn.
+2 CONT Hy was werksaam by die &quot;Mechanical Engneer Section, SAS & H&quot; en van Bereastraat 22, Pretoria, toe hy sterf. 
+2 CONT Sy boedel is onder die naam Julius Johan Blignaut geregistreer. Sy inventaris toon &apos;n siekloon verskuldig deur sy werkgewer.
+2 CONT
+2 CONT Bronne / Sources· Louis Botha Blignaut - Mondelings
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart· MHG 66151
+2 CONT · MHG 1048/49
+2 CONT
+2 CONT · Bonnie Sydow
+1 FAMC @F28@
+1 FAMS @F68@
+0 @P244@ INDI 
+1 RESI 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 DEAT Algemene Hospitaal
+2 DATE 24 Nov 1963
+2 PLAC Pretoria, Gauteng, South Africa
+2 SOUR @S810174173@
+3 _APID 1,61359::386322
+2 SOUR @S810174171@
+3 PAGE Frederik Willem Blignaut
+1 BIRT 
+2 DATE Abt. 1901
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174171@
+3 PAGE Frederik Willem Blignaut
+1 ALIA Boeta
+1 ADDR 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE Frederik Willem Blignaut
+1 NAME Frederik Willem /BLIGNAUT/
+2 SOUR @S810174173@
+3 _APID 1,61359::386322
+2 SOUR @S810174171@
+3 PAGE Frederik Willem Blignaut
+1 NAME Frederik Willem /Blignaut/
+1 NOTE Worked for SARS&H
+1 FAMC @F28@
+1 FAMS @F105@
+0 @P245@ INDI 
+1 ALIA Suzy
+1 BIRT 
+2 DATE 16 Sep 1913
+2 PLAC Brits, Skeerpoort, North West South Africa, South Africa
+2 SOUR @S810174174@
+3 PAGE Birth SUSANNA FRANCINA CATHARINA BLIGNAUT
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6241-i6135
+1 SEX F
+1 DEAT 
+2 DATE 05 Dec 1986
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Susanna Francina Catharina /BLIGNAUT/
+2 SOUR @S810174174@
+3 PAGE https://www.gendatabase.com/paid/marriage-results2.php?q=17504013
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6241-i6135
+1 ALIA Susie
+1 NOTE Every called my grandmother Tannie Mac (Aunty Mac) or Suzy. My cousin Cathy was called after her. 
+2 CONT
+2 CONT Lived on her father&apos;s farm near Hartbeeshoek until the death of her mother when she was about 16.
+2 CONT Every called my grandmother Tannie Mac (Aunty Mac) or Suzy. My cousin Cathy was called after her.
+2 CONT Lived on her father&apos;s farm near Hartbeeshoek until the death of her mother when she was about 16.
+2 CONT RIN: MH:N11
+2 CONT
+2 CONT Sy is 23 jaar oud van Pretoria, toe sy in die huwelik tree met Donald McDonald.
+2 CONT
+2 CONT Bronne / Sources
+2 CONT · Louis Botha Blignaut - Mondelings
+2 CONT · Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart
+2 CONT · MHG 66151
+2 CONT · Bonnie Sydow
+2 CONT http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6241-i6135
+2 CONT
+2 CONT http://www.national.archsrch.gov.za/sm300cv/smws/sm30ddf0?20161122012121708E7468&DN=00000006
+2 CONT MHG 
+1 FAMC @F28@
+1 FAMS @F85@
+0 @P246@ INDI 
+1 BIRT 
+2 DATE Abt. 1830
+1 SEX M
+1 NAME Johannes Hendrik Petrus /KRUGER/
+1 FAMS @F31@
+0 @P247@ INDI 
+1 BIRT 
+2 DATE Abt. 1832
+1 SEX F
+1 NAME Johanna Maria /VAN DER WALT/
+1 FAMS @F31@
+0 @P248@ INDI 
+1 BIRT 
+2 DATE Abt. 28 Sep 1846
+1 DEAT 
+2 DATE 06 Sep 1864
+1 SEX F
+1 NAME Anna Maria Catharina Frederika Elizabeth /GROBLER/
+1 FAMS @F33@
+0 @P249@ INDI 
+1 SEX M
+1 NAME D /MEYER/
+1 FAMS @F65@
+0 @P250@ INDI 
+1 SEX F
+1 NAME /SCHOEMAN/
+1 FAMS @F99@
+0 @P251@ INDI 
+1 BIRT 
+2 DATE 24 Feb 1949
+1 SEX M
+1 ALIA Mel
+1 NAME Melville Byrant /FRIEND/
+1 NAME Melville /FRIEND/
+1 FAMS @F99@
+1 FAMS @F100@
+1 FAMS @F101@
+0 @P252@ INDI 
+1 DEAT On the farm, Bethel, Paarl
+2 DATE 28 Feb 1753
+2 PLAC Paarl, Cape, South Africa
+1 BIRT 
+2 DATE 1691
+2 PLAC Drakenstein
+1 BAPM 
+2 DATE 08 Jul 1691
+2 PLAC Cape Prov. South Africa
+1 SEX F
+1 NAME Anna /Rossouw/
+1 FAMS @F41@
+0 @P253@ INDI 
+1 DEAT Burried: Paarl
+2 DATE 02 Mar 1753
+2 PLAC Paarl, Cape, South Africa
+1 IMMI 
+2 DATE 1666
+2 PLAC Amsterdam, Amsterdam, Noord-Holland, Netherlands
+1 BAPM 
+2 DATE 06 May 1677
+2 PLAC Monthelon, Marne, Champagne-Ardenne, France
+1 ALIA Jan
+1 BIRT 
+2 DATE Abt. May 1677
+2 PLAC Monthelon, Marne, Champagne-Ardenne, France
+1 SEX M
+1 NAME Jean /Blignaut/
+1 NOTE Blignaut: Stamvader
+2 CONT
+2 CONT Jan Blignaut het lank na die aankoms van die eerste Hugenote in Suid Afrika aangkom. Sy naam kom egter voor onder die Franse vlugtelinge wat behandel word in &quot;Huguenot Famlies at the Cape of Goo
+2 CONC d Hope&quot;. Nadat Jan Holland bereik het, het hy in diens getree van die Oos-Indiese Kompanjie. Toe hy in 1723 hier aangeland het, was hy adelborst op die skip Huijs ten Assenburg. Daar word bewee
+2 CONC r dat Daniël Hugo vir Jan genader het as onderwyser vir sy kinders. Jan was egter nie lank skoolmeester nie, want Daniël is sowat &apos;n jaar na Jan se aankoms oorlede. Jan is toe kort daarna met d
+2 CONC ie weduwee Hugo getroud en het besitter van verskeie plase geword, onder andere die pragtige plaas Zion.
+2 CONT Volgens een van die bronne waaruit inligting aangaande Jan en sy vrou se eerste man, Daniël Hugo, blyk dit dat Daniël, Jan se ouma, se broer was. Daniël was 40 toe hy getroud is met Anna, terwyl s
+2 CONC y &apos;n meisie van 14 was.
+2 CONT Jan het sy ouers uit Europa laat kom, want sy moeder teken as getuie by die doop van sy oudste dogter. Hy was kassier van die Drakenstein gemeente en dien ook op die Drakensteinse heemraad.
+2 CONT Jean het sy naam as Jan begin geskryf kort nadat hy Suid Afrika toe gekom het. &apos;n Handtekening van hom in &apos;n kerkraadsnotuleregister, gedateer 1734, van die eerste kerk in die Paarl bevesti
+2 CONC g dit. Daar bestaan ook verwarring oor die oorspronklike spelling van die van Blignaut. Al die handtekeninge van Jan was geteken Jan Blignaut en nie Blignault soos verkeerdelik vermoed word nie. Daa
+2 CONC r is wel van Jan se afstammelinge wat die van Blignault gebruik. Die verbuiging is egter beperk tot &apos;n klein groepie mense.
+2 CONT A special word of thanks to Cecil Louis Blignaut from the USA, who pointed out that Jan was not known as Jean, as is popularly believed. Jan lived in Amsterdam since the age of 11 until his departur
+2 CONC e at the age of 35 for the Cape on 26 October 1722 by which time he had assumed a Dutch personality.
+2 CONT
+2 CONT
+2 CONT
+2 CONT Bronne / Sources
+2 CONT 1 Drakenstein Huweliksregisters Jean le Roux
+2 CONT 2 GISA Mikrofilm - Dooprekords Afgeskryf deur Lorna Olivier
+2 CONT 3 Cecil Blignaut - E-pos
+2 CONT 1 ~
+1 FAMC @F45@
+1 FAMS @F41@
+0 @P254@ INDI 
+1 SEX F
+1 NAME Magdalena Gerbrecht /KRUGER/
+1 FAMS @F37@
+0 @P255@ INDI 
+1 DEAT 
+2 DATE 06 Feb 1947
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX F
+1 BIRT 
+2 DATE Abt. 1894
+2 PLAC Boshof, O.V.S, South Africa
+1 NAME Susanna Lucia /BUYS/
+1 FAMS @F38@
+0 @P256@ INDI 
+1 BIRT 
+2 DATE 19 Jan 1904
+1 DEAT 
+2 DATE 16 Feb 1991
+2 PLAC Pretoria
+1 SEX F
+1 NAME Jacoba Johanna Maria /DE WAAL/
+1 NOTE Weduwee Smith
+2 CONT RIN: MH:N500303
+1 FAMS @F113@
+0 @P257@ INDI 
+1 BAPM 
+2 DATE 27 Okt  (23 Mei) 1782
+1 DEAT 
+2 DATE 5 Jan 1859 (1839?)
+2 PLAC Nauwpoort distrik Albert
+1 NAME Gert Johannes Herklaas /BUITENDAG/
+1 SEX M
+1 FAMS @F39@
+0 @P258@ INDI 
+1 BAPM 
+2 DATE 07 Apr 1791
+1 BIRT 
+2 DATE 26 Oct 1790
+2 PLAC Drakenstein
+1 DEAT 
+2 DATE 1836
+1 SEX F
+1 NAME Elizabeth Catharina Johanna (Elsie) /VILJOEN/
+1 FAMS @F39@
+0 @P259@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 30 Jun 1835
+2 PLAC Grootfontein, Free State, South Africa
+1 NAME Hester Catharina Magdalena /LOMBARD/
+1 FAMC @F40@
+0 @P260@ INDI 
+1 BIRT 
+2 DATE 1834
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Anthonie Abraham Adriaan /LOMBARD/
+1 SEX M
+1 FAMC @F40@
+0 @P261@ INDI 
+1 BIRT 
+2 DATE 1832
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Sybrand Lourens /LOMBARD/
+1 SEX M
+1 FAMC @F40@
+0 @P262@ INDI 
+1 BIRT 
+2 DATE 1847
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Anna /LOMBARD/
+1 SEX F
+1 FAMC @F40@
+0 @P263@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 1843
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Engela Anna Johanna /LOMBARD/
+1 FAMC @F40@
+0 @P264@ INDI 
+1 BIRT 
+2 DATE 22 Mar 1840
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME David Johannes Anthonie /LOMBARD/
+1 SEX M
+1 FAMC @F40@
+0 @P265@ INDI 
+1 BIRT 
+2 DATE 1845
+2 PLAC Beaufort West, Western Cape, South Africa
+1 NAME Johanna /LOMBARD/
+1 SEX F
+1 FAMC @F40@
+0 @P266@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 1838
+2 PLAC Bloemfontein, Free State, South Africa
+1 NAME Cornelia Elizabeth /LOMBARD/
+1 FAMC @F40@
+0 @P267@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 18 Jul 1939
+1 NAME Maria Magdalena (Mollie) /BRITS/
+1 FAMC @F115@
+0 @P268@ INDI 
+1 SEX M
+1 NAME Jan Hendrik /VAN TONDER/
+1 FAMC @F119@
+0 @P269@ INDI 
+1 DEAT 
+2 PLAC Cape Prov. South Africa
+1 BIRT 
+2 DATE 1645
+2 PLAC Monthelon, Marne, Champagne-Ardenne, France
+1 SEX F
+1 NAME Elisabeth /DES BORDES/
+1 FAMS @F45@
+0 @P270@ INDI 
+1 BIRT 
+2 PLAC Monthelon, Marne, Champagne-Ardenne, France
+1 ALIA abt 1646
+1 DEAT 
+2 DATE 1726
+1 SEX M
+1 NAME Pierre /Blignaut/
+1 FAMC @F49@
+1 FAMS @F45@
+0 @P271@ INDI 
+1 RESI 
+1 SEX M
+1 BIRT 
+2 DATE 02 Apr 1962
+2 PLAC Pretoria
+1 NAME Johannes Hendrik Petrus /VAN DER WALT/
+1 FAMC @F58@
+0 @P272@ INDI 
+1 SEX F
+1 NAME Hester /VAN ROOYEN/
+1 FAMS @F43@
+0 @P273@ INDI 
+1 SEX M
+1 NAME Sybrand Lourens /BOTES/
+1 FAMS @F43@
+0 @P274@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 05 Feb 1858
+1 CHR 
+2 PLAC Middelburg KP
+1 NAME Hester Johanna (Hendrina) Maria /VAN DER WALT/
+1 FAMC @F42@
+0 @P275@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 15 Apr 1860
+1 NAME Susanna Lasya /VAN DER WALT/
+1 FAMC @F42@
+0 @P276@ INDI 
+1 CHR 
+2 PLAC Colesberg
+1 BIRT 
+2 DATE 18 Nov 1840
+1 DEAT 
+2 DATE 23 Jan 1862
+2 PLAC Vaalbank, Dist Bethulie, SA
+1 SEX F
+1 NAME Maria Elizabeth /VAN DER WALT/
+1 FAMC @F42@
+0 @P277@ INDI 
+1 CHR 
+2 DATE 07 Jul 1799
+1 BIRT 
+2 DATE 1799
+1 BAPM 
+2 DATE 07 Jul 1799
+1 NAME Maria Elizabeth /VAN DER WALT/
+1 SEX F
+1 FAMS @F50@
+0 @P278@ INDI 
+1 CHR 
+2 DATE 27 Jan 1793
+2 PLAC Graaff-Reinet, Oos Kaap, Suid-Afrika
+1 DEAT 
+2 DATE 02 Oct 1852
+2 PLAC Ezelfontein, dist Albert South Africa
+1 BIRT 
+2 DATE 18 Nov 1792
+2 PLAC dist Graaff-Reinet, Oos Kaap, Suid-Afrika
+1 NAME Tjaart Nicolaas /VAN DER WALT/
+1 SEX M
+1 FAMS @F50@
+0 @P279@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 01 Dec 1999
+2 PLAC Pretoria
+1 NAME Reynhardt /SWART/
+1 FAMC
+0 @P280@ INDI 
+1 BIRT 
+2 DATE 25 Dec 1966
+1 SEX U
+1 NAME Anton /SWART/
+1 FAMS @F95@
+0 @P281@ INDI 
+1 BIRT 
+2 DATE 04 Jan 1969
+2 PLAC Pretoria
+1 SEX F
+1 NAME Ronel Arina /ODENDAAL/
+1 NAME Ronel /ODENDAAL/
+1 FAMC @F93@
+1 FAMS @F95@
+0 @P282@ INDI 
+1 BIRT 
+2 DATE 31 May 1910
+1 NAME Magdalena Susanna /KHUN/
+1 SEX F
+1 FAMS @F44@
+0 @P283@ INDI 
+1 DEAT 
+2 DATE 05 Dec 1998
+2 PLAC Vanderbijlpark
+1 BIRT 
+2 DATE 27 May 1924
+1 SEX F
+1 NAME Jacoba Magrieta A M /JANSEN VAN VUUREN/
+1 FAMS @F60@
+0 @P284@ INDI 
+1 DEAT 
+2 DATE 26 Jul 2009
+2 PLAC Vanderbijlpark
+1 BIRT 
+2 DATE 01 Sep 1942
+1 NAME Hendrik Tjaart /VAN DER WALT/
+1 SEX M
+1 FAMC @F60@
+0 @P285@ INDI 
+1 RESI 
+1 SEX M
+1 BIRT 
+2 DATE 30 May 1945
+2 PLAC Pretoria North
+1 NAME Petrus Johannes Jacobus /VAN DER WALT/
+1 FAMC @F60@
+1 FAMS @F51@
+0 @P286@ INDI 
+1 BIRT 
+2 DATE Abt. 1621
+2 PLAC Serzy, Marne, Champagne-Ardenne, France
+1 NAME Maria /HUGOT/
+1 SEX F
+1 FAMS @F49@
+0 @P287@ INDI 
+1 BIRT 
+2 DATE Abt. 1619
+2 PLAC Monthelon, Marne, Champagne-Ardenne, France
+1 NAME Estienne /Blignaut/
+1 SEX M
+1 FAMS @F49@
+0 @P288@ INDI 
+1 DEAT 
+2 DATE Abt. 1994
+1 SEX F
+1 BIRT 
+2 DATE 06 Dec 1927
+1 NAME Magdalena Dorothea Psc /BRITS/
+1 FAMC @F115@
+0 @P289@ INDI 
+1 BIRT 
+2 DATE 28 Apr 1937
+1 DEAT 
+2 DATE 04 Apr 1994
+2 PLAC Vanderbijlpark
+1 NAME Johanna Magrietha /BRITS/
+1 SEX F
+1 FAMC @F115@
+0 @P290@ INDI 
+1 BIRT 
+2 DATE 13 Sep 1943
+1 SEX F
+1 NAME Maria Magdalena /VAN DER WALT/
+1 FAMC @F58@
+0 @P291@ INDI 
+1 EVEN 
+2 TYPE Anglo Boer War
+2 DATE 1901
+2 PLAC Irene RC Concentration Camp found on farm Klipdrift - Hammanskraal
+1 DEAT 
+2 DATE 08 Oct 1974
+1 SEX M
+1 BIRT 
+2 DATE 06 Jun 1893
+1 NAME Christoffel Antonie /HENRICO/
+1 FAMS @F46@
+0 @P292@ INDI 
+1 DEAT 
+2 DATE Abt. 2008
+2 PLAC Pretoria
+1 BIRT 
+2 DATE 10 Jul 1940
+2 PLAC Schoonuitzicht, Hammanskraal
+1 SEX M
+1 NAME Stephanus Jacobus /HENRICO/
+1 FAMC @F46@
+0 @P293@ INDI 
+1 DEAT 
+2 DATE 18 Jun 1999
+1 BIRT 
+2 DATE 04 Feb 1911
+1 SEX F
+1 NAME Magritha Catharina /BARKHUIZEN/
+1 FAMS @F46@
+0 @P294@ INDI 
+1 BIRT 
+2 DATE 27 May 1937
+1 DEAT 
+2 DATE 16 May 2014
+1 NAME Christoffelina Antoniea /HENRICO/
+1 SEX F
+1 FAMC @F46@
+0 @P295@ INDI 
+1 BIRT 
+2 DATE 17 Aug 1929
+1 DEAT 
+2 DATE Aug 2013
+1 SEX F
+1 NAME Magrietha Catharina (Tienie) /HENRICO/
+1 FAMC @F46@
+0 @P296@ INDI 
+1 DEAT 
+2 DATE 1999
+2 PLAC Vanderbijl Park
+1 SEX F
+1 BIRT 
+2 DATE 17 Mar 1948
+1 NAME Sophia Maria /HENRICO/
+1 FAMC @F46@
+0 @P297@ INDI 
+1 DEAT 
+2 DATE 28 Jan 2005
+1 SEX F
+1 BIRT 
+2 DATE 17 Mar 1948
+1 NAME Maria Antoinette /HENRICO/
+1 FAMC @F46@
+0 @P298@ INDI 
+1 BIRT 
+2 DATE 17 Oct 1943
+1 SEX M
+1 ALIA Nick
+1 NAME Nicolaas Gerhardus /HENRICO/
+1 FAMC @F46@
+1 FAMS @F96@
+0 @P299@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 17 Jul 1746
+1 NAME Maria Catharina /BLOM/
+1 FAMC @F80@
+1 FAMS @F79@
+0 @P300@ INDI 
+1 DEAT 
+2 DATE 11 Jun 1890
+2 PLAC Ruigtespruit distr. Caledonrivier
+1 SEX F
+1 BIRT 
+2 DATE 1868
+2 PLAC De Hoop
+1 NAME Janetta Wilhelmina Elizabeth Catharina /VAN TONDER/
+1 FAMC @F119@
+0 @P301@ INDI 
+1 BAPM 
+2 DATE 10 Nov 1786
+1 DEAT 
+2 DATE 04 Nov 1857
+2 PLAC Plaas Ontevreden distr. Albert
+1 SEX F
+1 BIRT 
+2 DATE 10 Nov 1786
+2 PLAC Oliphants Rivier Swellendam
+1 NAME Engela Carolina Pieternella /VILJOEN/
+1 FAMS @F54@
+0 @P302@ INDI 
+1 NAME /HETTIE/
+1 SEX F
+1 FAMS @F110@
+0 @P303@ INDI 
+1 BIRT 
+2 PLAC Pretoria
+1 NAME Coenraad Hendrik /VAN DER WALT/
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F110@
+0 @P304@ INDI 
+1 NAME Coenraad Hendrik (Coenie) /VAN DER WALT/
+1 SEX M
+1 FAMC @F110@
+0 @P305@ INDI 
+1 NAME Magrietha Jacoba (Grietjie) /VAN DER WALT/
+1 SEX F
+1 FAMC @F110@
+0 @P306@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 26 Feb 1948
+2 PLAC Lagersdrif, Middelburg Tvl
+1 NAME Maria Hendrieka /CALITZ/
+1 FAMS @F51@
+0 @P307@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 06 Jun 1949
+1 NAME Paul Jacobus /VAN DER WALT/
+1 FAMC @F58@
+0 @P308@ INDI 
+1 BIRT 
+2 DATE 1775
+1 DEAT 
+2 DATE 1889
+1 NAME Maria Catharina /BOTHA/
+1 SEX F
+1 FAMS @F55@
+0 @P309@ INDI 
+1 BIRT 
+2 DATE 10 Sep 1768
+2 PLAC Swellendam, Western Cape, South Africa
+1 SEX M
+1 NAME Johannes Hendrik /SCHOEMAN/
+1 FAMC @F59@
+1 FAMS @F55@
+0 @P310@ INDI 
+1 BIRT 
+2 DATE Abt. 1911
+1 NAME Johanna Catharina Elsie /HORN/
+1 SEX F
+1 FAMS @F68@
+0 @P311@ INDI 
+1 BURI 
+2 PLAC Rebeccastraat Begraafplaas Pretoria
+1 BIRT 
+2 DATE 24 Feb 1862
+1 DEAT 
+2 DATE 11 Aug 1941
+2 PLAC Pretoria, Pretoria, Gauteng, South Africa
+1 NAME Maria Elizabeth /NELL/
+1 SEX F
+1 NOTE Grafnr: 3097 Dutch B
+2 CONT RIN: MH:N500302
+1 FAMS @F120@
+0 @P312@ INDI 
+1 DEAT 
+2 DATE 25 Aug 2000
+1 BIRT 
+2 DATE 19 Mar 1948
+1 SEX F
+1 NAME Magdalena Dorothea Psc /DE BEER/
+1 FAMC @F73@
+0 @P313@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 10 Jan 1958
+2 PLAC Vereeniging South Africa
+1 NAME Elizabeth Anna /DE BEER/
+1 FAMC @F73@
+0 @P314@ INDI 
+1 BIRT 
+2 DATE 19 Feb 1741
+2 PLAC Drakenstein
+1 NAME Petronella (Jacoba) /Bekker/
+1 SEX F
+1 FAMS @F59@
+0 @P315@ INDI 
+1 BIRT 
+2 DATE 06 Oct 1737
+2 PLAC Paarl, Cape, South Africa
+1 DEAT 
+2 DATE 18 Apr 1810
+2 PLAC Swellendam, Western Cape, South Africa
+1 NAME Johannes Hendrik /SCHOEMAN/
+1 SEX M
+1 FAMC @F62@
+1 FAMS @F59@
+0 @P316@ INDI 
+1 DEAT 
+2 DATE 27 Apr 1967
+1 SEX M
+1 BIRT 
+2 DATE 09 Apr 1891
+1 NAME Christoffel Rudolf /VENTER/
+1 FAMS @F57@
+0 @P317@ INDI 
+1 BIRT 
+2 DATE 05 Aug 1890
+1 DEAT 
+2 DATE 02 Sep 1974
+1 SEX F
+1 NAME Anna Alida Cecilia /VAN DER WALT/
+1 FAMC @F63@
+1 FAMS @F57@
+0 @P318@ INDI 
+1 BIRT 
+2 DATE Abt. 1932
+1 ALIA Tienie?
+1 NAME Catharina Elizabeth /BLIGNAUT/
+1 SEX F
+1 FAMC @F105@
+0 @P319@ INDI 
+1 DEAT 
+2 DATE Abt. 2006
+1 BIRT 
+2 DATE 16 Nov 1908
+2 PLAC Klipfontein, Gauteng, South Africa
+1 RESI 
+2 PLAC Waterval Boven, Mpumalanga, South Africa
+1 ALIA Kitty
+1 ADDR 
+2 DATE 1963
+2 PLAC 25 Flower Street, Capital Park, Pretoria
+1 SEX F
+2 SOUR @S810174171@
+3 PAGE Catharina Elizabeth McDonald [14039]
+1 NAME Catharina Elizabetha /MCDONALD/
+2 SOUR @S810174171@
+3 PAGE Catharina Elizabeth McDonald [14039]
+1 BIRT Persoonsnommer 314-738366W. Sy is 20 jaar oud en van Klipfontein toe sy in die huwelik tree met Frederik Blignaut. 'n Hertrousertifikaat word aan haar uitgereik op 29 Maart 1965.
+2 DATE 16 Nov 1908
+2 PLAC Klipfontein, Gauteng, South Africa
+2 SOUR @S810174171@
+3 PAGE Catharina Elizabeth McDonald [14039]
+1 NOTE She died aged 97
+2 CONT Witnesses at their wedding was FW Blignaut and JJ McDonald (Blignaut.co.uk)
+1 FAMC @F87@
+1 FAMS @F105@
+0 @P320@ INDI 
+1 SEX M
+1 NAME Petrus Jeremia Johannes /VAN DER WALT/
+1 FAMC @F58@
+0 @P321@ INDI 
+1 BIRT 
+2 DATE 29 Apr 1959
+2 PLAC Pretoria
+1 SEX M
+1 NAME Sarel Coenraad /VAN DER WALT/
+1 FAMC @F58@
+0 @P322@ INDI 
+1 BAPM 
+2 DATE 13 Feb 1718
+2 PLAC Drakenstein, Cape of Good Hope NG Kerk
+1 ALIA Marthie Olivier
+1 BIRT 
+2 DATE Abt. 13 Feb 1718
+2 PLAC Cape of Good Hope
+1 DEAT 
+2 DATE 1758
+2 PLAC Cape of Good Hope
+1 SEX F
+1 NAME Martha /Olivier/
+1 FAMC @F67@
+1 FAMS @F62@
+0 @P323@ INDI 
+1 DEAT 
+2 DATE 10 Dec 1765
+2 PLAC Agter Kogmanskloof
+1 IMMI 
+2 DATE 1724
+2 PLAC Bosau, Ostholstein, Schleswig-Holstein, Germany
+1 ALIA Heinrich Schumacher
+1 SEX M
+1 BIRT 
+2 DATE Abt. 1702
+2 PLAC Bosau, Ostholstein, Schleswig-Holstein, Germany
+1 NAME Hendrik /SCHOEMAN/
+1 FAMS @F62@
+0 @P324@ INDI 
+1 NAME Susanna Fransina Catharina /VAN TONDER/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F111@
+0 @P325@ INDI 
+1 NAME Hendrik Stephanus /HENNING/
+1 SEX M
+1 FAMS @F111@
+0 @P326@ INDI 
+1 CHR 
+2 PLAC Steynsburg
+1 SEX M
+1 BIRT 
+2 DATE 01 Dec 1876
+2 PLAC Steynsburg
+1 NAME Tjaart Nicholas /VAN DER WALT/
+1 FAMC @F63@
+1 FAMS @F61@
+0 @P327@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE Abt. Oct 1880
+2 PLAC Steynsburg
+1 NAME Titjaatje Sophia /DU PLESSIS/
+1 FAMS @F61@
+0 @P328@ INDI 
+1 BIRT 
+2 DATE 15 May 1920
+2 PLAC Waterberg, Transvaal, South Africa
+1 DEAT 
+2 DATE 02 Jun 1997
+2 PLAC Pretoria, Transvaal, South Africa
+1 SEX F
+1 NAME Hester Dorothea /HENRICO/
+1 FAMS @F82@
+0 @P329@ INDI 
+1 BIRT 
+2 DATE 05 Aug 1911
+2 PLAC Krugersdorp, Transvaal
+1 DEAT 
+2 DATE 03 Jun 2000
+2 PLAC Pretoria North
+1 SEX M
+1 NAME Andries Johannes /VAN DER MERWE/
+1 FAMS @F82@
+0 @P330@ INDI 
+1 ALIA Celia Schoeman
+1 SEX F
+1 NAME Cecilia /MARGARETHA/
+1 NAME Cecilia /UNKNOWN/
+1 FAMC @F82@
+1 FAMS @F90@
+0 @P331@ INDI 
+1 DEAT 
+2 DATE 14 Jul 1967
+2 PLAC Rotterdam Zuid-Holland
+1 SEX M
+1 BIRT 
+2 DATE 27 Jan 1882
+2 PLAC Nederland
+1 NAME Hendrik Bernardus /VAN DER WALT/
+1 FAMC @F63@
+0 @P332@ INDI 
+1 BIRT 
+2 DATE 1895
+2 PLAC Steynsburg
+1 NAME Johanna Maria /VAN DER WALT/
+1 SEX F
+1 FAMC @F63@
+0 @P333@ INDI 
+1 BIRT 
+2 DATE 1879
+2 PLAC Steynsburg
+1 NAME Hendrik Johannes Petrus /VAN DER WALT/
+1 SEX M
+1 FAMC @F63@
+0 @P334@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 21 Dec 1976
+1 NAME George /BECKER/
+1 FAMS @F64@
+0 @P335@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 11 Dec 2007
+2 PLAC Pretoria
+1 NAME Annika /BECKER/
+1 FAMC @F64@
+0 @P336@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 05 Jan 2010
+2 PLAC Pretoria
+1 NAME Katinka /BECKER/
+1 FAMC @F64@
+0 @P337@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 07 Aug 1976
+2 PLAC Pretoria
+1 NAME Adéle /SCHOEMAN/
+1 FAMC @F90@
+1 FAMS @F64@
+0 @P338@ INDI 
+1 DEAT 
+2 DATE 18 Jul 1777
+2 PLAC Waveren
+1 BAPM 
+2 DATE 08 Jul 1701
+2 PLAC Dutch Reformed Church Drakenstein
+1 NAME Ellaina /Beurger/
+1 SEX F
+1 ALIA Helena Burger
+1 BIRT 
+2 DATE Bef. 08 Jul 1701
+2 PLAC Drakenstein, Cape of Good Hope
+1 FAMS @F67@
+0 @P339@ INDI 
+1 BAPM 
+2 DATE 07 Nov 1683
+1 DEAT 
+2 DATE Bef. 1777
+1 NAME Jan /Olivier/
+1 SEX M
+1 BIRT 
+2 DATE Bef. 07 Nov 1683
+2 PLAC Cape of Good Hope
+1 FAMC @F72@
+1 FAMS @F67@
+0 @P340@ INDI 
+1 SEX F
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/21285-i21079
+1 NAME Lenie /SCHOEMAN/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/21285-i21079
+1 FAMC @F116@
+0 @P341@ INDI 
+1 DEAT 
+2 DATE Bef. May 1929
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6239-i6133
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6239-i6133
+1 NAME /SCHOEMAN/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6239-i6133
+1 FAMS @F116@
+0 @P342@ INDI 
+1 DEAT 
+2 DATE Abt. 1701
+1 OCCU Matroos / later farmer
+1 EVEN Liesbeeckrivier
+2 TYPE Farm / property name
+2 PLAC Tygerberg - Clara Anna Fontein / "Louisenklip" aan die Bergrivier. Land van Waveren
+1 BIRT 
+2 DATE Bef. 1645
+2 PLAC Zierikzee, Schouwen-Duiveland, Zeeland, Netherlands
+1 ALIA Hendrik Cornelisen van Out Beijerlandt
+1 IMMI 
+2 DATE 1667
+2 PLAC 't Wapen van Middelburgh
+1 NAME Hendrik Corneliszoon /Olivier/
+1 SEX M
+1 FAMC @F74@
+1 FAMS @F72@
+0 @P343@ INDI 
+1 ADDR 
+2 PLAC Tafel Valleij
+1 DEAT 
+2 DATE 30 Jan 1741
+2 PLAC Cape of Good Hope
+1 NAME Beatrice Gijsbertz /VERWIJ/
+1 SEX F
+1 BIRT 
+2 DATE Bet. 1650-1657
+2 PLAC Utrecht, Netherlands
+1 FAMC @F75@
+1 FAMS @F72@
+0 @P344@ INDI 
+1 DEAT 
+2 DATE 29 Nov 1901
+2 PLAC tent 101  ???ischfonteinkamp Bloemfontein
+1 BIRT 
+2 PLAC Lastpoort  Smithfield
+1 SEX F
+1 NAME Isabella Margrieta (Bellie) /BLIGNAUT/
+1 FAMS @F69@
+0 @P345@ INDI 
+1 SEX M
+1 NAME Unknown /SCHOEMAN/
+1 FAMS @F71@
+0 @P346@ INDI 
+1 SEX F
+1 ALIA Mrs Scoeman
+1 NAME Unknown /UNKNOWN/
+1 FAMS @F71@
+0 @P347@ INDI 
+1 BIRT 
+2 DATE 06 May 1819
+2 PLAC Smerset Oos Kaap Suid Afrika
+1 NAME Lourens Rasmus /ERASMUS/
+1 SEX M
+1 FAMC @F118@
+0 @P348@ INDI 
+1 SEX F
+1 NAME /UNKNOWN/
+1 FAMS @F74@
+0 @P349@ INDI 
+1 DEAT 
+2 DATE 29 Aug 1676
+2 PLAC Ouwerkerk, Schouwen-Duiveland, Zeeland, Netherlands
+1 BIRT 
+2 DATE 1626
+2 PLAC Ouwerkerk, Schouwen-Duiveland, Zeeland, Netherlands
+1 SEX M
+1 NAME Cornelis Coneliszoon /OLIVIER/
+1 FAMC @F125@
+1 FAMS @F74@
+0 @P350@ INDI 
+1 ALIA Trintje / GANZEVANGER
+1 BIRT 
+2 DATE Abt. 1630
+2 PLAC Millingen, Dalfsen, Overijssel, Netherlands
+1 DEAT 
+2 DATE Bef. 13 Sep 1715
+2 PLAC Cape of Good Hope
+1 NAME Catharina Theunisz /GANSEVANGER/
+1 SEX F
+1 FAMC @F126@
+1 FAMS @F75@
+0 @P351@ INDI 
+1 DEAT 
+2 DATE Bet. 1676-1677
+2 PLAC Cape of Good Hope
+1 IMMI 
+2 DATE Bef. 1668
+1 ALIA Verwey
+1 BIRT 
+2 DATE Abt. 1630
+2 PLAC Millingen, Dalfsen, Overijssel, Netherlands
+1 NAME Gysbert Dircksz /VERWEIJ/
+1 SEX M
+1 FAMS @F75@
+0 @P352@ INDI 
+1 BURI 
+2 PLAC Middelburg British Concentrastin Camp
+1 DEAT 
+2 DATE 30 Aug 1901
+2 PLAC Middelburg British Concentration Camp
+1 SEX M
+1 BIRT 
+2 DATE Abt. 26 Jul 1899
+1 NAME Willem Jacobus /SCHOEMAN/
+1 DEAT 
+2 DATE 30 Aug 1901
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 BIRT 
+2 DATE 1900
+2 PLAC Weltevreden, Middelburg Tvl
+1 FAMC @F91@
+0 @P353@ INDI 
+1 DEAT 
+2 DATE Abt. 1650
+2 PLAC Nederland
+1 ALIA Cornelizoon OLIVIER
+1 BIRT 
+2 DATE Abt. 1570
+2 PLAC Ouwerkerk, Schouwen-Duiveland, Zeeland, Netherlands
+1 SEX M
+1 NAME Cornelis /OLIVIER/
+1 FAMC @F127@
+1 FAMS @F125@
+0 @P354@ INDI 
+1 DEAT 
+2 DATE 04 Sep 1901
+2 PLAC Middelburg British Concentration Camp
+1 BURI 
+2 PLAC Middelburg British Concentrastin Camp
+1 SEX F
+1 BIRT 
+2 DATE 29 Mar 1898
+2 PLAC Weltevreden, Middelburg Tvl
+1 NAME Anna Magdalena Johanna /SCHOEMAN/
+1 DEAT 
+2 DATE 04 Sep 1901
+2 PLAC Middelburg, Mpumalanga, South Africa
+1 NOTE She enters the concentration camp aged three with her mother. She dies a couple of months later of measles and pneumonia.
+2 CONT RIN: MH:N35
+1 FAMC @F91@
+0 @P355@ INDI 
+1 DEAT 
+2 DATE Jul 1901
+1 BURI 
+2 PLAC Middelburg British Concentration Camp
+1 BIRT 
+2 DATE 31 Jul 1901
+2 PLAC Weltevreden, Middelburg Tvl
+1 SEX F
+1 NAME Baby /SCHOEMAN/
+1 NAME Unknown Baby /Schoeman/
+1 FAMC @F91@
+0 @P356@ INDI 
+1 BIRT 
+2 DATE 1520
+2 PLAC Zeeland, Netherlands
+1 NAME Olivier Corneliszoon /OLIVIER/
+1 SEX M
+1 FAMS @F127@
+0 @P357@ INDI 
+1 NAME Nellie /DE JAGER/
+1 SEX F
+1 FAMC @F91@
+0 @P358@ INDI 
+1 SEX M
+1 ALIA about 1610
+1 NAME Gijsbert /GANZEVANGER/
+1 FAMS @F126@
+0 @P359@ INDI 
+1 DEAT 
+2 DATE 1891
+1 NAME Maria Magdalena /ERASMUS/
+1 SEX F
+1 BIRT 
+2 DATE 11 Jul 1831
+2 PLAC Somerset East Suid Afrika
+1 FAMC @F118@
+0 @P360@ INDI 
+1 DEAT 
+2 DATE 1903
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 1866
+2 PLAC Pretoria District, Gauteng, Zaf
+1 SEX F
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Susanna Josina Gesina /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P361@ INDI 
+1 DEAT Age: 62
+2 DATE 30 Dec 1921
+2 PLAC Klipfontein, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 09 Jan 1859
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX M
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Jacobus Frederik /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P362@ INDI 
+1 DEAT 
+2 DATE 26 Oct 1929
+2 PLAC Klipfontein, Pretoria, Gauteng, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 BIRT 
+2 DATE 1868
+2 PLAC Pretoria District, Gauteng, Zaf
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 SEX F
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 NAME Maria Jacoba /Van Staden/
+2 SOUR @S810174176@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=WebASM-9289&h=5581156&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Van Staden
+3 _APID 1,9289::5581156
+1 FAMC @F77@
+0 @P363@ INDI 
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+1 ALIA Johannes Jacobus Van Staden MACDONALD
+1 BIRT 
+2 DATE 08 May 1861
+2 PLAC South Africa
+1 DEAT 
+2 DATE 01 Jan 1964
+1 SEX M
+1 NAME Johannes Jacobus Van Staden /MCDONALD/
+1 DEAT 
+2 DATE Abt. 1964
+1 NAME Johannes Jacobus Van Staden /MaCDONALD/
+1 NOTE One possibility is that Johannes&apos; mother died during his birth and he was adopted by her family, the Van Stadens, who raised him as their child. Another possibility is that his mother was not a V
+2 CONC an Staden at all but that they merely adopted him. He lives with the van Stadens on their farm near Klipfontein (North of the Magaliesberg and West of Pretoria)
+2 CONT
+2 CONT He fought during the Anglo Boer War. Towards the end of the War he was put in front of an English firing squad who assumed on account of his surname that he must be a traitor. Some Boer officer vouche
+2 CONC d for him being English and he was subsequently released.
+2 CONT
+2 CONT He dies at the 80, which must be circa 1964
+2 CONT One possibility is that Johannes&apos; mother died during his birth and he was adopted by her family, the Van Stadens, who raised him as their child. Another possibility is that his mother was not a V
+2 CONC an Staden at all but that they merely adopted him. He lives with the van Stadens on their farm near Klipfontein (North of the Magaliesberg and West of Pretoria)
+2 CONT
+2 CONT He fought during the Anglo Boer War. Towards the end of the War he was put in front of an English firing squad who assumed on account of his surname that he must be a traitor. Some Boer officer vouche
+2 CONC d for him being English and he was subsequently released.
+2 CONT
+2 CONT He dies at the 80, which must be circa 1964
+2 CONT RIN: MH:N9
+2 CONT
+2 CONT
+2 CONT The only record with the van staden mcdonald ref is in:
+2 CONT http://www.national.archsrch.gov.za/sm300cv/smws/sm30ddf0?20161122013721708E7468&DN=00000024
+2 CONT
+2 CONT
+2 CONT
+2 CONT
+2 CONT OPPOSED APPLICATION. SIDNEY FINE VERSUS JOHANNES JACOBUS VAN STADEN   
+2 CONT MACDONALD. 
+2 CONT MHG 8/658
+2 CONT
+2 CONT
+2 CONT REFERENCE 7545/1964            DESCRIPTION          VAN STADEN, WYNAND JOHANNES JACOBUS.                                  
+2 CONT STARTING  19640000             ENDING    19640000              REMARKS   SURVIVING SPOUSE PETRONELLA JOHANNA JACOBA VAN STADEN (BORN                      ENGELBRECHT).  
+1 FAMC @F88@
+1 FAMC @F77@
+1 FAMS @F87@
+0 @P364@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 27 Mar 1801
+2 PLAC Graaff-Reinet, Eastern Cape, South Africa
+1 NAME Margaretha Elizabeth /BEZUIDENHOUT/
+1 FAMS @F78@
+0 @P365@ INDI 
+1 BIRT 
+2 DATE Bef. 27 Sep 1772
+1 NAME Jacobus Frederik /van STADEN/
+1 SEX M
+1 FAMS @F78@
+0 @P366@ INDI 
+1 SEX F
+1 NAME Susanna /FOURIE/
+1 FAMS @F80@
+0 @P367@ INDI 
+1 NAME Barend Pieter /BLOM/
+1 SEX M
+1 FAMS @F80@
+0 @P368@ INDI 
+1 ALIA Willie
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14196-i14042
+1 NAME Frederik Willem /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14196-i14042
+1 FAMC @F105@
+0 @P369@ INDI 
+1 NAME Barend Mattheus /VAN TONDER/
+1 SEX M
+1 FAMC @F119@
+0 @P371@ INDI 
+1 NATI sou
+1 BIRT 
+2 DATE 31 Jan 1948
+2 PLAC Pretoria, Gauteng, South Africa
+1 ALIA Ria
+1 SEX F
+1 NAME Maria Magdalena /SCHOEMAN/
+1 FAMC @F89@
+1 FAMS @F84@
+1 FAMS @F100@
+0 @P372@ INDI 
+1 BURI Gauteng, Pretoria, SILVERTON, Val de Grace, NG Kerk Skuilkrans, Gedenkmuur
+2 PLAC Silverton, Gauteng, South Africa
+1 DEAT 
+2 DATE 20 Dec 2011
+2 PLAC Pretoria, Gauteng, South Africa
+1 NATI South Africa
+1 ALIA Willie, Mac, Will
+1 _DCAUSE Aneurism
+1 BIRT 
+2 DATE 30 Dec 1941
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX M
+1 NAME Frederik Willem /MCDONALD/
+1 BIRT 
+2 DATE 30 Dec 1941
+2 PLAC Pretoria, Gauteng, South Africa
+1 FAMC @F85@
+1 FAMS @F84@
+0 @P373@ INDI 
+1 NATU 
+2 DATE 10 Apr 2008
+2 PLAC London, UK
+1 IMMI 
+2 DATE 08 Oct 2001
+2 PLAC Windsor, Berkshire, England
+1 _MILT South African Medical Services
+2 DATE Bet. Jan-Oct 1992
+2 PLAC Voortrekkerhoogte, Gauteng, South Africa
+1 BIRT 
+2 DATE 09 Apr 1969
+2 PLAC Pretoria, Gauteng, South Africa
+1 EMIG 
+2 DATE 08 Oct 2001
+2 PLAC Cape Town, Western Cape, South Africa
+1 SEX M
+1 NAME Wynand /MCDONALD/
+1 _MILT Social Work Officer. Rank: Captain
+2 DATE Bet. Nov 1992-Jan 1996
+2 PLAC Durban, KwaZulu-Natal, South Africa
+1 FAMC @F84@
+0 @P374@ INDI 
+1 ALIA Landie
+1 SEX F
+1 BIRT 
+2 DATE 22 Jan 1975
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Yolandé /MCDONALD/
+1 FAMC @F84@
+1 FAMS @F102@
+0 @P375@ INDI 
+1 ALIA Donny
+1 DEAT 
+2 DATE 13 Sep 1976
+2 PLAC Pretoria, Gauteng, South Africa
+2 SOUR @S810174173@
+3 _APID 1,61359::386322
+1 BIRT 
+2 DATE 08 Jul 1910
+2 PLAC Klipfontein, Gauteng, South Africa
+1 SEX M
+1 NAME Donald /MCDONALD/
+2 SOUR @S810174173@
+3 _APID 1,61359::386322
+1 NOTE My grandfather Donald. I have clear memories of him but I was just seven when he died of cancer.
+2 CONT
+2 CONT RIN: MH:N10
+2 CONT http://www.national.archsrch.gov.za/sm300cv/smws/sm30ddf0?20161122012121708E7468&DN=00000006
+2 CONT
+2 CONT MHG 11196/76
+1 FAMC @F87@
+1 FAMS @F85@
+0 @P376@ INDI 
+1 BURI 
+2 PLAC Pretoria North
+1 ALIA Hannes
+1 ADDR 
+2 PLAC Pretoria, Gauteng, South Africa
+1 BIRT 
+2 DATE 16 Feb 1910
+2 PLAC Middelburg Tvl South Africa
+2 SOUR @S810174160@
+3 PAGE Bets Henrico 1 on 13 May 2011
+3 DATA
+4 TEXT "Die Kinders wat na die oorlog gebore is, is Bettie (EJ) gebore 1906, Mechiel 1908 en my pa Johannes Jacobus 16 Feb 1910. Hy is 16 Junie 1966 oorlede."
+1 DEAT 
+2 DATE 16 Jun 1966
+2 PLAC Pretoria, Gauteng, South Africa
+2 SOUR @S810174160@
+3 PAGE Bets Henrico 1 on 13 May 2011
+3 DATA
+4 TEXT "Die Kinders wat na die oorlog gebore is, is Bettie (EJ) gebore 1906, Mechiel 1908 en my pa Johannes Jacobus 16 Feb 1910. Hy is 16 Junie 1966 oorlede."
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=125932&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Schoeman
+3 _APID 1,61359::125932
+1 SEX M
+1 NAME Johannes Jacobus /SCHOEMAN/
+2 SOUR @S810174160@
+3 PAGE Bets Henrico 1 on 13 May 2011
+3 DATA
+4 TEXT "Die Kinders wat na die oorlog gebore is, is Bettie (EJ) gebore 1906, Mechiel 1908 en my pa Johannes Jacobus 16 Feb 1910. Hy is 16 Junie 1966 oorlede."
+2 SOUR @S810174168@
+3 NOTE http://search.ancestry.co.uk/cgi-bin/sse.dll?db=TransvaalEstatesDeath&h=125932&indiv=try
+3 DATA
+4 TEXT Record for Johannes Jacobus Schoeman
+3 _APID 1,61359::125932
+1 NOTE At one point he was a farmer in Makwassie. His trade was that of a carpenter, he made a lovely dining room table and sofas that I remember from my granny&apos;s house. Later he worked in Wescor (ISCO
+2 CONC R an iron factory) in Vanderbiljl Park. Now part of Mital Metal
+2 CONT It is not clear how he was connected to a farm &apos;n Swartwater. He told stories about the Crocodile River
+2 CONT
+2 CONT He did not fight in the Second World war. It was voluntary and he elected not to go to war.
+1 FAMC @F92@
+1 FAMS @F89@
+0 @P377@ INDI 
+1 BIRT 
+2 DATE 23 Jun 1972
+2 PLAC Bellville, Western Cape, South Africa
+1 ALIA Hennie
+1 NAME Johannes Hendrik /BUYS/
+1 SEX M
+1 BIRT 
+2 DATE 23 Jun 1972
+2 PLAC Selons River
+1 FAMS @F102@
+0 @P378@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 11 Nov 2002
+2 PLAC Richards Bay, KwaZulu-Natal, South Africa
+1 NAME Madalena Elizabeth "Elizma" /BUYS/
+1 BIRT 
+2 DATE 12 Nov 2002
+2 PLAC Richards Bay, KwaZulu-Natal, South Africa
+1 NAME Magdalena Elizabeht (Elizma) /Buys/
+1 FAMC @F102@
+0 @P379@ INDI 
+1 BIRT 
+2 DATE 07 May 1998
+2 PLAC Pietermaritzburg, KwaZulu-Natal, South Africa
+1 ALIA Chandré
+1 NAME Maria Magdalena Chandré /BUYS/
+1 SEX F
+1 FAMC @F102@
+0 @P380@ INDI 
+1 ALIA Johann
+1 BIRT 
+2 DATE 20 May 1997
+2 PLAC Polokwane, Northern Province, South Africa
+1 NAME Johannes Hendrik /BUYS/
+1 SEX M
+1 FAMC @F102@
+0 @P381@ INDI 
+1 ALIA Jannie
+1 DEAT 
+2 DATE 2016
+2 PLAC South Africa
+1 BIRT 
+2 DATE 26 May 1938
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX M
+1 NAME Johannes Jacobus /MCDONALD/
+1 NOTE My paternal Uncle whom I know very well. We call him Jan
+2 CONT My paternal Uncle whom I know very well. We call him Jan
+2 CONT RIN: MH:N12
+1 FAMC @F85@
+1 FAMS @F86@
+0 @P382@ INDI 
+1 SEX F
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+1 NAME Unknown /ENGELBRECHT/
+1 NAME /Engelbrecht/
+1 NOTE She dies at the age of  40
+1 FAMS @F87@
+0 @P383@ INDI 
+1 ALIA Sarie
+1 BIRT 
+2 DATE 20 Dec 1940
+1 SEX F
+1 NAME Susara Aletta Catharina Susanna /VENTER/
+1 NAME Susara Johanna /VENTER/
+1 FAMS @F86@
+0 @P384@ INDI 
+1 BIRT 
+2 DATE 11 Sep 1969
+1 ALIA Zettie
+1 NAME Suzette /MCDONALD/
+1 SEX F
+1 FAMC @F86@
+1 FAMS @F98@
+0 @P385@ INDI 
+1 ALIA Cathy
+1 BIRT 
+2 DATE 18 Aug 1964
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Catherine /MCDONALD/
+1 SEX F
+1 FAMC @F86@
+0 @P386@ INDI 
+1 BIRT 
+2 DATE Abt. 1860
+1 SEX F
+1 NAME Unknown /VAN STANDEn/
+1 NAME /Van Staden/
+1 NOTE This is my great, great grandmother. I know nothing about her at all. She died during the birth of great grandfather.
+1 FAMS @F88@
+0 @P387@ INDI 
+1 BIRT 
+2 DATE Abt. 1860
+2 PLAC Scotland
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+1 SEX M
+1 NAME Ramsay /MACDONALD/
+1 NOTE He is the one this is all about, my great great grandfather. Family legend has it that was a soldier who fought in India and South Africa. It is assumed that he came to South Africa not long before th
+2 CONC e birth of his second child round about 1884. This was a difficult time in South Africa, between the two Boer Wars at at time when the South African Republic was annexed by Sir Shepstone. It was als
+2 CONC o only 5 or so years before the gold rush in the Witwatersrand. It is inconceivable for a Boer women to mary a British soldier during these times. Some suggest that he fought on the side of the Boer
+2 CONC s and other say he was a mercenary.
+1 FAMS @F88@
+0 @P388@ INDI 
+1 EVEN 
+2 TYPE Anglo-Boer War II
+2 DATE Bet. 1899-1902
+1 BIRT 
+2 DATE Abt. 1882
+2 PLAC South Africa
+1 NAME Alexander /MACDONALD/
+1 SEX M
+1 NOTE Apparently he was adopted by an English speaking family (a framer) after his mother died during the berth of his younger brother, Johannes. His name remains Alexander MacDonald. Alexander himself beca
+2 CONC me a cattle farmer (bees boer) later on.
+2 CONT
+2 CONT My Paternal Aunt (Sarie) spoke to his son during the late eighties when Suzette did a family history project. At the time he lived in Johannesburg and he was also researching the family history. It i
+2 CONC s said the Alexander MacDonald was very stingy indeed.
+1 FAMC @F88@
+0 @P389@ INDI 
+1 DEAT 
+2 DATE 15 Aug 1979
+2 PLAC Pretoria, Gauteng, South Africa
+1 BIRT 
+2 DATE 29 Sep 1953
+2 PLAC Vanderbijlpark, Gauteng, South Africa
+1 _DCAUSE Cancer
+1 ALIA Boet / Johan
+1 SEX M
+1 NAME Johannes Jacobus /SCHOEMAN/
+1 DEAT 
+2 DATE Abt. 1980
+2 PLAC Pretoria, Gauteng, South Africa
+1 FAMC @F89@
+1 FAMS @F90@
+0 @P390@ INDI 
+1 RESI 
+1 ALIA Betsie
+1 BIRT 
+2 DATE 21 Sep 1946
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Elizabetha Johanna /SCHOEMAN/
+1 SEX F
+1 BIRT 
+2 DATE 22 Sep 1945
+2 PLAC Pretoria, Gauteng, South Africa
+1 FAMC @F89@
+1 FAMS @F96@
+0 @P391@ INDI 
+1 BIRT 
+2 DATE 10 Dec 1942
+2 PLAC Makwassie, North West South Africa, South Africa
+1 ALIA Magda
+1 SEX F
+1 NAME Magdalena Dorothea Petronella Susanna Catherina /SCHOEMAN/
+1 NAME Magda (MDPSC) /Schoeman/
+1 FAMC @F89@
+1 FAMS @F93@
+0 @P392@ INDI 
+1 DEAT 
+2 DATE 07 Aug 2011
+2 PLAC Pretoria
+1 BIRT 
+2 DATE 07 Aug 1941
+2 PLAC Nylstroom SA
+1 ALIA Paul
+1 SEX M
+1 NAME Johannes Jacobus H /ODENDAAL/
+1 NAME Jacobus Johannes Hendrik /Odendaal/
+1 FAMS @F93@
+0 @P393@ INDI 
+1 BIRT 
+2 DATE 28 Jul 1970
+2 PLAC Pretoria, Gauteng, South Africa
+1 SEX F
+1 NAME Lizeth /HENRICO/
+1 FAMC @F96@
+1 FAMS @F112@
+0 @P394@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 18 Oct 1974
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Gerhard /HENRICO/
+1 BIRT 
+2 DATE 28 Oct 1974
+2 PLAC Pretoria, Gauteng, South Africa
+1 FAMC @F96@
+1 FAMS @F97@
+0 @P395@ INDI 
+1 SEX U
+1 NAME Ruaan /SWART/
+1 FAMC
+0 @P396@ INDI 
+1 BIRT 
+2 DATE 01 Dec 1970
+1 SEX M
+1 NAME Marius /DU PLESSIS/
+1 FAMS @F112@
+0 @P397@ INDI 
+1 BIRT 
+2 DATE 15 Aug 1970
+2 PLAC Germiston, Gauteng, South Africa
+1 SEX F
+1 NAME Elmarie /PRETORIUS/
+1 NAME Elmarie Catharina /Pretorius/
+1 FAMS @F97@
+0 @P398@ INDI 
+1 SEX M
+1 BIRT 
+2 DATE 03 Sep 2010
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Jovann /ROCHER/
+1 FAMC @F98@
+0 @P399@ INDI 
+1 SEX M
+1 BIRT 
+2 PLAC Pretoria, Gauteng, South Africa
+1 NAME Johan /ROCHER/
+1 FAMS @F98@
+0 @P400@ INDI 
+1 SEX F
+1 NAME Unknown /FRIEND/
+1 FAMS @F101@
+0 @P401@ INDI 
+1 BIRT 
+2 DATE 14 Jun 1946
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14197-i14043
+1 SEX M
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14197-i14043
+1 NAME Judik Johan /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14197-i14043
+1 NAME Judick /BLIGNAUT/
+1 FAMC @F105@
+0 @P402@ INDI 
+1 BIRT 
+2 DATE Bef. 1931
+1 DEAT Bronne / Sources  Nasionale Argief (TAB MHG) en Meester van die Hoër Hof, Pretoria (M/P) - Sterfkennis Navorser: Tobi Swart  MHG 9836/63
+2 DATE 30 Apr 1931
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14198-i14044
+1 SEX M
+1 NAME Frederick Willem /BLIGNAUT/
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/14198-i14044
+1 NAME Willie /BLIGNAUT/
+1 FAMC @F105@
+0 @P403@ INDI 
+1 SEX F
+1 BIRT 
+2 DATE 09 Apr 1823
+1 DEAT 
+2 DATE 06 Jun 1901
+2 PLAC Middelburg Tvl South Africa
+1 NAME Johanna Aletta Elizabeth /ERASMUS/
+1 FAMC @F118@
+0 @P404@ INDI 
+1 NAME Javoba Johanna /VAN TONDER/
+1 SEX F
+1 FAMC @F119@
+0 @F1@ FAM 
+1 HUSB @P1@
+1 WIFE @P4@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P8@
+1 WIFE @P10@
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 08 Sep 1782
+2 PLAC Swellendam, Western Cape, South Africa
+0 @F3@ FAM 
+1 HUSB @P19@
+1 WIFE @P20@
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P46@
+1 WIFE @P48@
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P52@
+1 WIFE @P53@
+0 @F6@ FAM 
+1 HUSB @P57@
+1 WIFE @P60@
+1 CHIL @P50@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+0 @F7@ FAM 
+1 HUSB @P63@
+1 WIFE @P64@
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P68@
+1 WIFE @P70@
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 Jun 1898
+2 PLAC Geref Kerk Reddersburg
+0 @F9@ FAM 
+1 HUSB @P22@
+1 WIFE @P21@
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM 
+1 HUSB @P77@
+1 WIFE @P74@
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P7@
+1 WIFE @P6@
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P49@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P84@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P86@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM 
+1 HUSB @P36@
+1 WIFE @P35@
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+0 @F13@ FAM 
+1 HUSB @P113@
+1 WIFE @P114@
+1 CHIL @P115@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 21 May 1906
+0 @F14@ FAM 
+1 HUSB @P106@
+1 WIFE @P76@
+1 CHIL @P103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P73@
+1 WIFE @P72@
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM 
+1 HUSB @P123@
+1 WIFE @P124@
+1 CHIL @P18@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 28 Jul 1711
+2 PLAC Stellenbosch, Western Cape, South Africa
+0 @F17@ FAM 
+1 HUSB @P116@
+1 WIFE @P117@
+1 CHIL @P73@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM 
+1 HUSB @P134@
+1 WIFE @P133@
+1 CHIL @P124@
+2 _FREL Natural
+2 _MREL Natural
+0 @F19@ FAM 
+1 HUSB @P137@
+1 WIFE @P146@
+1 CHIL @P141@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P101@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P139@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P138@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P140@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P143@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P144@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P145@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P147@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P142@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Bef. 24 Aug 1915
+0 @F20@ FAM 
+1 HUSB @P92@
+1 WIFE @P166@
+1 MARR 
+2 PLAC Middelburg Tvl South Africa
+0 @F21@ FAM 
+1 HUSB @P157@
+1 WIFE @P154@
+0 @F22@ FAM 
+1 HUSB @P164@
+1 WIFE @P163@
+1 CHIL @P165@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 02 Aug 1835
+2 PLAC Graaff Reinet
+0 @F23@ FAM 
+1 HUSB @P152@
+1 WIFE @P151@
+1 CHIL @P188@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P179@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P177@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P183@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P186@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P178@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P146@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P187@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P176@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P182@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P181@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P180@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Abt. 1878
+2 PLAC Boshof
+0 @F24@ FAM 
+1 HUSB @P200@
+1 WIFE @P139@
+1 CHIL @P201@
+2 _FREL Natural
+2 _MREL Natural
+0 @F25@ FAM 
+1 HUSB @P192@
+1 WIFE @P191@
+1 CHIL @P164@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR Ds Ballot
+2 DATE 05 Feb 1815
+2 PLAC Swellendam, Cape, South Africa
+0 @F26@ FAM 
+1 HUSB @P199@
+1 WIFE @P198@
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P208@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P209@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P210@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P213@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P217@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1846
+2 PLAC Cape, South Africa
+0 @F27@ FAM 
+1 HUSB @P207@
+1 WIFE @P206@
+1 CHIL @P192@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM 
+1 HUSB @P190@
+1 WIFE @P195@
+1 CHIL @P241@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P244@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P243@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P245@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P242@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 16 Feb 1891
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+0 @F29@ FAM 
+1 HUSB @P190@
+1 WIFE @P194@
+1 CHIL @P193@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 17 May 1929
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6236-i6130
+0 @F30@ FAM 
+1 HUSB @P128@
+1 WIFE @P88@
+1 MARR 
+2 DATE 08 Mar 1904
+2 PLAC Middelburg, Transvaal
+0 @F31@ FAM 
+1 HUSB @P246@
+1 WIFE @P247@
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+0 @F32@ FAM 
+1 HUSB @P33@
+1 WIFE @P34@
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 13 Sep 1818
+2 PLAC Klaassmitsrivier
+0 @F33@ FAM 
+1 HUSB @P165@
+1 WIFE @P248@
+0 @F34@ FAM 
+1 HUSB @P165@
+1 WIFE @P189@
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 31 Jul 1865
+2 PLAC Reddersburg, Free State, South Africa
+2 SOUR @S810174170@
+3 _APID 1,60154::197798
+0 @F35@ FAM 
+1 HUSB @P112@
+1 WIFE @P111@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 09 Jun 1897
+2 PLAC Geref Kerk Reddersburg
+0 @F36@ FAM 
+1 HUSB @P240@
+1 WIFE @P239@
+1 CHIL @P207@
+2 _FREL Natural
+2 _MREL Natural
+0 @F37@ FAM 
+1 HUSB @P241@
+1 WIFE @P254@
+0 @F38@ FAM 
+1 HUSB @P241@
+1 WIFE @P255@
+1 MARR Getuies by die egpaar se huwelik: JH van der Watt en FH Buys.
+2 PLAC Gereformeerde Kerk, Moedergemeente, Pretoria, Gauteng, South Africa
+0 @F39@ FAM 
+1 HUSB @P257@
+1 WIFE @P258@
+1 CHIL @P221@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM 
+1 HUSB @P212@
+1 WIFE @P211@
+1 CHIL @P199@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P261@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P260@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P259@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P266@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P264@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P263@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P265@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P262@
+2 _FREL Natural
+2 _MREL Natural
+0 @F41@ FAM 
+1 HUSB @P253@
+1 WIFE @P252@
+1 CHIL @P240@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 04 Nov 1725
+2 PLAC Drakenstein
+0 @F42@ FAM 
+1 HUSB @P120@
+1 WIFE @P119@
+1 CHIL @P276@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P122@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P196@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P274@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P275@
+2 _FREL Natural
+2 _MREL Natural
+0 @F43@ FAM 
+1 HUSB @P273@
+1 WIFE @P272@
+1 CHIL @P211@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM 
+1 HUSB @P141@
+1 WIFE @P282@
+1 MARR 
+2 DATE 07 Nov 1932
+2 PLAC Upington
+0 @F45@ FAM 
+1 HUSB @P270@
+1 WIFE @P269@
+1 CHIL @P253@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM 
+1 HUSB @P291@
+1 WIFE @P293@
+1 CHIL @P295@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P294@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P292@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P298@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P296@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P297@
+2 _FREL Natural
+2 _MREL Natural
+0 @F47@ FAM 
+1 HUSB @P45@
+1 WIFE @P44@
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P65@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P212@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM 
+1 HUSB @P96@
+1 WIFE @P94@
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 17 Oct 1887
+2 PLAC Geref Kerk Reddersburg
+0 @F49@ FAM 
+1 HUSB @P287@
+1 WIFE @P286@
+1 CHIL @P270@
+2 _FREL Natural
+2 _MREL Natural
+0 @F50@ FAM 
+1 HUSB @P278@
+1 WIFE @P277@
+1 CHIL @P120@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 09 Jun 1816
+0 @F51@ FAM 
+1 HUSB @P285@
+1 WIFE @P306@
+1 MARR 
+2 DATE 01 Jul 1967
+2 PLAC Vanderbijlpark
+0 @F52@ FAM 
+1 HUSB @P144@
+1 WIFE @P233@
+1 CHIL @P234@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P235@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P236@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P237@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P238@
+2 _FREL Natural
+2 _MREL Natural
+0 @F53@ FAM 
+1 HUSB @P62@
+1 WIFE @P61@
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM 
+1 HUSB @P16@
+1 WIFE @P301@
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 22 Mar 1801
+2 PLAC Cape Town, Western Cape, South Africa
+0 @F55@ FAM 
+1 HUSB @P309@
+1 WIFE @P308@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+0 @F56@ FAM 
+1 HUSB @P126@
+1 WIFE @P127@
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P135@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM 
+1 HUSB @P316@
+1 WIFE @P317@
+0 @F58@ FAM 
+1 HUSB @P101@
+1 WIFE @P100@
+1 CHIL @P290@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P271@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P303@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P307@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P320@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P321@
+2 _FREL Natural
+2 _MREL Natural
+0 @F59@ FAM 
+1 HUSB @P315@
+1 WIFE @P314@
+1 CHIL @P309@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM 
+1 HUSB @P138@
+1 WIFE @P283@
+1 CHIL @P284@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P285@
+2 _FREL Natural
+2 _MREL Natural
+0 @F61@ FAM 
+1 HUSB @P326@
+1 WIFE @P327@
+1 MARR 
+2 DATE Abt. 1901
+2 PLAC Steynsburg
+0 @F62@ FAM 
+1 HUSB @P323@
+1 WIFE @P322@
+1 CHIL @P315@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 07 Oct 1736
+2 PLAC Drakenstein, Cape of Good Hope
+0 @F63@ FAM 
+1 HUSB @P39@
+1 WIFE @P38@
+1 CHIL @P326@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P333@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P222@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P331@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P137@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P317@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P332@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 30 Dec 1867
+0 @F64@ FAM 
+1 HUSB @P334@
+1 WIFE @P337@
+1 CHIL @P335@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P336@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 23 Oct 2004
+0 @F65@ FAM 
+1 HUSB @P249@
+1 WIFE @P186@
+0 @F66@ FAM 
+1 HUSB @P225@
+1 WIFE @P224@
+1 CHIL @P198@
+2 _FREL Natural
+2 _MREL Natural
+0 @F67@ FAM 
+1 HUSB @P339@
+1 WIFE @P338@
+1 CHIL @P322@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 18 Apr 1717
+2 PLAC Ducth Reformed Church Drakenstein
+0 @F68@ FAM 
+1 HUSB @P243@
+1 WIFE @P310@
+1 MARR 
+2 DATE 02 Feb 1929
+2 PLAC Gereformeerde Kerk, Moedergemeente, Pretoria, Gauteng, South Africa
+0 @F69@ FAM 
+1 HUSB @P150@
+1 WIFE @P344@
+1 MARR 
+2 DATE 07 Sep 1887
+2 PLAC De Wetsdorp  NG Kerk
+0 @F70@ FAM 
+1 HUSB @P150@
+1 WIFE @P149@
+1 CHIL @P156@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P148@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 26 Jan 1903
+2 PLAC Gereformeerde Kerk Reddersburg
+0 @F71@ FAM 
+1 HUSB @P345@
+1 WIFE @P346@
+1 CHIL @P50@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+0 @F72@ FAM 
+1 HUSB @P342@
+1 WIFE @P343@
+1 CHIL @P339@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 30 May 1677
+2 PLAC Cape Prov. South Africa (Dutch Reformed Church)
+0 @F73@ FAM 
+1 HUSB @P169@
+1 WIFE @P142@
+1 CHIL @P175@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P312@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P168@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P313@
+2 _FREL Natural
+2 _MREL Natural
+0 @F74@ FAM 
+1 HUSB @P349@
+1 WIFE @P348@
+1 CHIL @P342@
+2 _FREL Natural
+2 _MREL Natural
+0 @F75@ FAM 
+1 HUSB @P351@
+1 WIFE @P350@
+1 CHIL @P343@
+2 _FREL Natural
+2 _MREL Natural
+0 @F76@ FAM 
+1 HUSB @P107@
+1 WIFE @P108@
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F77@ FAM 
+1 HUSB @P42@
+1 WIFE @P41@
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P361@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P363@
+2 _FREL Adopted
+2 _MREL Adopted
+1 CHIL @P360@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P362@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+0 @F78@ FAM 
+1 HUSB @P365@
+1 WIFE @P364@
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+0 @F79@ FAM 
+1 HUSB @P23@
+1 WIFE @P299@
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+0 @F80@ FAM 
+1 HUSB @P367@
+1 WIFE @P366@
+1 CHIL @P299@
+2 _FREL Natural
+2 _MREL Natural
+0 @F81@ FAM 
+1 HUSB @P98@
+1 WIFE @P94@
+1 CHIL @P95@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 04 Mar 1889
+2 PLAC Reddersburg Gereformeerde Kerk
+0 @F82@ FAM 
+1 HUSB @P329@
+1 WIFE @P328@
+1 CHIL @P330@
+2 _FREL Natural
+2 _MREL Natural
+0 @F83@ FAM 
+1 HUSB @P223@
+1 WIFE @P222@
+1 MARR 
+2 DATE 20 Sep 1899
+2 PLAC Christiana
+0 @F84@ FAM 
+1 HUSB @P372@
+1 WIFE @P371@
+1 CHIL @P370@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P373@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P374@
+2 _FREL Natural
+2 _MREL Natural
+1 DIV 
+2 DATE 1992
+2 PLAC Pinetown, KwaZulu-Natal, South Africa
+1 MARR 
+2 DATE Sep 1967
+2 PLAC Pretoria, Gauteng, South Africa
+0 @F85@ FAM 
+1 HUSB @P375@
+1 WIFE @P245@
+1 CHIL @P381@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P372@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 14 Aug 1937
+2 PLAC Gereformeerde Kerk, Moedergemeente, Pretoria, Gauteng, South Africa
+2 SOUR @S810174174@
+3 PAGE https://www.gendatabase.com/paid/marriage-results2.php?q=17504013
+2 SOUR @S810174171@
+3 PAGE http://www.blignaut.co.za/index.php/component/content/article/8-genealogie-genealogy/6241-i6135
+0 @F86@ FAM 
+1 HUSB @P381@
+1 WIFE @P383@
+1 CHIL @P385@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P384@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 04 Feb 1961
+2 PLAC South Africa
+2 SOUR @S810174174@
+3 PAGE https://www.gendatabase.com/paid/marriage-results2.php?q=16555824
+1 MARR 
+2 PLAC Pretoria, Gauteng, South Africa
+0 @F87@ FAM 
+1 HUSB @P363@
+1 WIFE @P382@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P174@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P205@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P319@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P375@
+2 _FREL Natural
+2 _MREL Natural
+0 @F88@ FAM 
+1 HUSB @P387@
+1 WIFE @P386@
+1 CHIL @P363@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P388@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Abt. 1880
+0 @F89@ FAM 
+1 HUSB @P376@
+1 WIFE @P147@
+1 CHIL @P391@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P390@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P371@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P389@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Abt. 1942
+2 PLAC Makwassie, North West South Africa, South Africa
+0 @F90@ FAM 
+1 HUSB @P389@
+1 WIFE @P330@
+1 CHIL @P337@
+2 _FREL Natural
+2 _MREL Natural
+0 @F91@ FAM 
+1 HUSB @P50@
+1 WIFE @P49@
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P354@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P352@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P355@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P357@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Bef. 1894
+2 SOUR @S810174172@
+3 PAGE 13 May 2011
+3 DATA
+4 TEXT "My oupa grootjie:  Karel Stephanus en sy Vrou Hester Erasmus.  Hulle het 12 kinders gehad oa 'n tweeling Karel & Piet (sien waar julle vandaan kom -grappie)"
+0 @F92@ FAM 
+1 HUSB @P50@
+1 WIFE @P51@
+1 CHIL @P376@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 21 Dec 1892
+2 PLAC Middelburg, Mpumalanga, South Africa
+0 @F93@ FAM 
+1 HUSB @P392@
+1 WIFE @P391@
+1 CHIL @P132@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P281@
+2 _FREL Natural
+2 _MREL Natural
+0 @F94@ FAM 
+1 HUSB @P132@
+1 WIFE @P131@
+1 CHIL @P130@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 02 Mar 1991
+2 PLAC Pretoria
+0 @F95@ FAM 
+1 HUSB @P280@
+1 WIFE @P281@
+1 MARR 
+2 DATE Bet. 1999-2001
+2 PLAC Pretoria, Gauteng, South Africa
+0 @F96@ FAM 
+1 HUSB @P298@
+1 WIFE @P390@
+1 CHIL @P393@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P394@
+2 _FREL Natural
+2 _MREL Natural
+0 @F97@ FAM 
+1 HUSB @P394@
+1 WIFE @P397@
+0 @F98@ FAM 
+1 HUSB @P399@
+1 WIFE @P384@
+1 CHIL @P398@
+2 _FREL Natural
+2 _MREL Natural
+0 @F99@ FAM 
+1 HUSB @P251@
+1 WIFE @P250@
+0 @F100@ FAM 
+1 HUSB @P251@
+1 WIFE @P371@
+1 MARR 
+2 PLAC Durban, KwaZulu-Natal, South Africa
+1 MARR 
+2 DATE Unknown
+2 PLAC Durban, KwaZulu-Natal, South Africa
+0 @F101@ FAM 
+1 HUSB @P251@
+1 WIFE @P400@
+0 @F102@ FAM 
+1 HUSB @P377@
+1 WIFE @P374@
+1 CHIL @P380@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P379@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P378@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 18 May 1996
+2 PLAC Pinetown, KwaZulu-Natal, South Africa
+0 @F103@ FAM 
+1 HUSB @P174@
+1 WIFE @P170@
+1 CHIL @P171@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P172@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P173@
+2 _FREL Natural
+2 _MREL Natural
+0 @F104@ FAM 
+1 HUSB @P205@
+1 WIFE @P202@
+1 CHIL @P203@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P204@
+2 _FREL Natural
+2 _MREL Natural
+0 @F105@ FAM 
+1 HUSB @P244@
+1 WIFE @P319@
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P318@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P368@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P402@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P401@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR Getuies by die egpaar se huwelik:  FW Blignaut en JJ McDonald.   Die egpaar se testament word op 29 Februarie 1940 geteken.  Bronne / Sources 1. Bonnie Sydow
+2 DATE 29 Jun 1929
+2 PLAC Gereformeerde Kerk, Moedergemeente, Pretoria, Gauteng, South Africa
+2 SOUR @S810174171@
+3 PAGE Catharina Elizabeth McDonald [14039]
+0 @F106@ FAM 
+1 HUSB @P162@
+1 WIFE @P158@
+1 CHIL @P159@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P160@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P161@
+2 _FREL Natural
+2 _MREL Natural
+0 @F107@ FAM 
+1 HUSB @P18@
+1 WIFE @P17@
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+0 @F108@ FAM 
+1 HUSB @P221@
+1 WIFE @P218@
+1 CHIL @P220@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P219@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P71@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 07 Apr 1834
+2 PLAC Klaassmitsrivier
+0 @F109@ FAM 
+1 HUSB @P185@
+1 WIFE @P184@
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 09 Aug 1852
+2 PLAC Bloemfontein
+0 @F110@ FAM 
+1 HUSB @P303@
+1 WIFE @P302@
+1 CHIL @P304@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P305@
+2 _FREL Natural
+2 _MREL Natural
+0 @F111@ FAM 
+1 HUSB @P325@
+1 WIFE @P324@
+1 MARR 
+2 DATE 15 Feb 1897
+2 PLAC Geref Kerk Reddersburg
+0 @F112@ FAM 
+1 HUSB @P396@
+1 WIFE @P393@
+1 MARR 
+2 DATE 06 Mar 2010
+0 @F113@ FAM 
+1 HUSB @P232@
+1 WIFE @P256@
+0 @F114@ FAM 
+1 HUSB @P232@
+1 WIFE @P227@
+1 CHIL @P228@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P229@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P230@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P231@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 29 Apr 1912
+2 PLAC Geref Kerk Pretoria
+0 @F115@ FAM 
+1 HUSB @P81@
+1 WIFE @P80@
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P288@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P289@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P267@
+2 _FREL Natural
+2 _MREL Natural
+0 @F116@ FAM 
+1 HUSB @P341@
+1 WIFE @P194@
+1 CHIL @P340@
+2 _FREL Natural
+2 _MREL Natural
+0 @F117@ FAM 
+1 HUSB @P25@
+1 WIFE @P24@
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 23 Jan 1843
+2 PLAC Burgersdorp (Colesberg?)
+0 @F118@ FAM 
+1 HUSB @P91@
+1 WIFE @P90@
+1 CHIL @P347@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P226@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P403@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P155@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P359@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 18 May 1817
+2 PLAC Graaff-Reinet, Eastern Cape, South Africa
+0 @F119@ FAM 
+1 HUSB @P28@
+1 WIFE @P71@
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P94@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P300@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P195@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P150@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P232@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P268@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P324@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P369@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P404@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 02 Jul 1866
+2 PLAC Reddersburg, Free State, South Africa
+0 @F120@ FAM 
+1 HUSB @P28@
+1 WIFE @P311@
+1 MARR 
+2 DATE 17 Apr 1899
+2 PLAC Gereformeerde Kerk Reddersburg
+0 @F121@ FAM 
+1 HUSB @P57@
+1 CHIL @P59@
+2 _FREL Natural
+1 CHIL @P58@
+2 _FREL Natural
+0 @F122@ FAM 
+1 HUSB @P7@
+1 CHIL @P83@
+2 _FREL Natural
+1 CHIL @P85@
+2 _FREL Natural
+0 @F123@ FAM 
+1 HUSB @P129@
+1 CHIL @P116@
+2 _FREL Natural
+0 @F124@ FAM 
+1 HUSB @P153@
+1 CHIL @P154@
+2 _FREL Natural
+0 @F125@ FAM 
+1 HUSB @P353@
+1 CHIL @P349@
+2 _FREL Natural
+0 @F126@ FAM 
+1 HUSB @P358@
+1 CHIL @P350@
+2 _FREL Natural
+0 @F127@ FAM 
+1 HUSB @P356@
+1 CHIL @P353@
+2 _FREL Natural
+0 @R800584954@ REPO
+1 NAME (TAB) National Archives Repository (Records of the former Transvaal Province and its predecessors as well as of magistrates and local authorities)
+1 PHON Tel: (012) 441 3200. Fax: (012) 323 5287
+1 ADDR 24 Hamilton Street, 
+Arcadia, 
+Pretoria
+South Africa
+0001
+
+0 @R800584955@ REPO
+1 NAME British Library
+1 PHON +44 (0)20 7412 7676
+1 ADDR The British Library
+St Pancras
+96 Euston Road
+London
+NW1 2DB
+0 @R800584956@ REPO
+1 NAME Wynand McDonald
+1 PHON 07772366401
+1 ADDR Flat 20
+15-18 White Lion Street
+London
+N1 9PG
+0 @R800584957@ REPO
+1 NAME BCCD
+1 ADDR Boer Concentration Camp Project
+c/o Dr E van Heyningen
+Department of Historical Studies
+University of Cape Town
+Private Bag
+Rondebosch
+Cape Town 7700
+South Africa
+0 @R800584958@ REPO
+1 NAME Ancestry24
+1 ADDR www.ancestry24.com
+0 @R800584959@ REPO
+1 NAME Ancestry.com
+0 @R800584960@ REPO
+1 NAME www.blignaut.com
+1 ADDR 
+0 @R800584961@ REPO
+1 NAME GenDatabase.com
+1 ADDR www.gendatabase.com
+0 @S810174158@ SOUR
+1 TITL Theal, George McCall, History of South Africa
+1 NOTE Theal, George McCall, FOREIGN MEMBER OF THE ROYAL ACADEjIy OF SCIENCES, AMSTERDAM, CORRESPONDING
+MEMBER OF THE ROYAL HISTORICAL SOCIETY, LONDON, AND OF THE
+GEOGRAPHICAL SOCIETY, LISBON, ETC., ETC.
+2 CONC , ETC..  History of South Africa:  From 1873 to 1884, TWELVE EVENTFUL YEARS.  Ruskin House, London, Museum Street, WC1:  George Allen & Unwin LTD, 1919.
+
+Vol 2/2
+0 @S810174159@ SOUR
+1 REPO @R800584956@
+1 TITL Henrico, Bets, E-mail to Wynand McDonald, Bets Henrico
+1 NOTE Bets Henrico.  Privately held by Wynand McDonald, London.
+0 @S810174160@ SOUR
+1 TITL McDonald, Cathy, E-mail to Wynand McDonald, Cathy McDonald
+1 NOTE Cathy McDonald.  Privately held by Wynand McDonald, London.
+0 @S810174161@ SOUR
+1 TITL McDonald, Sarie, E-mail to Wynand McDonald, Sarie McDonald
+1 NOTE Sarie McDonald.  Privately held by Wynand McDonald, London.
+0 @S810174162@ SOUR
+1 TITL Rocher, Suzette, E-mail to Wynand McDonald, Suzette Rocher
+1 NOTE Suzette Rocher.  Privately held by Wynand McDonald, London.
+0 @S810174163@ SOUR
+1 TITL Buys, Yolande, E-mail to Wynand McDonald, Yolande Buys
+1 NOTE Yolande Buys.  Privately held by Wynand McDonald, London.
+0 @S810174164@ SOUR
+1 TITL Friend, Ria, Interview by Wynand McDonald, April 2011
+1 NOTE Friend, Ria.  (Welkom, South Africa).  Interview by Wynand McDonald, April 2011.  Notes.  Privately held by Wynand McDonald, London.  2011.
+0 @S810174165@ SOUR
+1 TITL South Africa, National Archives of South Africa (NASA), "TAB - National Archives Repository (Public records of former Transvaal Privince and its predecessors as well as of magistrates and local author
+2 CONC ities."
+1 NOTE South Africa.  National Archives of South Africa (NASA).  "TAB - National Archives Repository (Public records of former Transvaal Privince and its predecessors as well as of magistrates and local auth
+2 CONC orities.".  Database.  NASA.  National Archives of South Africa.  http://www.national.archsrch.gov.za/sm300cv/smws/sm300gi?20110522161230762BF706%26DB%3DTABE.
+0 @S810174166@ SOUR
+1 TITL South Africa, Dr E van Heyningen, "British Concentration Camp database"
+1 NOTE South Africa.  Dr E van Heyningen.  "British Concentration Camp database".  Database.  University of Cape Town.  BCCD.  http://www.lib.uct.ac.za/mss/bccd/.
+
+The work on the database has been underta
+2 CONC ken by Dr Elizabeth van Heyningen, and a team of research assistants. Elizabeth van Heyningen is an Honorary Research Associate in the Department of Historical Studies, University of Cape Town.
+0 @S810174167@ SOUR
+1 TITL Ancestry24.com, "Freestate Marriages"
+1 NOTE Ancestry24.com.  "Freestate Marriages".  Database.  Ancestry24.  http://ancestry24.com/.
+0 @S810174168@ SOUR
+1 REPO @R800584959@
+1 TITL Transvaal Province, South Africa, Estates Death Notice Index, 1855-1976
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE <p>Transvaal Estates Death Notice Index. Records of the Master of the Supreme Court, Pretoria. National Archives, Pretoria.</p>
+1 _APID 1,61359::0
+0 @S810174169@ SOUR
+1 REPO @R800584959@
+1 TITL South Africa, Select Estates Death Notice Index, 1833-2008
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Various sources from across South Africa.
+1 _APID 1,61313::0
+0 @S810174170@ SOUR
+1 REPO @R800584959@
+1 TITL South Africa, Free State Dutch Reformed Church Records, 1848-1956
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60154::0
+0 @S810174171@ SOUR
+1 REPO @R800584960@
+1 TITL www.blignaut.com
+1 AUTH Philip Blignaut
+0 @S810174172@ SOUR
+0 @S810174173@ SOUR
+1 REPO @R800584959@
+1 TITL Transvaal Province, South Africa, Estates Death Notice Index, 1855-1976
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61359::0
+0 @S810174174@ SOUR
+1 REPO @R800584961@
+1 TITL GenDatabase Search
+1 AUTH POPULATION REGISTER & GENEALOGY REGISTERS
+0 @S810174175@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S810174176@ SOUR
+1 REPO @R800584959@
+1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE <i>GenealogieOnline</i>. Coret Genealogie. http://www.genealogieonline.nl/en/: accessed 31 August 2015.
+1 _APID 1,9289::0
+0 @S810174177@ SOUR
+1 REPO @R800584959@
+1 TITL South Africa, Military Index, 1853 - 2004
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Various military records from institutions throughout South Africa.
+1 _APID 1,60894::0
+0 TRLR
