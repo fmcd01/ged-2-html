@@ -46,7 +46,7 @@ $str_endowment="LDS Endowment:";
 $str_sealing_children="LDS Sealing to Children:";
 $str_sealing_spouse="LDS Sealing to Spouse:";
 $str_death="Died";
-$str_burial="Burial:";
+$str_burial="Buried";
 $str_occupation="Occupation:";
 $str_private="(Private)";
 $str_father="Father:";
@@ -747,19 +747,6 @@ foreach $indiv_id (keys %indivs) {
         print OUT_FILE "<a href=\"$indiv_sour{$indiv_id}.$extension\">$str_source</a><br/><br/>\n";
     }
 
-    # burial date and place
-    if ($indiv_buri{$indiv_id}) {
-        print OUT_FILE "$str_burial ";
-        if ($indiv_buri_date{$indiv_id}) {
-            print OUT_FILE "$indiv_buri_date{$indiv_id}";
-            if ($indiv_buri_plac{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_buri_plac{$indiv_id}) {
-            print OUT_FILE "$indiv_buri_plac{$indiv_id}";
-        }
-        print OUT_FILE "<br/>\n";
-    }
     # BAPL date and place
     if ($indiv_bapl{$indiv_id}) {
         print OUT_FILE "$str_baptism ";
@@ -1326,7 +1313,6 @@ sub birthDateAndPlace {
         }
         $birthDateAndPlace .= "<br>";
     }
-
     return $birthDateAndPlace;
 }
 
@@ -1377,8 +1363,27 @@ sub deathDatePlace {
         }
         $deathDatePlace .= "<br>";
     }
-
     return $deathDatePlace;
+}
+
+sub burialDatePlace {
+  my $burialDatePlace = "";
+  $printComma = 0;
+
+  if ($indiv_buri{$indiv_id}) {
+      $burialDatePlace .= lc("$str_burial ");
+
+      if ($indiv_buri_date{$indiv_id}) {
+          $burialDatePlace .= "$indiv_buri_date{$indiv_id}";
+          $printComma = 1;
+      }
+      if ($indiv_buri_plac{$indiv_id}) {
+        if ($printComma) { $burialDatePlace .= ", "; }
+        $burialDatePlace .= "$indiv_buri_plac{$indiv_id}";
+      }
+      $burialDatePlace .= "<br>";
+  }
+  return $burialDatePlace;
 }
 
 #############################################
@@ -1422,6 +1427,7 @@ sub tableAncestors {
     $tableAncestors .= &birthDateAndPlace;
     $tableAncestors .= &christening;
     $tableAncestors .= &deathDatePlace;
+    $tableAncestors .= &burialDatePlace;
     $tableAncestors .= "</td>\n";
     $tableAncestors .= "</tr>\n";
 
