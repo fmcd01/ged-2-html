@@ -632,6 +632,7 @@ if (open(IN_FILE, "tpl_ind_top.html")) {
 else { # use defaults
     $html_ind_top[0] = "<body>\n";
     $html_ind_top[1] = "<h1>#ind_name</h1>\n";    
+    print "Cannot find tpl_ind_top.html file, using defaults\n";
 }
 close(IN_FILE);
 
