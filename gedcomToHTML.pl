@@ -41,10 +41,10 @@ $prefsFile = "gedcomToHTML.prefs";
 
 $str_birth="Born";
 $str_chr="Christened";
-$str_baptism="LDS Baptism:";
-$str_endowment="LDS Endowment:";
-$str_sealing_children="LDS Sealing to Children:";
-$str_sealing_spouse="LDS Sealing to Spouse:";
+$str_baptism="LDS Baptism ";
+$str_endowment="LDS Endowment ";
+$str_sealing_children="LDS Sealing to Children ";
+$str_sealing_spouse="LDS Sealing to Spouse ";
 $str_death="Died";
 $str_burial="Buried";
 $str_occupation="Occupation:";
@@ -749,24 +749,7 @@ foreach $indiv_id (keys %indivs) {
 
 
 
-    # SLGC date and place
-    if ($indiv_slgc{$indiv_id}) {
-        print OUT_FILE "$str_sealing_children ";
-        if ($indiv_slgc_date{$indiv_id}) {
-            print OUT_FILE "$indiv_slgc_date{$indiv_id}";
-            if ($indiv_slgc_plac{$indiv_id} || $indiv_slgc_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_slgc_plac{$indiv_id}) {
-            print OUT_FILE "$indiv_slgc_plac{$indiv_id}";
-            if ($indiv_slgc_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_slgc_temp{$indiv_id}) {
-            print OUT_FILE "$indiv_slgc_temp{$indiv_id}";
-        }
-        print OUT_FILE "<br/>\n";
-    }
+
     # SLGS date and place
     if ($indiv_slgs{$indiv_id}) {
         print OUT_FILE "$str_sealing_spouse ";
@@ -1400,6 +1383,31 @@ sub endowmentDatePlace {
   return $endowmentDatePlace;
 }
 
+sub sealingChildrenDatePlace {
+  my $sealingChildrenDatePlace = "";
+  $printComma = 0;
+
+  if ($indiv_slgc{$indiv_id}) {
+      $sealingChildrenDatePlace .= "$str_sealing_children ";
+
+      if ($indiv_slgc_date{$indiv_id}) {
+          $sealingChildrenDatePlace .= "$indiv_slgc_date{$indiv_id}";
+          $printComma = 1;
+      }
+      if ($indiv_slgc_plac{$indiv_id}) {
+        if ($printComma) { $sealingChildrenDatePlace .= ", "; }
+        $sealingChildrenDatePlace .= "$indiv_slgc_plac{$indiv_id}";
+        $printComma = 1;
+      }
+      if ($indiv_slgc_temp{$indiv_id}) {
+        if ($printComma) { $sealingChildrenDatePlace .= ", "; }
+        $sealingChildrenDatePlace .= "$indiv_slgc_temp{$indiv_id}";
+      }
+      $sealingChildrenDatePlace .= "<br/>";
+  }
+  return $sealingChildrenDatePlace;
+}
+
 #############################################
 # Return the ancestor table
 sub tableAncestors {
@@ -1444,6 +1452,7 @@ sub tableAncestors {
     $tableAncestors .= &burialDatePlace;
     $tableAncestors .= &baptismDatePlace;
     $tableAncestors .= &endowmentDatePlace;
+    $tableAncestors .= &sealingChildrenDatePlace;
     $tableAncestors .= "</td>\n";
     $tableAncestors .= "</tr>\n";
 
