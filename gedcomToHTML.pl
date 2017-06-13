@@ -747,42 +747,8 @@ foreach $indiv_id (keys %indivs) {
         print OUT_FILE "<a href=\"$indiv_sour{$indiv_id}.$extension\">$str_source</a><br/><br/>\n";
     }
 
-    # BAPL date and place
-    if ($indiv_bapl{$indiv_id}) {
-        print OUT_FILE "$str_baptism ";
-        if ($indiv_bapl_date{$indiv_id}) {
-            print OUT_FILE "$indiv_bapl_date{$indiv_id}";
-            if ($indiv_bapl_plac{$indiv_id} || $indiv_bapl_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_bapl_plac{$indiv_id}) {
-            print OUT_FILE "$indiv_bapl_plac{$indiv_id}";
-            if ($indiv_bapl_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_bapl_temp{$indiv_id}) {
-            print OUT_FILE "$indiv_bapl_temp{$indiv_id}";
-        }
-        print OUT_FILE "<br/>\n";
-    }
-    # ENDL date and place
-    if ($indiv_endl{$indiv_id}) {
-        print OUT_FILE "$str_endowment ";
-        if ($indiv_endl_date{$indiv_id}) {
-            print OUT_FILE "$indiv_endl_date{$indiv_id}";
-            if ($indiv_endl_plac{$indiv_id} || $indiv_endl_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_endl_plac{$indiv_id}) {
-            print OUT_FILE "$indiv_endl_plac{$indiv_id}";
-            if ($indiv_endl_temp{$indiv_id})
-                {print OUT_FILE ", ";}
-        }
-        if ($indiv_endl_temp{$indiv_id}) {
-            print OUT_FILE "$indiv_endl_temp{$indiv_id}";
-        }
-        print OUT_FILE "<br/>\n";
-    }
+
+
     # SLGC date and place
     if ($indiv_slgc{$indiv_id}) {
         print OUT_FILE "$str_sealing_children ";
@@ -1386,6 +1352,54 @@ sub burialDatePlace {
   return $burialDatePlace;
 }
 
+sub baptismDatePlace {
+  my $baptismDatePlace = "";
+  $printComma = 0;
+
+  if ($indiv_bapl{$indiv_id}) {
+        $baptismDatePlace .= lc("$str_baptism ");
+
+        if ($indiv_bapl_date{$indiv_id}) {
+            $baptismDatePlace .=  "$indiv_bapl_date{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($indiv_bapl_plac{$indiv_id}) {
+          if ($printComma) { $baptismDatePlace .= ", "; }
+          $baptismDatePlace .= "$indiv_bapl_plac{$indiv_id}";
+          $printComma = 1;
+        }
+        if ($indiv_bapl_temp{$indiv_id}) {
+          if ($printComma) { $baptismDatePlace .= ", "; }
+          $baptismDatePlace .= "$indiv_bapl_temp{$indiv_id}";
+        }
+        $baptismDatePlace .= "<br>";
+    }
+    return $baptismDatePlace;
+}
+
+sub endowmentDatePlace {
+  my $endowmentDatePlace = "";
+  $printComma = 0;
+
+  if ($indiv_endl{$indiv_id}) {
+      $endowmentDatePlace .= lc("$str_endowment ");
+      if ($indiv_endl_date{$indiv_id}) {
+          $endowmentDatePlace .= "$indiv_endl_date{$indiv_id}";
+          $printComma = 1;
+      }
+      if ($indiv_endl_plac{$indiv_id}) {
+          if ($printComma) { $endowmentDatePlace .= ", "; }
+          $endowmentDatePlace .= "$indiv_endl_plac{$indiv_id}";
+          $printComma = 1;
+      }
+      if ($indiv_endl_temp{$indiv_id}) {
+          $endowmentDatePlace .= "$indiv_endl_temp{$indiv_id}";
+      }
+      $endowmentDatePlace .= "<br/>";
+  }
+  return $endowmentDatePlace;
+}
+
 #############################################
 # Return the ancestor table
 sub tableAncestors {
@@ -1428,6 +1442,8 @@ sub tableAncestors {
     $tableAncestors .= &christening;
     $tableAncestors .= &deathDatePlace;
     $tableAncestors .= &burialDatePlace;
+    $tableAncestors .= &baptismDatePlace;
+    $tableAncestors .= &endowmentDatePlace;
     $tableAncestors .= "</td>\n";
     $tableAncestors .= "</tr>\n";
 
