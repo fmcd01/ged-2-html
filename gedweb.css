@@ -1,0 +1,16 @@
+table {
+    font-size: medium;
+    text-align: center;
+    border: 0px solid black;
+}
+
+#data { 
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica;
+    font-size: x-small;
+}
+
+#header { 
+    text-align: center;
+    font-size: large;
+}

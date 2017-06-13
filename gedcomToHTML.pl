@@ -6,8 +6,8 @@ $version = "1.5.6"; # version number
 
 # Copyright (c) Dan Pidcock, 1997-2007.
 
-# This program is freely distributable without licensing fees 
-# and is provided without guarantee or warrantee expressed or 
+# This program is freely distributable without licensing fees
+# and is provided without guarantee or warrantee expressed or
 # implied. This program is NOT in the public domain.
 
 # translate gedcom files to html
@@ -39,13 +39,13 @@ $prefsFile = "gedcomToHTML.prefs";
 # The strings that are printed into files - change for different
 # languages
 
-$str_birth="Birth:";
-$str_chr="Christened:";
+$str_birth="Born";
+$str_chr="Christened";
 $str_baptism="LDS Baptism:";
 $str_endowment="LDS Endowment:";
 $str_sealing_children="LDS Sealing to Children:";
 $str_sealing_spouse="LDS Sealing to Spouse:";
-$str_death="Death:";
+$str_death="Died";
 $str_burial="Burial:";
 $str_occupation="Occupation:";
 $str_private="(Private)";
@@ -80,8 +80,8 @@ $ignoreSurnameSort = " '";
 
 # Leave the rest alone unless you know what's happenin'
 
-$in = 0; # What is being read.  
-            # 0=nothing, 1=header, 2=family record, 
+$in = 0; # What is being read.
+            # 0=nothing, 1=header, 2=family record,
             # 3=individual record, 4=note record.
             # 5=source record.
 $in1 = 0; # What is at level 1 at the mo.
@@ -136,7 +136,7 @@ if (open(IN_FILE, "<$prefsFile")) {
                             elsif ($1 eq "add_titles") {
                                 $add_titles = $2; }
                             elsif ($1 eq "group_letters") {
-                                $group_letters = $2;  }                         
+                                $group_letters = $2;  }
                             elsif ($1 eq "check_images") {
                                 $check_images = $2;  }
                             elsif ($1 eq "extension") {
@@ -173,7 +173,7 @@ if (!-e $out_dir) {
 }
 
 #################################################################
-# Read the gedcom file in and created the individual and family 
+# Read the gedcom file in and created the individual and family
 # data structures.
 print "Reading information\n";
 $| = 1; # flushing for progress report.
@@ -280,14 +280,14 @@ while (<>) {
                 $temp_surname = $2;
                 $temp_surname =~s/\s$//;
                 $indiv_surname{$indiv_id} = $temp_surname;
-                $indiv_forname{$indiv_id} = $1." ".$3;          
+                $indiv_forname{$indiv_id} = $1." ".$3;
                 $_ = $name;
                 s/\// <i>/;
                 s/\//<\/i>/;
                 $indiv_name{$indiv_id} = $_;
                 $_ = $name;
                 s/\// /g;
-                $indiv_name_unformatted{$indiv_id} = $_;                
+                $indiv_name_unformatted{$indiv_id} = $_;
             }
             elsif ($rol =~ /SEX\s(.)/) {
                 $indiv_sex{$indiv_id} = $1;
@@ -343,7 +343,7 @@ while (<>) {
                     $indiv_fams{$indiv_id} = $indiv_fams{$indiv_id}."@".$1;
                 }
                 else {
-                    $indiv_fams{$indiv_id} = $1;                    
+                    $indiv_fams{$indiv_id} = $1;
                 }
                 $num_fams++;
             }
@@ -408,10 +408,10 @@ while (<>) {
                 $in1 = 602;
             }
             elsif ($in1 == 1) { # TEXT in source
-                if ($rol =~ /CONC\s?(.*)/) {          
+                if ($rol =~ /CONC\s?(.*)/) {
                     $repo_addr{$repo_id} = $repo_addr{$repo_id}." $1";
                 }
-                elsif ($rol =~ /CONT\s?(.*)/) {          
+                elsif ($rol =~ /CONT\s?(.*)/) {
                     $repo_addr{$repo_id} = $repo_addr{$repo_id}."<br/>\n$1";
                 }
             }
@@ -458,7 +458,7 @@ while (<>) {
             }
         }
         elsif ($in1 == 4) { # NOTE in individual
-            if ($rol =~ /CONC\s?(.*)/) {          
+            if ($rol =~ /CONC\s?(.*)/) {
                 $indiv_note{$indiv_id} = $indiv_note{$indiv_id}." $1";
             }
             elsif ($rol =~ /CONT\s?(.*)/) {
@@ -580,7 +580,7 @@ while (<>) {
             }
         }
        elsif ($in1 == 60) { # NOTE in source
-            if ($rol =~ /CONC\s?(.*)/) {          
+            if ($rol =~ /CONC\s?(.*)/) {
                 $sour_note{$sour_id} = $sour_note{$sour_id}." $1";
             }
             elsif ($rol =~ /CONT\s?(.*)/) {
@@ -588,7 +588,7 @@ while (<>) {
             }
         }
         elsif ($in1 == 61) { # TEXT in source
-            if ($rol =~ /CONC\s?(.*)/) {          
+            if ($rol =~ /CONC\s?(.*)/) {
                 $sour_text{$sour_id} = $sour_text{$sour_id}." $1";
             }
             elsif ($rol =~ /CONT\s?(.*)/) {
@@ -596,18 +596,18 @@ while (<>) {
             }
         }
         elsif ($in1 == 601) { # TEXT in source
-            if ($rol =~ /CONC\s?(.*)/) {          
+            if ($rol =~ /CONC\s?(.*)/) {
                 $repo_addr{$repo_id} = $repo_addr{$repo_id}." $1";
             }
-            elsif ($rol =~ /CONT\s?(.*)/) {          
+            elsif ($rol =~ /CONT\s?(.*)/) {
                 $repo_addr{$repo_id} = $repo_addr{$repo_id}."<br />\n$1";
             }
         }
         elsif ($in1 == 602) { # TEXT in source
-            if ($rol =~ /CONC\s?(.*)/) {          
+            if ($rol =~ /CONC\s?(.*)/) {
                 $repo_note{$repo_id} = $repo_note{$repo_id}." $1";
             }
-            elsif ($rol =~ /CONT\s?(.*)/) {          
+            elsif ($rol =~ /CONT\s?(.*)/) {
                 $repo_note{$repo_id} = $repo_note{$repo_id}."<br />\n$1";
             }
         }
@@ -618,7 +618,7 @@ while (<>) {
 # Link note data to individual records
 foreach $note_id (keys %note) {
     $indiv_note{$note_indiv_link{$note_id}} = $indiv_note{$note_indiv_link{$note_id}}.$indiv_note{$note_id};
-}    
+}
 
 #################################################################
 # Set up the HTML for the top and bottom of individual's files
@@ -631,7 +631,7 @@ if (open(IN_FILE, "tpl_ind_top.html")) {
 }
 else { # use defaults
     $html_ind_top[0] = "<body>\n";
-    $html_ind_top[1] = "<h1>#ind_name</h1>\n";    
+    $html_ind_top[1] = "<h1>#ind_name</h1>\n";
     print "Cannot find tpl_ind_top.html file, using defaults\n";
 }
 close(IN_FILE);
@@ -645,7 +645,7 @@ if (open(IN_FILE, "tpl_ind_bot.html")) {
 }
 else { # use defaults
     $html_ind_bot[0] = "<hr width=50%>\n";
-    $html_ind_bot[1] = "<br/><a href=\"people.$extension\">$str_lpeople</a> ";    
+    $html_ind_bot[1] = "<br/><a href=\"people.$extension\">$str_lpeople</a> ";
     $html_ind_bot[2] = "| <a href=\"surnames.$extension\">$str_lsurnames</a><p/>\n";
 }
 close(IN_FILE);
@@ -659,12 +659,12 @@ foreach $indiv_id (keys %indivs) {
     $ind_cnt++;
     if ((($ind_cnt % $updateStatus) == 0)) {
         print "$ind_cnt\r"; }
-    
+
     # open an output file
     unless (open(OUT_FILE, ">$out_dir/$indiv_id.$extension")) {
         die "\nCouldn't open output file $out_dir/$indiv_id.$extension\n";
     }
-    
+
     # Split the list of spouse families into @fams.
     # Need to clear the array for some versions of perl.
     @fams = ();
@@ -706,7 +706,7 @@ foreach $indiv_id (keys %indivs) {
             &make_birt_private($indiv_id);
         }
     }
-        
+
     # Check if there is a photo for the individual
     # Thanks to Bob Minteer for the code this is based on
     if ($check_images) {
@@ -721,7 +721,10 @@ foreach $indiv_id (keys %indivs) {
         }
     }
 
-    print OUT_FILE "<html><head><title>$indiv_name_unformatted{$indiv_id} ($indiv_birt_date{$indiv_id} - $indiv_deat_date{$indiv_id})</title></head>\n\n";
+    print OUT_FILE "<html><head>";
+    print OUT_FILE "<title>$indiv_name_unformatted{$indiv_id} ($indiv_birt_date{$indiv_id} - $indiv_deat_date{$indiv_id})</title>\n";
+    print OUT_FILE "<link rel=\"stylesheet\" type=\"text/css\" href=\"../gedweb.css\">\n";
+    print OUT_FILE "</head>\n\n";
     # print HTML at top of page
     $html_ind_top_l = @html_ind_top;
     for ($i = 0; $i < $html_ind_top_l; $i++) {
@@ -742,73 +745,6 @@ foreach $indiv_id (keys %indivs) {
     if ($print_sources && $indiv_sour{$indiv_id})
     {
         print OUT_FILE "<a href=\"$indiv_sour{$indiv_id}.$extension\">$str_source</a><br/><br/>\n";
-    }
-
-    # birth date and place
-    if ($indiv_birt{$indiv_id}) {
-        $printComma = 0;
-        print OUT_FILE "$str_birth ";
-
-        if ($indiv_birt_date{$indiv_id}) {
-            print OUT_FILE "$indiv_birt_date{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($indiv_birt_plac{$indiv_id}) {
-            if ($printComma)
-              {print OUT_FILE ", ";}
-            print OUT_FILE "$indiv_birt_plac{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($print_sources && $indiv_birt_sour{$indiv_id}) {
-            if ($printComma)
-                {print OUT_FILE "  ";}
-            print OUT_FILE "<a href=\"$indiv_birt_sour{$indiv_id}.$extension\">$str_source</a>";    
-        }
-        print OUT_FILE "<br/>\n";
-    }
-
-    # Christening
-    if ($indiv_chr{$indiv_id}) {
-        $printComma = 0;
-        print OUT_FILE "$str_chr ";
-        if ($indiv_chr_date{$indiv_id}) {
-            print OUT_FILE "$indiv_chr_date{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($indiv_chr_plac{$indiv_id}) {
-            if ($printComma)
-              {print OUT_FILE ", ";}
-            print OUT_FILE "$indiv_chr_plac{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($print_sources && $indiv_chr_sour{$indiv_id}) {
-            if ($printComma)
-                {print OUT_FILE "  ";}
-            print OUT_FILE "<a href=\"$indiv_chr_sour{$indiv_id}.$extension\">$str_source</a>";
-        }
-        print OUT_FILE "<br/>\n";
-    }
-
-    # death date and place
-    if ($indiv_deat{$indiv_id}) {
-        $printComma = 0;
-        print OUT_FILE "$str_death ";
-        if ($indiv_deat_date{$indiv_id}) {
-            print OUT_FILE "$indiv_deat_date{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($indiv_deat_plac{$indiv_id}) {
-            if ($printComma)
-              {print OUT_FILE ", ";}
-            print OUT_FILE "$indiv_deat_plac{$indiv_id}";
-            $printComma = 1;
-        }
-        if ($print_sources && $indiv_deat_sour{$indiv_id}) {
-            if ($printComma)
-              {print OUT_FILE "  ";}
-            print OUT_FILE "<a href=\"$indiv_deat_sour{$indiv_id}.$extension\">$str_source</a>";    
-        }
-        print OUT_FILE "<br/>\n";
     }
 
     # burial date and place
@@ -897,13 +833,13 @@ foreach $indiv_id (keys %indivs) {
         print OUT_FILE "<br/>\n";
     }
     print OUT_FILE "<p/>\n";
-    
+
     # occupation
     if ($indiv_occu{$indiv_id}) {
         print OUT_FILE "$str_occupation $indiv_occu{$indiv_id}<p/>\n";
     }
     print OUT_FILE "<p>\n";
-    
+
     # print marriage info if more than just spouse name is known
     if (!$print_family) {
         &print_marriages;
@@ -913,14 +849,14 @@ foreach $indiv_id (keys %indivs) {
         &get_parent_data;
         &get_child_data;
     }
-   
+
     # If $family_table then print the ancestors chart (needs $father,
     # $mother, $pgfather etc., $famc.
     if ($family_table) {
         &get_gparent_data;
-        
+
         # family chart
-        print OUT_FILE "<p>\n<table border=1 cellspacing=0 cellpadding=0>\n";
+        print OUT_FILE "<p>\n<table cellspacing=0 cellpadding=0>\n";
         if (($father ne "") || ($mother ne "")) {
             print OUT_FILE &tableAncestors();
         } # end if has a parent
@@ -937,28 +873,27 @@ foreach $indiv_id (keys %indivs) {
         print OUT_FILE "</table>\n<p>\n";
 
     } # end if family_table
-    
+
     # If $print_family then print parents, marriage(s), children.
     # Uses $father, $mother, @child, $famc, $fams.
-    
+
     if ($print_family) {
-    
+
         # parents
         if ($father ne "") {
-            print OUT_FILE "$str_father <a href=\"$father_id.$extension\">$father</a><br/>\n"; 
+            print OUT_FILE "$str_father <a href=\"$father_id.$extension\">$father</a><br/>\n";
         }
         if ($mother ne "") {
-            print OUT_FILE "$str_mother <a href=\"$mother_id.$extension\">$mother</a><p>\n"; 
-        }    
+            print OUT_FILE "$str_mother <a href=\"$mother_id.$extension\">$mother</a><p>\n";
+        }
         print OUT_FILE "<p/>\n";
-        
+
         # spouse, marriage date and place and children
         &print_marriages(1);
-        
+
     } # end if print_family
-    
     print OUT_FILE "<p/>\n";
-    
+
     # notes
     if ($print_notes && $indiv_note{$indiv_id}) {
         print OUT_FILE "$str_notes $indiv_note{$indiv_id}\n";
@@ -980,7 +915,7 @@ if ($print_sources)
         unless (open(OUT_FILE, ">$out_dir/$sour_id.$extension")) {
             die "\nCouldn't open output file $out_dir/$sour_id.$extension\n";
         }
-        
+
         print OUT_FILE "<html><head><title>$str_source $sour_id</title></head>\n\n<body>\n";
         if ($sour_titl{$sour_id}) {
             print OUT_FILE "$str_title $sour_titl{$sour_id}<br/>\n";
@@ -1009,7 +944,7 @@ if ($print_sources)
         if ($sour_text{$sour_id}) {
             print OUT_FILE "<p>$str_text<br/>\n$sour_text{$sour_id}<br/>\n";
         }
-        
+
         print OUT_FILE "<p>\n</body></html>";
 
         close(OUT_FILE);
@@ -1074,7 +1009,7 @@ else {
             foreach $indiv_id (sort by_surname keys %indivs) {
                 # is the surname different to the previous individual's surname?
                 $ns_this = (($indiv_surname{$indiv_id} ne $old_surname) && ($indiv_surname{$indiv_id} ne ""));
-                if ($ns_this) 
+                if ($ns_this)
                     {$old_surname = $indiv_surname{$indiv_id};}
                 # for every line in out_fmt
                 for ($i = 0; $i < $len; $i++) {
@@ -1158,7 +1093,7 @@ else { # use the default layout
     print OUT_FILE "$str_list_of $num_indivs $str_people_and $num_families $str_unique_names<p>\n";
     $out_fmt[0] = "<a href=\"people.$extension##ind_surname\">#ind_surname</a>\n";
     &printSurnames(@out_fmt);
-    
+
     print OUT_FILE "<p/><hr width=50%>\n";
     print OUT_FILE "<br/><a href=\"people.$extension\">$str_lpeople</a><p/>\n";
     &print_footer;
@@ -1170,7 +1105,7 @@ close(OUT_FILE);
 if ($make_stats)
 {
     print "Creating Stats File\n";
-    unless (open(OUT_FILE, ">$out_dir/stats.html")) 
+    unless (open(OUT_FILE, ">$out_dir/stats.html"))
     {
         die "Couldn't open output file $out_dir/stats.html\n";
     }
@@ -1194,7 +1129,7 @@ if ($make_stats)
 }
 
 #############################################
-# sort by surname 
+# sort by surname
 sub by_surname {
     $lca = lc($indiv_surname{$a});
     $lcb = lc($indiv_surname{$b});
@@ -1258,7 +1193,7 @@ sub print_marriages {
         }
         if ($print_sources && $fam_marr_sour{$fam_id})
         {
-            print OUT_FILE "  <a href=\"$fam_marr_sour{$fam_id}.$extension\">$str_source</a>";    
+            print OUT_FILE "  <a href=\"$fam_marr_sour{$fam_id}.$extension\">$str_source</a>";
         }
         if ($fam_div{$fams[$fams_num]}) {
 	    print OUT_FILE ", $str_divorced";
@@ -1271,7 +1206,7 @@ sub print_marriages {
         }
         if ($print_sources && $fam_div_sour{$fam_id})
         {
-            print OUT_FILE "  <a href=\"$fam_div_sour{$fam_id}.$extension\">$str_source</a>";    
+            print OUT_FILE "  <a href=\"$fam_div_sour{$fam_id}.$extension\">$str_source</a>";
         }
         print OUT_FILE "\n";
         if ($long) {
@@ -1368,18 +1303,96 @@ sub lc {
     tr/A-Z/a-z/;
 }
 
+
+sub birthDateAndPlace {
+    my $birthDateAndPlace = "";
+    $printComma = 0;
+
+    if ($indiv_birt{$indiv_id}) {
+        $birthDateAndPlace .= lc("$str_birth ");
+
+        if ($indiv_birt_date{$indiv_id}) {
+            $birthDateAndPlace .= $indiv_birt_date{$indiv_id};
+            $printComma = 1;
+        }
+        if ($indiv_birt_plac{$indiv_id}) {
+            if ($printComma) { $birthDateAndPlace .= ", "; }
+            $birthDateAndPlace .= "$indiv_birt_plac{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($print_sources && $indiv_birt_sour{$indiv_id}) {
+            if ($printComma) { $birthDateAndPlace .= " "; }
+            $birthDateAndPlace .= "<a href=\"$indiv_birt_sour{$indiv_id}.$extension\">($str_source)</a>";
+        }
+        $birthDateAndPlace .= "<br>";
+    }
+
+    return $birthDateAndPlace;
+}
+
+sub christening {
+    my $christening = '';
+    $printComma = 0;
+
+    if ($indiv_chr{$indiv_id}) {
+        $christening .= lc("$str_chr ");
+
+        if ($indiv_chr_date{$indiv_id}) {
+            $christening .= "$indiv_chr_date{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($indiv_chr_plac{$indiv_id}) {
+            if ($printComma) { $christening .= ", "; }
+            $christening .= "$indiv_chr_plac{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($print_sources && $indiv_chr_sour{$indiv_id}) {
+            if ($printComma) { $christening .= " "; }
+            $christening .= "<a href=\"$indiv_chr_sour{$indiv_id}.$extension\">($str_source)</a>";
+        }
+        $christening .= "<br>";
+    }
+    return $christening;
+}
+
+sub deathDatePlace {
+    my $deathDatePlace = "";
+    $printComma = 0;
+
+    if ($indiv_deat{$indiv_id}) {
+        $deathDatePlace .= lc("$str_death ");
+
+        if ($indiv_deat_date{$indiv_id}) {
+            $deathDatePlace .= "$indiv_deat_date{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($indiv_deat_plac{$indiv_id}) {
+            if ($printComma) { $deathDatePlace .= ", "; }
+            $deathDatePlace .= "$indiv_deat_plac{$indiv_id}";
+            $printComma = 1;
+        }
+        if ($print_sources && $indiv_deat_sour{$indiv_id}) {
+            if ($printComma) { $deathDatePlace .= ", "; }
+            $deathDatePlace .= "<a href=\"$indiv_deat_sour{$indiv_id}.$extension\">($str_source)</a>";
+        }
+        $deathDatePlace .= "<br>";
+    }
+
+    return $deathDatePlace;
+}
+
 #############################################
 # Return the ancestor table
 sub tableAncestors {
     my $tableAncestors = "";
-    
+
     # Ancestors
-    $tableAncestors .= "<tr><td align=center>\n<table border=0>\n"; # begin the ancestors table
+    $tableAncestors .= "<tr><td>\n<table>\n"; # begin the ancestors table
     $tableAncestors .= "<tr>\n";
-    $tableAncestors .= "<td width=150 align=center><a href=\"$pgfather_id.$extension\">$pgfather</a></td>\n";
-    $tableAncestors .= "<td width=150 align=center><a href=\"$pgmother_id.$extension\">$pgmother</a></td>\n";
-    $tableAncestors .= "<td width=150 align=center><a href=\"$mgfather_id.$extension\">$mgfather</a></td>\n";
-    $tableAncestors .= "<td width=150 align=center><a href=\"$mgmother_id.$extension\">$mgmother</a></td>\n";
+    $tableAncestors .= "<td width=150><a href=\"$pgfather_id.$extension\">$pgfather</a></td>\n";
+    $tableAncestors .= "<td width=150><a href=\"$pgmother_id.$extension\">$pgmother</a></td>\n";
+    $tableAncestors .= "<td width=150><a href=\"$mgfather_id.$extension\">$mgfather</a></td>\n";
+    $tableAncestors .= "<td width=150><a href=\"$mgmother_id.$extension\">$mgmother</a></td>\n";
     $tableAncestors .= "</tr>\n<tr>\n";
     if (($pgfather ne "") || ($pgmother ne ""))
         {$tableAncestors .= "<td colspan=2><img src=\"$treepic_path/tree300.gif\" width=\"300\" height=\"30\"></td>\n";}
@@ -1391,19 +1404,29 @@ sub tableAncestors {
         {$tableAncestors .= "<td colspan=2></td>\n";}
     $tableAncestors .= "</tr>\n";
     $tableAncestors .= "<tr>\n";
-    $tableAncestors .= "<td colspan=2 align=center><a href=\"$father_id.$extension\">$father</a></td>\n";
-    $tableAncestors .= "<td colspan=2 align=center><a href=\"$mother_id.$extension\">$mother</a></td>\n";
+    $tableAncestors .= "<td colspan=2><a href=\"$father_id.$extension\">$father</a></td>\n";
+    $tableAncestors .= "<td colspan=2><a href=\"$mother_id.$extension\">$mother</a></td>\n";
     $tableAncestors .= "</tr>\n";
     $tableAncestors .= "<tr>\n";
-    if (($father ne "") || ($mother ne "")) 
+    if (($father ne "") || ($mother ne ""))
         {$tableAncestors .= "<td colspan=4><img src=\"$treepic_path/tree600.gif\" width=\"600\" height=\"30\"></td>\n";}
     else
         {$tableAncestors .= "<td colspan=4></td>\n";}
     $tableAncestors .= "<tr>\n";
-    $tableAncestors .= "<th colspan=4 align=center>$indiv_name{$indiv_id}</th>\n";
+    $tableAncestors .= "<th id=\"header\" colspan=4>$indiv_name{$indiv_id}</th>\n";
     $tableAncestors .= "</tr>\n";
+
+    #FMCD Transferring individual data to here
+    $tableAncestors .= "<tr>\n";
+    $tableAncestors .= "<td colspan=4 id=\"data\">";
+    $tableAncestors .= &birthDateAndPlace;
+    $tableAncestors .= &christening;
+    $tableAncestors .= &deathDatePlace;
+    $tableAncestors .= "</td>\n";
+    $tableAncestors .= "</tr>\n";
+
     $tableAncestors .= "</table>\n</tr>\n</p>\n"; # end the ancestors table
-    
+
     return $tableAncestors;
 }
 
@@ -1413,7 +1436,7 @@ sub tableSpouseChildren {
     my $tableSpouseChildren = "";
 
     if ($num_children > 0) {
-        $tableSpouseChildren .= "\n<tr><td align=center>\n<table border=0 cellspacing=0 cellpadding=0>\n"; # begin the spouse table
+        $tableSpouseChildren .= "\n<tr><td>\n<table cellspacing=0 cellpadding=0>\n"; # begin the spouse table
         $tableSpouseChildren .= "<tr>\n";
         if ($num_children > 8) {
             $cwidth=9;
@@ -1421,13 +1444,19 @@ sub tableSpouseChildren {
         else {
             $cwidth = $num_children;
         }
-        $tableSpouseChildren .= "<td colspan=$cwidth align=center>";
+        $tableSpouseChildren .= "<td colspan=$cwidth id=\"header\">";
         $tableSpouseChildren .= $str_m;
         if ($fams_len > 1) {
             $i = $fams_num+1;
             $tableSpouseChildren .= "($i) ";
         }
-        $tableSpouseChildren .= "<a href=\"$spouse_id.$extension\">$spouse</a></td></tr>\n";
+        $tableSpouseChildren .= "<a href=\"$spouse_id.$extension\">$spouse</a></td>";
+
+        $tableSpouseChildren .= "<tr><td colspan=$cwidth id=\"data\">";
+        $tableSpouseChildren .= "placeholder text";
+        $tableSpouseChildren .= "</td></tr>";
+
+        $tableSpouseChildren .= "</tr>\n";
         # the children
         $start_child = 0;
         # If there are more than 9 children then use a multi line display
@@ -1437,13 +1466,13 @@ sub tableSpouseChildren {
             # print the first 8 children
             $tableSpouseChildren .= "<tr>";
             for ($i = $start_child; $i < $start_child+4; $i++) {
-                $tableSpouseChildren .= "<td align=center width=67>";
+                $tableSpouseChildren .= "<td  width=67>";
                 $tableSpouseChildren .= "<img src=\"$treepic_path/dot-trans.gif\" width=67 height=1><br/>";
                 $tableSpouseChildren .= "<a href=\"$child[$i].$extension\"><font size=-1>$indiv_name{$child[$i]}</font></a></td>\n";
             }
-            $tableSpouseChildren .= "<td align=center width=65><img src=\"$treepic_path/tree_l.gif\" width=65 height=60></td>\n";
+            $tableSpouseChildren .= "<td  width=65><img src=\"$treepic_path/tree_l.gif\" width=65 height=60></td>\n";
             for ($i = $start_child+4; $i < $start_child+8; $i++) {
-                $tableSpouseChildren .= "<td align=center width=67>";
+                $tableSpouseChildren .= "<td  width=67>";
                 $tableSpouseChildren .= "<img src=\"$treepic_path/dot-trans.gif\" width=67 height=1><br/>";
                 $tableSpouseChildren .= "<a href=\"$child[$i].$extension\"><font size=-1>$indiv_name{$child[$i]}</font></a></td>\n";
             }
@@ -1452,14 +1481,14 @@ sub tableSpouseChildren {
         }
         # print the rest of the children
         $num_left = $num_children-$start_child;
-        $tableSpouseChildren .= "<tr><td align=center colspan=9>\n";
+        $tableSpouseChildren .= "<tr><td  colspan=9>\n";
         # The rest of the children must go into a table as the number of columns will not necessarily be 9 or a divider of 9
-        $tableSpouseChildren .= "<table border=0 cellspacing=0 cellpadding=0>"; # begin the children table
+        $tableSpouseChildren .= "<table cellspacing=0 cellpadding=0>"; # begin the children table
         $tableSpouseChildren .= "<tr><td colspan=$num_left><img src=\"$treepic_path/tree_c$num_left.gif\" width=600 height=30></td></tr>\n";
         $cell_width = int(600/$num_left);
         $tableSpouseChildren .= "<tr>";
         for ($i = $start_child; $i < $num_children; $i++) {
-            $tableSpouseChildren .= "<td align=center width=$cell_width>";
+            $tableSpouseChildren .= "<td  width=$cell_width>";
             $tableSpouseChildren .= "<img src=\"$treepic_path/dot-trans.gif\" width=$cell_width height=1><br/>";
             $tableSpouseChildren .= "<a href=\"$child[$i].$extension\"><font size=-1>$indiv_name{$child[$i]}</font></a></td>\n";
         }
@@ -1469,13 +1498,13 @@ sub tableSpouseChildren {
     } # end if has children
     else { #no children so just put marriage for consistency
         $tableSpouseChildren .= "<tr>\n";
-        $tableSpouseChildren .= "<td align=center>";
+        $tableSpouseChildren .= "<td >";
         $tableSpouseChildren .= $str_m;
         if ($fams_len > 1) {
             $i = $fams_num+1;
             $tableSpouseChildren .= "($i) ";
         }
-        $tableSpouseChildren .= "<a href=\"$spouse_id.$extension\">$spouse</a><p></td></tr>\n";   
+        $tableSpouseChildren .= "<a href=\"$spouse_id.$extension\">$spouse</a><p></td></tr>\n";
     }
 
     return $tableSpouseChildren;
@@ -1491,12 +1520,12 @@ sub printSurnames {
     }
     my $old_surname="-o-o-"; # so that empty surnames show up
     my $cur_letter = 'a';
-    foreach $indiv_id (sort by_surname keys %indiv_surname) 
+    foreach $indiv_id (sort by_surname keys %indiv_surname)
     {
         my $new_surname = lc($indiv_surname{$indiv_id});
-        if ($new_surname ne $old_surname) 
+        if ($new_surname ne $old_surname)
         {
-            if (lc(substr($indiv_surname{$indiv_id},$[,1)) ne $cur_letter) 
+            if (lc(substr($indiv_surname{$indiv_id},$[,1)) ne $cur_letter)
             {
                 $cur_letter = lc(substr($indiv_surname{$indiv_id},$[,1));
                 if ($group_letters)
@@ -1513,7 +1542,7 @@ sub printSurnames {
                     print OUT_FILE "<br/>";
                 }
             }
-            for (my $i = 0; $i < $len; $i++) 
+            for (my $i = 0; $i < $len; $i++)
             {
                 my $line = $out_fmt[$i];
                 $line =~ s/#ind_surname/$indiv_surname{$indiv_id}/gei;
